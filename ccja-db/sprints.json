@@ -1,0 +1,100 @@
+{
+  "sprints": [
+      {
+        "id": 1,
+        "sprintnbr": 1,
+        "sprinttitle": "Sample Challenge - Angular Project",
+        "sprintgoals": ["All good"],
+        "sprintreview": ["Completed as expected", "Everything good"],
+        "days": [
+          {
+            "id": 101,
+            "sprintDay": 1,
+            "challengeDay": 1,
+            "date": "20200701",
+            "dayNotes": [
+              "First day, here we go",
+              "Add second comment"
+            ]
+          },
+          {
+            "id": 102,
+            "sprintDay": 2,
+            "challengeDay": 2,
+            "date": "20200702",
+            "dayNotes": [
+              "Day two - still going strong",
+              "Continuing momentum"
+            ]
+          },
+          {
+            "id": 103,
+            "sprintDay": 3,
+            "challengeDay": 3,
+            "date": "20200703",
+            "dayNotes": [
+              "Day three - still going strong",
+              "Continuing momentum"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "sprintnbr": 2,
+        "sprinttitle": "Sample Challenge - React Project",
+        "sprintgoals": ["Continue Progress"],
+        "sprintreview": ["Sprint 2 was better than Sprint 1", "Everything good"],
+        "days": [
+          {
+            "id": 201,
+            "sprintDay": 11,
+            "challengeDay": 1,
+            "date": "20200711",
+            "dayNotes": [
+              "First day of Sprint 2 - things going well",
+              "what are the requirements?"
+            ]
+          },
+          {
+            "id": 202,
+            "sprintDay": 12,
+            "challengeDay": 2,
+            "date": "20200712",
+            "dayNotes": [
+              "Day 2, Sprint 2 - things going well",
+              "what are the requirements?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "sprintnbr": 3,
+        "sprinttitle": "Sample Challenge - AWS Serverless Functions",
+        "sprintgoals": ["Something new and exciting"],
+        "days": [
+          {
+            "id": 301,
+            "sprintDay": 21,
+            "challengeDay": 1,
+            "date": "20200721",
+            "dayNotes": [
+              "First day of Sprint 3 - things going well",
+              "what are the requirements?"
+            ]
+          },
+          {
+            "id": 302,
+            "sprintDay": 22,
+            "challengeDay": 2,
+            "date": "20200722",
+            "dayNotes": [
+              "Day 2, Sprint 3 - things going well",
+              "what are the requirements?"
+            ]
+          }
+        ]
+      }
+  ]
+}
