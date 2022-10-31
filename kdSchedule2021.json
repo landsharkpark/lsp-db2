@@ -1,0 +1,889 @@
+[
+    {
+      "id": 1,
+	    "kdyear": "2021",
+      "racename": "Iroquois",
+      "date": "20200905",
+      "track": "Churchill Downs",
+      "dist": "1 1/16 Miles",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Sittin On Go",
+          "ptodds": "24.00"
+        },
+        {
+          "finish": 2,
+          "name": "Midnight Bourbon",
+          "ptodds": "5.20"
+        },
+        {
+          "finish": 3,
+          "name": "Super Stock",
+          "ptodds": "8.30"
+        },
+        {
+          "finish": 4,
+          "name": "Therideofalifetime",
+          "ptodds": "0.90*"
+        }
+      ]
+    },
+    {
+      "id": 2,
+	    "kdyear": "2021",
+      "racename": "American Pharoah",
+      "date": "20200926",
+      "track": "Santa Anita Park",
+      "dist": "1 1/16 Miles",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Get Her Number",
+          "ptodds": "8.10"
+        },
+        {
+          "finish": 2,
+          "name": "Rombauer",
+          "ptodds": "11.70"
+        },
+        {
+          "finish": 3,
+          "name": "Spielberg",
+          "ptodds": "1.10*"
+        },
+        {
+          "finish": 4,
+          "name": "Waspirant",
+          "ptodds": "6.40"
+        }
+      ]
+    },
+    {
+      "id": 3,
+  	  "kdyear": "2021",
+      "racename": "Breeders' Futurity",
+      "date": "20201003",
+      "track": "Keenelad",
+      "dist": "1 1/16 Miles",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Essential Quality",
+          "ptodds": "1.90*"
+        },
+        {
+          "finish": 2,
+          "name": "Keepmeinmind",
+          "ptodds": "52.70"
+        },
+        {
+          "finish": 3,
+          "name": "Super Stock",
+          "ptodds": "10.40"
+        },
+        {
+          "finish": 4,
+          "name": "Upstriker",
+          "ptodds": "11.40"
+        }
+      ]
+    },
+    {
+      "id": 4,
+	    "kdyear": "2021",
+      "racename": "Champagne Stakes",
+      "date": "20201010",
+      "track": "Belmont Park",
+      "dist": "6 Furlongs",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Jackie's Warrior",
+          "ptodds": "0.85*"
+        },
+        {
+          "finish": 2,
+          "name": "Reinvestment Risk",
+          "ptodds": "1.15"
+        },
+        {
+          "finish": 3,
+          "name": "Midnight Bourbon",
+          "ptodds": "7.10"
+        },
+        {
+          "finish": 4,
+          "name": "Civil War",
+          "ptodds": "51.00"
+        }
+      ]
+    },
+    {
+      "id": 5,
+	    "kdyear": "2021",
+      "racename": "Breeders Cup Junvenile",
+      "date": "20201106",
+      "track": "Keeneland",
+      "dist": "1 1/16 Miles",
+      "points": "20-8-4-2",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Essential Quality",
+          "ptodds": "3.70"
+        },
+        {
+          "finish": 2,
+          "name": "Hot Rod Charlie",
+          "ptodds": "94.40"
+        },
+        {
+          "finish": 3,
+          "name": "Keepmeinmind",
+          "ptodds": "30.90"
+        },
+        {
+          "finish": 4,
+          "name": "Jackie's Warrior",
+          "ptodds": "0.90*"
+        }
+      ]
+    },
+    {
+      "id": 6,
+  	  "kdyear": "2021",
+      "racename": "Kentucky Jockey Club",
+      "date": "20201128",
+      "track": "Churchill Downs",
+      "dist": "1 1/16 Miles",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Keepmeinmind",
+          "ptodds": "2.00*"
+        },
+        {
+          "finish": 2,
+          "name": "Smiley Sobotka",
+          "ptodds": "3.50"
+        },
+        {
+          "finish": 3,
+          "name": "Arabian Prince",
+          "ptodds": "13.70"
+        },
+        {
+          "finish": 4,
+          "name": "Swill",
+          "ptodds": "3.20"
+        }
+      ]
+    },
+    {
+      "id": 7,
+	    "kdyear": "2021",
+      "racename": "Remsen",
+      "date": "20201205",
+      "track": "Aqueduct",
+      "dist": "1 1/8 Miles",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Brooklyn Strong",
+          "ptodds": "7.10"
+        },
+        {
+          "finish": 2,
+          "name": "Ten for Ten",
+          "ptodds": "1.25*"
+        },
+        {
+          "finish": 3,
+          "name": "Known Agenda",
+          "ptodds": "1.95"
+        },
+        {
+          "finish": 4,
+          "name": "Pickin' Time",
+          "ptodds": "2.90"
+        }
+      ]
+    },
+    {
+      "id": 8,
+	    "kdyear": "2021",
+      "racename": "Springboard Mile",
+      "date": "20201218",
+      "track": "Remington Park",
+      "dist": "1 Mile",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Senor Buscador",
+          "ptodds": "3.90"
+        },
+        {
+          "finish": 2,
+          "name": "Cowan",
+          "ptodds": "3.70"
+        },
+        {
+          "finish": 3,
+          "name": "Red N Wild",
+          "ptodds": "30.20"
+        },
+        {
+          "finish": 4,
+          "name": "Saffa's Day",
+          "ptodds": "9.40"
+        }
+      ]
+    },
+    {
+      "id": 9,
+  	  "kdyear": "2021",
+      "racename": "Los Almaitos Futurity",
+      "date": "20201219",
+      "track": "Los Alamitos Race Course",
+      "dist": "1 1/16 Miles",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Spielberg",
+          "ptodds": "1.90"
+        },
+        {
+          "finish": 2,
+          "name": "The Great One",
+          "ptodds": "33.60"
+        },
+        {
+          "finish": 3,
+          "name": "Petruchio",
+          "ptodds": "6.00"
+        },
+        {
+          "finish": 4,
+          "name": "Red Flag",
+          "ptodds": "0.90*"
+        }
+      ]
+    },
+    {
+      "id": 10,
+	    "kdyear": "2021",
+      "racename": "Jerome",
+      "date": "20210101",
+      "track": "Jerome",
+      "dist": "1 Mile",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Capo Kane",
+          "ptodds": "6.90"
+        },
+        {
+          "finish": 2,
+          "name": "Eagle Orb",
+          "ptodds": "1.85"
+        },
+        {
+          "finish": 3,
+          "name": "Hold the Salsa",
+          "ptodds": "8.80"
+        },
+        {
+          "finish": 4,
+          "name": "Swill",
+          "ptodds": "1.40*"
+        }
+      ]
+    },
+    {
+      "id": 11,
+	    "kdyear": "2021",
+      "racename": "Sham",
+      "date": "20210102",
+      "track": "Santa Anita Park",
+      "dist": "1 Mile",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Life Is Good",
+          "ptodds": "0.20*"
+        },
+        {
+          "finish": 2,
+          "name": "Medina Spirit",
+          "ptodds": "9.40"
+        },
+        {
+          "finish": 3,
+          "name": "Pamelli",
+          "ptodds": "4.60"
+        },
+        {
+          "finish": 4,
+          "name": "Waspirant",
+          "ptodds": "28.80"
+        }
+      ]
+    },
+    {
+      "id": 12,
+  	  "kdyear": "2021",
+      "racename": "Lecomte",
+      "date": "20210116",
+      "track": "Fair Grounds",
+      "dist": "1 1/16 Miles",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Midnight Bourbon",
+          "ptodds": "3.70"
+        },
+        {
+          "finish": 2,
+          "name": "Proxy",
+          "ptodds": "8.90"
+        },
+        {
+          "finish": 3,
+          "name": "Mandaloun",
+          "ptodds": "0.80*"
+        },
+        {
+          "finish": 4,
+          "name": "Santa Cruiser",
+          "ptodds": "7.30"
+        }
+      ]
+    },
+    {
+      "id": 13,
+	    "kdyear": "2021",
+      "racename": "Smarty Jones",
+      "date": "20210122",
+      "track": "Oaklawn Park",
+      "dist": "1 Mile",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Caddo River",
+          "ptodds": "0.60*"
+        },
+        {
+          "finish": 2,
+          "name": "Cowan",
+          "ptodds": "2.40"
+        },
+        {
+          "finish": 3,
+          "name": "Big Thorn",
+          "ptodds": "12.40"
+        },
+        {
+          "finish": 4,
+          "name": "Moonlite Strike",
+          "ptodds": "10.40"
+        }
+      ]
+    },
+    {
+      "id": 14,
+	    "kdyear": "2021",
+      "racename": "Robert B. Lewis",
+      "date": "20210130",
+      "track": "Santa Anita Park",
+      "dist": "1 1/16 Miles",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Medina Spirit",
+          "ptodds": "1.00*"
+        },
+        {
+          "finish": 2,
+          "name": "Roman Centurian",
+          "ptodds": "11.20"
+        },
+        {
+          "finish": 3,
+          "name": "Hot Rod Charlie",
+          "ptodds": "2.50"
+        },
+        {
+          "finish": 4,
+          "name": "Spielberg",
+          "ptodds": "5.50"
+        }
+      ]
+    },
+    {
+      "id": 15,
+  	  "kdyear": "2021",
+      "racename": "Holy Bull",
+      "date": "20210130",
+      "track": "Gulfstream Park",
+      "dist": "1 1/16 Miles",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Greatest Honour",
+          "ptodds": "2.80"
+        },
+        {
+          "finish": 2,
+          "name": "Tarantino",
+          "ptodds": "26.70"
+        },
+        {
+          "finish": 3,
+          "name": "Prime Factor",
+          "ptodds": "1.10*"
+        },
+        {
+          "finish": 4,
+          "name": "Papetu",
+          "ptodds": "5.50"
+        }
+      ]
+    },
+    {
+      "id": 16,
+	    "kdyear": "2021",
+      "racename": "Withers",
+      "date": "20210206",
+      "track": "Aqueduct",
+      "dist": "1 1/8 Miles",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Risk Taking",
+          "ptodds": "1.90*"
+        },
+        {
+          "finish": 2,
+          "name": "Overtook",
+          "ptodds": "9.40"
+        },
+        {
+          "finish": 3,
+          "name": "Capo Kane",
+          "ptodds": "3.10"
+        },
+        {
+          "finish": 4,
+          "name": "Royal Number",
+          "ptodds": "10.60"
+        }
+      ]
+    },
+    {
+      "id": 17,
+	    "kdyear": "2021",
+	    "racename": "Sam F. Davis",
+      "date": "20210206",
+      "track": "Tampa Bay Downs",
+      "dist": "1 1/16 Miles",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Candy Man Rocket",
+          "ptodds": "3.10"
+        },
+        {
+          "finish": 2,
+          "name": "Nova Rags",
+          "ptodds": "8.30"
+        },
+        {
+          "finish": 3,
+          "name": "Hidden Stash",
+          "ptodds": "8.50"
+        },
+        {
+          "finish": 4,
+          "name": "Boca Boy",
+          "ptodds": "19.60"
+        }
+      ]
+    },
+    {
+      "id": 18,
+	    "kdyear": "2021",
+      "racename": "El Camino Real Derby",
+      "date": "20210213",
+      "track": "Golden Gate Fields",
+      "dist": "1 1/8 Miles",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Charging Home",
+          "ptodds": "1.20*"
+        },
+        {
+          "finish": 2,
+          "name": "Sharp Move",
+          "ptodds": "2.90"
+        },
+        {
+          "finish": 3,
+          "name": "Gifty",
+          "ptodds": "12.10"
+        },
+        {
+          "finish": 4,
+          "name": "Heat Seeking Leta",
+          "ptodds": "6.10"
+        }
+      ]
+    },
+    {
+      "id": 19,
+	    "kdyear": "2021",
+      "racename": "Risen Star",
+      "date": "20210213",
+      "track": "Fair Grouds",
+      "dist": "1 1/8 Miles",
+      "points": "50-20-10-5",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Mandaloun",
+          "ptodds": "2.10*"
+        },
+        {
+          "finish": 2,
+          "name": "Proxy",
+          "ptodds": "4.00"
+        },
+        {
+          "finish": 3,
+          "name": "Midnight Bourbon",
+          "ptodds": "5.60"
+        },
+        {
+          "finish": 4,
+          "name": "O Besos",
+          "ptodds": "21.20"
+        }
+      ]
+    },
+    {
+      "id": 21,
+  	  "kdyear": "2021",
+      "racename": "Southwest",
+      "date": "20210215",
+      "track": "Oaklawn Park",
+      "dist": "1 1/16 Miles",
+      "points": "10-4-2-1",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Essential Quality",
+          "ptodds": "0.90*"
+        },
+        {
+          "finish": 2,
+          "name": "Spielberg",
+          "ptodds": "7.20"
+        },
+        {
+          "finish": 3,
+          "name": "Jackie's Warrior",
+          "ptodds": "1.20"
+        },
+        {
+          "finish": 4,
+          "name": "Woodhouse",
+          "ptodds": "15.60"
+        }
+      ]
+    },
+    {
+      "id": 22,
+	    "kdyear": "2021",
+      "racename": "Fountain of Youth",
+      "date": "20210227",
+      "track": "Gulfstream Park",
+      "dist": "1 1/16 Miles",
+      "points": "50-20-10-5",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Greatest Honour",
+          "ptodds": "1.00*"
+        },
+        {
+          "finish": 2,
+          "name": "Drain the Clock",
+          "ptodds": "2.80"
+        },
+        {
+          "finish": 3,
+          "name": "Papetu",
+          "ptodds": "18.30"
+        },
+        {
+          "finish": 4,
+          "name": "Tarantino",
+          "ptodds": "14.20"
+        }
+      ]
+    },
+    {
+      "id": 23,
+	    "kdyear": "2021",
+      "racename": "Gotham",
+      "date": "20210306",
+      "track": "Aqueduct",
+      "dist": "1",
+      "points": "50-20-10-5",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Destinationwnrscir",
+          "ptodds": "0.60*"
+        },
+        {
+          "finish": 2,
+          "name": "Stormi Cat Lady",
+          "ptodds": "3.25"
+        },
+        {
+          "finish": 3,
+          "name": "Epona's Dream",
+          "ptodds": "5.50"
+        },
+        {
+          "finish": 4,
+          "name": "Gallina",
+          "ptodds": "17.70"
+        }
+      ]
+    },
+    {
+      "id": 24,
+  	  "kdyear": "2021",
+      "racename": "Tampa Day Derby",
+      "date": "20210306",
+      "track": "Tampa Bay Downs",
+      "dist": "1",
+      "points": "50-20-10-5",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Helium",
+          "ptodds": "15.40"
+        },
+        {
+          "finish": 2,
+          "name": "Hidden Stash",
+          "ptodds": "3.10"
+        },
+        {
+          "finish": 3,
+          "name": "Moonlite Strike",
+          "ptodds": "34.60"
+        },
+        {
+          "finish": 4,
+          "name": "Unbridled Honor",
+          "ptodds": "21.50"
+        }
+      ]
+    },
+    {
+      "id": 25,
+  	  "kdyear": "2021",
+      "racename": "San Felipe",
+      "date": "20210306",
+      "track": "Santa Anita Park",
+      "dist": "1",
+      "points": "50-20-10-5",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Life is Good",
+          "ptodds": "0.50*"
+        },
+        {
+          "finish": 2,
+          "name": "Medina Spirit",
+          "ptodds": "3.30"
+        },
+        {
+          "finish": 3,
+          "name": "Dream Shake",
+          "ptodds": "8.70"
+        },
+        {
+          "finish": 4,
+          "name": "Roman Centurian",
+          "ptodds": "10.80"
+        }
+      ]
+    },
+    {
+      "id": 26,
+  	  "kdyear": "2021",
+      "racename": "Rebel",
+      "date": "20210313",
+      "track": "Oaklawn Park",
+      "dist": "1 1/16 Miles",
+      "points": "50-20-10-5",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Concert Tour",
+          "ptodds": "1.70"
+        },
+        {
+          "finish": 2,
+          "name": "Hozier",
+          "ptodds": "18.80"
+        },
+        {
+          "finish": 3,
+          "name": "Big Lake",
+          "ptodds": "18.00"
+        },
+        {
+          "finish": 4,
+          "name": "Super Stock",
+          "ptodds": "40.60"
+        }
+      ]
+    },
+    {
+      "id": 27,
+  	  "kdyear": "2021",
+      "racename": "Louisiana Derby",
+      "date": "20210320",
+      "track": "Fair Grounds",
+      "dist": "1 3/16 Miles",
+      "points": "100-40-20-10",
+      "result": [
+        {
+          "finish": 1,
+          "name": "Concert Tour",
+          "ptodds": "1.70"
+        },
+        {
+          "finish": 2,
+          "name": "Hozier",
+          "ptodds": "18.80"
+        },
+        {
+          "finish": 3,
+          "name": "Big Lake",
+          "ptodds": "18.00"
+        },
+        {
+          "finish": 4,
+          "name": "Super Stock",
+          "ptodds": "40.60"
+        }
+      ]
+    },
+    {
+      "id": 28,
+	    "kdyear": "2021",
+      "racename": "Jeff Ruby Steaks",
+      "date": "20210327",
+      "track": "Turfway Park",
+      "dist": "1 1/8 Miles",
+      "points": "100-40-20-10"
+    },
+    {
+      "id": 29,
+	    "kdyear": "2021",
+      "racename": "Florida Derby",
+      "date": "20210327",
+      "track": "Gulfstream Park",
+      "dist": "1 1/8 Miles",
+      "points": "100-40-20-10"
+    },
+    {
+      "id": 30,
+  	  "kdyear": "2021",
+      "racename": "UAE Derby",
+      "date": "20210327",
+      "track": "Meydan Racecourse",
+      "dist": "1",
+      "points": "100-40-20-10"
+    },
+    {
+      "id": 31,
+	    "kdyear": "2021",
+      "racename": "Sunland Derby",
+      "date": "20210330",
+      "track": "Sunland Park",
+      "dist": "1",
+      "points": "50-20-10-5"
+    },
+    {
+      "id": 32,
+	    "kdyear": "2021",
+      "racename": "Blue Grass",
+      "date": "20210401",
+      "track": "Keeneland",
+      "dist": "1",
+      "points": "100-40-20-10"
+    },
+    {
+      "id": 33,
+  	  "kdyear": "2021",
+      "racename": "Wood Memorial",
+      "date": "20210403",
+      "track": "Aqueduct",
+      "dist": "1",
+      "points": "100-40-20-10"
+    },
+    {
+      "id": 34,
+	    "kdyear": "2021",
+      "racename": "Santa Anita Derby",
+      "date": "20210403",
+      "track": "Santa Anita Park",
+      "dist": "1",
+      "points": "100-40-20-10"
+    },
+    {
+      "id": 35,
+	    "kdyear": "2021",
+      "racename": "Lexington",
+      "date": "20210410",
+      "track": "Keeneland",
+      "dist": "1",
+      "points": "20-8-4-2"
+    },
+    {
+      "id": 36,
+  	  "kdyear": "2021",
+      "racename": "Arkansas Derby",
+      "date": "20210410",
+      "track": "Oaklawn Park",
+      "dist": "1 1/8 Miles",
+      "points": "100-40-20-10"
+    }
+  ]

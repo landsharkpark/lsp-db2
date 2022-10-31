@@ -1,0 +1,70 @@
+[
+    {
+      "id": 1,
+      "rank": 1,
+      "points": 30,
+      "name": "Essential Quality",
+      "profileLink": "https://www.horseracingnation.com/horse/Essential_Quality",
+      "sire": "Tapit - Delightful Quality, by Elusive Quality",
+      "pedigree": "Tapit - Delightful Quality, by Elusive Quality",
+      "pedigreeLink": "https://www.pedigreequery.com/essential+quality",
+      "comments": [
+        "Best two year going into 2021",
+        "Oustanding in Breeders' Futurity and Breeders Cup Junvenile races"
+      ]
+    },
+    {
+      "id": 2,
+      "rank": 2,
+      "points": 0,
+      "name": "Life Is Good",
+      "profileLink": "https://www.horseracingnation.com/horse/Life_Is_Good",
+      "sire": "Into Mischief - Beach Walk, by Distorted Humor",
+      "pedigree": "Into Mischief - Beach Walk, by Distorted Humor",
+      "pedigreeLink": "https://www.pedigreequery.com/life+is+good8",
+      "comments": [
+        "West Coast horse - Bob Baffert trained"
+      ]
+    },
+    {
+      "id": 3,
+      "rank": 3,
+      "points": 18,
+      "name": "Keepmeinmind",
+      "profileLink": "https://www.horseracingnation.com/horse/Keepmeinmind",
+      "sire": "Laoban - Inclination, by Victory Gallop",
+      "pedigree": "Laoban - Inclination, by Victory Gallop",
+      "pedigreeLink": "https://www.pedigreequery.com/keepmeinmind",
+      "comments": [
+        "Won Kentucky Jockey Club last time out after a third place finish in Breeders Cup Junvenile"
+      ]
+    },
+    {
+      "id": 4,
+      "rank": 4,
+      "points": 12,
+      "name": "Jackie's Warrior",
+      "profileLink": "https://www.horseracingnation.com/horse/Jackies_Warrior",
+      "sire": "Maclean's Music - Unicorn Girl, by A P Five Hundred",
+      "pedigree": "Maclean's Music - Unicorn Girl, by A P Five Hundred",
+      "pedigreeLink": "https://www.pedigreequery.com/jackies+warrior",
+      "comments": [
+        "Very impressive winning Champange Stakes",
+        "Disappointing fourth place finish in Breeders Cup Junvenile",
+        "Not sure if tired last time out, only three weeks between races"
+      ]
+    },
+    {
+      "id": 5,
+      "rank": 5,
+      "points": 12,
+      "name": "Spielberg",
+      "profileLink": "https://www.horseracingnation.com/horse/Spielberg_2",
+      "sire": "Union Rags - Miss Sqeal, by Smart Strike",
+      "pedigree": "Union Rags - Miss Sqeal, by Smart Strike",
+      "pedigreeLink": "https://www.pedigreequery.com/spielberg10",
+      "comments": [
+        "West Coast horse - Bob Baffert trained"
+      ]
+    }
+  ]
