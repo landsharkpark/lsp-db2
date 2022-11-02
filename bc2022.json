@@ -46,7 +46,10 @@
         "postTime": "12:05 PM",
         "distance": "6.5 Furlongs",
         "surface": "Dirt",
-        "picks": "TBD"
+        "picks": "TBD",
+        "officialResults": "",
+        "preRaceComments": [],
+        "postRaceComments": []
       },
       {
         "raceNum": "4",
@@ -58,7 +61,10 @@
         "postTime": "12:40 PM",
         "distance": "7 Furlongs",
         "surface": "Dirt",
-        "picks": "TBD"
+        "picks": "TBD",
+        "officialResults": "",
+        "preRaceComments": [],
+        "postRaceComments": []
       },
       {
         "raceNum": "5",
@@ -70,7 +76,10 @@
         "postTime": "1:15 PM",
         "distance": "1 5/8 Miles",
         "surface": "Dirt",
-        "picks": "TBD"
+        "picks": "TBD",
+        "officialResults": "",
+        "preRaceComments": [],
+        "postRaceComments": []
       },
       {
         "raceNum": "6",
@@ -82,7 +91,15 @@
         "postTime": "2:00 PM",
         "distance": "5 1/2 Furlongs",
         "surface": "Turf",
-        "picks": "TBD"
+        "picks": "10-5-3-4",
+        "officialResults": "",
+        "preRaceComments": [
+          "(10) Tyler's Tribe - undefeated Iowa bred", 
+          "Allan will never let me hear the end of it if 10 is not on my ticket",
+          "(5) Mischief Magic - Appleby/Buick Euro shipper",
+          "(3) Private Creed - Won on KEE turf; Rosario a good jockey for this horse"
+        ],
+        "postRaceComments": []
       },
       {
         "raceNum": "7",
@@ -94,7 +111,14 @@
         "postTime": "2:40 PM",
         "distance": "1 1/16 Miles",
         "surface": "Dirt",
-        "picks": "TBD"
+        "picks": "5-7-3-8",
+        "officialResults": "",
+        "preRaceComments": [
+          "(5) Wonder Wheel - has been great in all four starts; wired the field in last G1 race",
+          "(7) Chop Chop - lost to Wonder Wheel last time out; closing speed is great",
+          "(3) And Tell Me Nolies - West Coast shipper, might be able to get some value"
+        ],
+        "postRaceComments": []
       },
       {
         "raceNum": "8",
@@ -106,7 +130,12 @@
         "postTime": "3:20 PM",
         "distance": "1 Mile",
         "surface": "Turf",
-        "picks": "TBD"
+        "picks": "10-9-5-14",
+        "officialResults": "",
+        "preRaceComments": [
+          "I'm leaning towards the Euro shippers in this one"
+        ],
+        "postRaceComments": []
       },
       {
         "raceNum": "9",
@@ -118,7 +147,14 @@
         "postTime": "4:00 PM",
         "distance": "1 1/16 Miles",
         "surface": "Dirt",
-        "picks": "TBD"
+        "picks": "3-10-5-4",
+        "officialResults": "",
+        "preRaceComments": [
+          "Points race for 2023 Kentucky Derby",
+          "Bob Baffert is the trainer for (3) Cave Rock and (10) National Treasure",
+          "Who will train those horses if they continue on Kentucky Derby path?"
+        ],
+        "postRaceComments": []
       },
       {
         "raceNum": "10",
@@ -130,7 +166,14 @@
         "postTime": "4:40 PM",
         "distance": "1 Mile",
         "surface": "Turf",
-        "picks": "TBD"
+        "picks": "4-6-1-10",
+        "officialResults": "",
+        "preRaceComments": [
+          "(4) Silver Knott - Appleby/Buick usually mean business in these races",
+          "(6) Andthewinneris - Catalano has done a good job training this son of Oscar Performance",
+          "(1) Victoria Road - Tough rail post; eighth race since beginning of May"
+        ],
+        "postRaceComments": []
       }
     ]
   },
@@ -151,7 +194,10 @@
         "postTime": "9:30 AM",
         "distance": "7 Furlongs",
         "surface": "Dirt",
-        "picks": ""
+        "picks": "TBD",
+        "officialResults": "",
+        "preRaceComments": [],
+        "postRaceComments": []
       },
       {
         "raceNum": "2",
@@ -163,7 +209,10 @@
         "postTime": "10:05 AM",
         "distance": "6 1/2 Furlongs",
         "surface": "Dirt",
-        "picks": ""
+        "picks": "TBD",
+        "officialResults": "",
+        "preRaceComments": [],
+        "postRaceComments": []
       },
       {
         "raceNum": "3",
@@ -175,7 +224,10 @@
         "postTime": "10:50 AM",
         "distance": "7 Furlongs",
         "surface": "Dirt",
-        "picks": ""
+        "picks": "TBD",
+        "officialResults": "",
+        "preRaceComments": [],
+        "postRaceComments": []
       },
       {
         "raceNum": "4",
@@ -187,7 +239,10 @@
         "postTime": "11:29 AM",
         "distance": "5 1/2 Furlongs",
         "surface": "Turf",
-        "picks": ""
+        "picks": "TBD",
+        "officialResults": "",
+        "preRaceComments": [],
+        "postRaceComments": []
       },
       {
         "raceNum": "5",
@@ -199,7 +254,10 @@
         "postTime": "12:10 PM",
         "distance": "1 Mile",
         "surface": "Dirt",
-        "picks": ""
+        "picks": "TBD",
+        "officialResults": "",
+        "preRaceComments": [],
+        "postRaceComments": []
       },
       {
         "raceNum": "6",
@@ -211,7 +269,10 @@
         "postTime": "12:50 PM",
         "distance": "1 3/16 Miles",
         "surface": "Turf",
-        "picks": ""
+        "picks": "TBD",
+        "officialResults": "",
+        "preRaceComments": [],
+        "postRaceComments": []
       },
       {
         "raceNum": "7",
@@ -223,7 +284,10 @@
         "postTime": "1:30 PM",
         "distance": "6 Furlongs",
         "surface": "Dirt",
-        "picks": ""
+        "picks": "TBD",
+        "officialResults": "",
+        "preRaceComments": [],
+        "postRaceComments": []
       },
       {
         "raceNum": "8",
@@ -235,7 +299,10 @@
         "postTime": "2:10 PM",
         "distance": "1 Mile",
         "surface": "Turf",
-        "picks": ""
+        "picks": "TBD",
+        "officialResults": "",
+        "preRaceComments": [],
+        "postRaceComments": []
       },
       {
         "raceNum": "9",
@@ -247,7 +314,10 @@
         "postTime": "2:55 PM",
         "distance": "1 1/8 Miles",
         "surface": "Dirt",
-        "picks": ""
+        "picks": "TBD",
+        "officialResults": "",
+        "preRaceComments": [],
+        "postRaceComments": []
       },
       {
         "raceNum": "10",
@@ -259,7 +329,10 @@
         "postTime": "3:40 PM",
         "distance": "1 1/2 Miles",
         "surface": "Turf",
-        "picks": ""
+        "picks": "TBD",
+        "officialResults": "",
+        "preRaceComments": [],
+        "postRaceComments": []
       },
       {
         "raceNum": "11",
@@ -271,7 +344,10 @@
         "postTime": "4:40 PM",
         "distance": "1 1/4 Miles",
         "surface": "Dirt",
-        "picks": ""
+        "picks": "TBD",
+        "officialResults": "",
+        "preRaceComments": [],
+        "postRaceComments": []
       },
       {
         "raceNum": "12",
@@ -283,7 +359,10 @@
         "postTime": "5:20 PM",
         "distance": "1 Mile",
         "surface": "Turf",
-        "picks": ""
+        "picks": "TBD",
+        "officialResults": "",
+        "preRaceComments": [],
+        "postRaceComments": []
       }
     ]
   }
