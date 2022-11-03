@@ -223,9 +223,11 @@
         "postTime": "10:50 AM",
         "distance": "7 Furlongs",
         "surface": "Dirt",
-        "picks": "TBD",
+        "picks": "4-8-5-3",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(4) Ce Ce won this race last year"
+        ],
         "postRaceComments": []
       },
       {
@@ -238,9 +240,13 @@
         "postTime": "11:29 AM",
         "distance": "5 1/2 Furlongs",
         "surface": "Turf",
-        "picks": "TBD",
+        "picks": "8-1-6-4",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(8) Golden Pal great in turf sprints - 8 wins in 11 races at this distance",
+          "(1) Creative Force - will need a good break to compete",
+          "(6) Highfield Princess - In many big European races; won over a million dollars so far this year"
+        ],
         "postRaceComments": []
       },
       {
@@ -253,7 +259,7 @@
         "postTime": "12:10 PM",
         "distance": "1 Mile",
         "surface": "Dirt",
-        "picks": "TBD",
+        "picks": "7-5-6-9",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -268,7 +274,7 @@
         "postTime": "12:50 PM",
         "distance": "1 3/16 Miles",
         "surface": "Turf",
-        "picks": "TBD",
+        "picks": "3-5-4-11",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -283,9 +289,13 @@
         "postTime": "1:30 PM",
         "distance": "6 Furlongs",
         "surface": "Dirt",
-        "picks": "TBD",
+        "picks": "9-2-6-4",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "It's horse racing so anything can happen; With Jack Christopher out seems to be obvious winner with everyone else running for second",
+          "(9) Jackie's Warrior - Great sprint horse",
+          "(2) Kimari - Wesley Ward trained; great at distance and on Keeneland track"
+        ],
         "postRaceComments": []
       },
       {
@@ -298,9 +308,11 @@
         "postTime": "2:10 PM",
         "distance": "1 Mile",
         "surface": "Turf",
-        "picks": "TBD",
+        "picks": "4-8-5-13",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(4) Modern Games always ready to run - anywhere, anytime..."
+        ],
         "postRaceComments": []
       },
       {
@@ -313,7 +325,7 @@
         "postTime": "2:55 PM",
         "distance": "1 1/8 Miles",
         "surface": "Dirt",
-        "picks": "TBD",
+        "picks": "4-8-6-7",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -328,7 +340,7 @@
         "postTime": "3:40 PM",
         "distance": "1 1/2 Miles",
         "surface": "Turf",
-        "picks": "TBD",
+        "picks": "7-2-11-4",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -343,9 +355,11 @@
         "postTime": "4:40 PM",
         "distance": "1 1/4 Miles",
         "surface": "Dirt",
-        "picks": "TBD",
+        "picks": "4-6-1-5",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(4) Flightline - what a horse"
+        ],
         "postRaceComments": []
       },
       {
