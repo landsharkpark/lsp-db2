@@ -1,207 +1,23 @@
 [
   {
-    "id": 3,
-	"sprintnbr": 3,
-	"sprinttitle": "Sprint 3 - will be deleted",
-	"sprintgoals": [
-      "Docker introduction courses on Pluralsight",
-      "Laptop repair",
-      "Website maintenance"
-    ],
-    "days": [
-      {
-        "id": 301,
-        "sprintDay": 1,
-        "challengeDay": 21,
-        "date": "20220213",
-        "dayNotes": [
-          "Sports: Super Bowl"
-        ]
-      },
-      {
-        "id": 302,
-        "sprintDay": 2,
-        "challengeDay": 22,
-        "date": "20220214",
-        "dayNotes": [
-          "Replaced battery in laptop",
-          "New Blog Post - https://leseanbruneau.web.app/#/"
-        ]
-      },
-      {
-        "id": 303,
-        "sprintDay": 3,
-        "challengeDay": 23,
-        "date": "20220215",
-        "dayNotes": [
-          "Pluralsight: Deploying Containerized Applications"
-        ]
-      },
-      {
-        "id": 304,
-        "sprintDay": 4,
-        "challengeDay": 24,
-        "date": "20220216",
-        "dayNotes": [
-          "Pluralsight: Deploying NodeJS Applications with Docker"
-        ]
-      },
-      {
-        "id": 305,
-        "sprintDay": 5,
-        "challengeDay": 25,
-        "date": "20220217",
-        "dayNotes": [
-          "Pluralsight: Developing Java Applications with Docker"
-        ]
-      },
-      {
-        "id": 306,
-        "sprintDay": 6,
-        "challengeDay": 26,
-        "date": "20220218",
-        "dayNotes": [
-          "Pluralsight: Developing ReactJS Applications with Docker"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 2,
-	"sprintnbr": 2,
-	"sprinttitle": "Finish 2022 Project Setup",
-	"sprintgoals": [
-	  "Finish updating Angular and React CCJA web sites",
-      "Add blog posts to landsharkpark-mn and leseanbruneau-blog web sites",
-      "Install Apache Kafka"
-    ],
-    "sprintreview": [
-      "Went Well: Updated web sites, Docker online training courses",
-      "Not Well: Apache Kafka - didn't get any further than installation",
-      "Not Well: Too much time spent on online training, not enough on coding",
-      "Next Sprint: Apache Kafka - write programs to write and read events from broker"
-    ],
-    "days": [
-      {
-        "id": 201,
-        "sprintDay": 1,
-        "challengeDay": 11,
-        "date": "20220203",
-        "dayNotes": [
-          "Updated Public repository for ccja-react",
-		  "Pluralsight course: Getting Started with Docker course"
-        ]
-      },
-      {
-        "id": 202,
-        "sprintDay": 2,
-        "challengeDay": 12,
-        "date": "20220204",
-        "dayNotes": [
-          "Created virtual machine for Kakfa project",
-          "Pluralsight course: Building and Running Your First Docker App"
-        ]
-      },
-      {
-        "id": 203,
-        "sprintDay": 3,
-        "challengeDay": 13,
-        "date": "20220205",
-        "dayNotes": [
-          "Updated goals page on ccja-angular site",
-		  "Horse Racing - Gulfstream Park (Holy Bull)"
-        ]
-      },
-      {
-        "id": 204,
-        "sprintDay": 4,
-        "challengeDay": 14,
-        "date": "20220206",
-        "dayNotes": [
-          "New Blog Post - https://landsharkpark-mn.web.app/#/"
-        ]
-      },
-      {
-        "id": 205,
-        "sprintDay": 5,
-        "challengeDay": 15,
-        "date": "20220207",
-        "dayNotes": [
-          "Kafka install on Ubuntu",
-		  "New GitHub Repo for Kafka training - https://github.com/ustleseanbruneau/kafka-100days"
-        ]
-      },
-      {
-        "id": 206,
-        "sprintDay": 6,
-        "challengeDay": 16,
-        "date": "20220208",
-        "dayNotes": [
-          "Pluralsight training:  Building and Orchestrating Containers with Docker Compose"
-        ]
-      },
-      {
-        "id": 207,
-        "sprintDay": 7,
-        "challengeDay": 17,
-        "date": "20220209",
-        "dayNotes": [
-          "Pluralsight training:  Developing Docker Apps Core Principles"
-        ]
-      },
-      {
-        "id": 208,
-        "sprintDay": 8,
-        "challengeDay": 18,
-        "date": "20220210",
-        "dayNotes": [
-          "GitHub and virtual machine maintenance"
-        ]
-      },
-      {
-        "id": 209,
-        "sprintDay": 9,
-        "challengeDay": 19,
-        "date": "20220211",
-        "dayNotes": [
-          "Movie: The Power of the Dog ",
-		  "I totally did not get the movie or story - two thumbs down."
-        ]
-      },
-      {
-        "id": 210,
-        "sprintDay": 10,
-        "challengeDay": 20,
-        "date": "20220212",
-        "dayNotes": [
-          "Sports:  Horse Racing:  Gulfstream Park ",
-		  "I missed a nice trifecta in race 1 after a very close photo finish, which was the highlight of the day."
-        ]
-      }
-    ]
-  },  
-  {
     "id": 1,
-	"sprintnbr": 1,
-	"sprinttitle": "2022 Projects Setup",
-	"sprintgoals": [
-	  "Update Angular and React CCJA web sites",
-      "Update external JSON file tracker",
+    "sprintnbr": 1,
+    "sprinttitle": "2023 Projects Setup",
+    "sprintgoals": [
+      "Identify, define 2023 projects for challenge",
+      "Update Angular and React CCJA web sites",
       "Update landsharkpark-mn and leseanbruneau-blog web sites",
-      "Identify, define 2022 projects for challenge"
+      "Basic Kafka installation and configuration",
+      "Basic Kafka Java program"
     ],
     "sprintreview": [
-      "Went Well: Completed all goals",
-      "Not Well: VMs were out of sync, lots of time to update",
-      "Not Well: issues with code from Public repositories for CCJA projects which had to be fixed",
-      "Next Sprint: Finish CCJA updates, Docker online courses"
     ],
     "days": [
       {
         "id": 101,
         "sprintDay": 1,
         "challengeDay": 1,
-        "date": "20220124",
+        "date": "20230415",
         "dayNotes": [
           "Update Angular CCJA web site",
           "Latest Angular and NPM versions"
@@ -211,7 +27,7 @@
         "id": 102,
         "sprintDay": 2,
         "challengeDay": 2,
-        "date": "20220125",
+        "date": "20230416",
         "dayNotes": [
           "Update React CCJA web site",
           "Latest React and NPM versions",
@@ -222,7 +38,7 @@
         "id": 103,
         "sprintDay": 3,
         "challengeDay": 3,
-        "date": "20220126",
+        "date": "20230417",
         "dayNotes": [
           "Pluralsight Training:  Design Patterns in Java: Creational"
         ]
@@ -231,70 +47,13 @@
         "id": 104,
         "sprintDay": 4,
         "challengeDay": 4,
-        "date": "20220127",
+        "date": "20230418",
         "dayNotes": [
           "React CCJA web site deployment - https://lesean-100days.web.app/",
           "Update React CCJA web site - Goals and About pages",
           "Updates to Oracle VirtualBox Virtual Machine"
         ]
-      },
-      {
-        "id": 105,
-        "sprintDay": 5,
-        "challengeDay": 5,
-        "date": "20220128",
-        "dayNotes": [
-          "Angular CCJA web site deployment - https://lesean-100days-a.web.app/",
-          "Resolved GitHub username issue - bad email address in global properties",
-          "Angular CCJA project updates"
-        ]
-      },
-      {
-        "id": 106,
-        "sprintDay": 6,
-        "challengeDay": 6,
-        "date": "20220129",
-        "dayNotes": [
-          "Pluralsight Java Design Patterns course - Creational Patterns"
-        ]
-      },
-      {
-        "id": 107,
-        "sprintDay": 7,
-        "challengeDay": 7,
-        "date": "20220130",
-        "dayNotes": [
-          "Pluralsight Java Design Patterns course - Structural Patterns"
-        ]
-      },
-      {
-        "id": 108,
-        "sprintDay": 8,
-        "challengeDay": 8,
-        "date": "20220131",
-        "dayNotes": [
-          "Research and resolved issue with Angular update - peer dependencies",
-          "Resolved some GitHub dependabot alerts"
-        ]
-      },
-      {
-        "id": 109,
-        "sprintDay": 9,
-        "challengeDay": 9,
-        "date": "20220201",
-        "dayNotes": [
-          "Pluralsight Java Design Patterns course - Behavioral Patterns"
-        ]
-      },
-      {
-        "id": 110,
-        "sprintDay": 10,
-        "challengeDay":10,
-        "date": "20220202",
-        "dayNotes": [
-          "Updated Public repository for ccja-angular"
-        ]
-      }
+      }   
     ]
   }
 ]
