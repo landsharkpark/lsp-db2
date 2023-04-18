@@ -19,8 +19,7 @@
         "challengeDay": 1,
         "date": "20230415",
         "dayNotes": [
-          "Update Angular CCJA web site",
-          "Latest Angular and NPM versions"
+          "Twin Cities Code Camp #TCCC24"
         ]
       },
       {
@@ -29,9 +28,8 @@
         "challengeDay": 2,
         "date": "20230416",
         "dayNotes": [
-          "Update React CCJA web site",
-          "Latest React and NPM versions",
-          "Created external JSON file endpoint for both Angular and React CCJA sites"
+          "Update personal blog web sites",
+          "Update Twitter feeds web sites"
         ]
       },
       {
@@ -40,7 +38,8 @@
         "challengeDay": 3,
         "date": "20230417",
         "dayNotes": [
-          "Pluralsight Training:  Design Patterns in Java: Creational"
+          "Kafka - notes on localhost install/config on Ubuntu workstation",
+          "Kafka - simple Java programs for Producer and Consumer"
         ]
       },
       {
@@ -50,8 +49,11 @@
         "date": "20230418",
         "dayNotes": [
           "React CCJA web site deployment - https://lesean-100days.web.app/",
-          "Update React CCJA web site - Goals and About pages",
-          "Updates to Oracle VirtualBox Virtual Machine"
+          "Update Angular CCJA web site",
+          "Latest Angular and NPM versions",
+          "Update React CCJA web site",
+          "Latest React and NPM versions",
+          "Created external JSON file endpoint for both Angular and React CCJA sites"
         ]
       }   
     ]
