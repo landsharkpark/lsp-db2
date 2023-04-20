@@ -39,7 +39,7 @@
         "date": "20230417",
         "dayNotes": [
           "Kafka - notes on localhost install/config on Ubuntu workstation",
-          "Kafka - simple Java programs for Producer and Consumer"
+          "Kafka - a01-kafka-basics - Gradle builds issues"
         ]
       },
       {
@@ -48,14 +48,31 @@
         "challengeDay": 4,
         "date": "20230418",
         "dayNotes": [
-          "React CCJA web site deployment - https://lesean-100days.web.app/",
-          "Update Angular CCJA web site",
-          "Latest Angular and NPM versions",
-          "Update React CCJA web site",
-          "Latest React and NPM versions",
-          "Created external JSON file endpoint for both Angular and React CCJA sites"
+          "Kafka - a01-kafka-basics - fixed Gradle build issue",
+          "Kafka - a01-kafka-basics - completed simple Java programs for Kafka Producer and Consumer"
         ]
-      }   
+      },   
+      {
+        "id": 105,
+        "sprintDay": 5,
+        "challengeDay": 5,
+        "date": "20230419",
+        "dayNotes": [
+          "React CCJA web site deployment - https://lesean-100days.web.app/",
+          "Angular CCJA web site deployment - https://lesean-100days-a.web.app/",
+          "Simple Java JSON projects (learn maven and gradle builds)"
+        ]
+      },   
+      {
+        "id": 106,
+        "sprintDay": 6,
+        "challengeDay": 6,
+        "date": "20230420",
+        "dayNotes": [
+          "Kafka - a02-kafka-objects - began project for various Kafka configurations",
+          "Kafka - a02-kafka-objects - read JSON text file and publish to Kafka Topic"
+        ]
+      }
     ]
   }
 ]
