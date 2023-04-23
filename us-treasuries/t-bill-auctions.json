@@ -1,6 +1,6 @@
 [
   {
-    "_id": "13202301",
+    "_id": 13202301,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "03",
@@ -11,7 +11,7 @@
     "maturityDate": "20230406"
   },
   {
-    "_id": "26202301",
+    "_id": 26202301,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "03",
@@ -22,7 +22,7 @@
     "maturityDate": "20230706"
   },
   {
-    "_id": "17202301",
+    "_id": 17202301,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "04",
@@ -33,7 +33,7 @@
     "maturityDate": "20230509"
   },
   {
-    "_id": "04202301",
+    "_id": 4202301,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "05",
@@ -44,7 +44,7 @@
     "maturityDate": "20230207"
   },
   {
-    "_id": "08202301",
+    "_id": 8202301,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "05",
@@ -55,7 +55,7 @@
     "maturityDate": "20230307"
   },
   {
-    "_id": "13202302",
+    "_id": 13202302,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "09",
@@ -66,7 +66,7 @@
     "maturityDate": "20230413"
   },
   {
-    "_id": "26202302",
+    "_id": 26202302,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "09",
@@ -77,7 +77,7 @@
     "maturityDate": "20230713"
   },
   {
-    "_id": "17202302",
+    "_id": 17202302,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "11",
@@ -88,7 +88,7 @@
     "maturityDate": "20230516"
   },
   {
-    "_id": "04202302",
+    "_id": 4202302,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "12",
@@ -99,7 +99,7 @@
     "maturityDate": "20230214"
   },
   {
-    "_id": "08202302",
+    "_id": 8202302,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "12",
@@ -110,7 +110,7 @@
     "maturityDate": "20230314"
   },
   {
-    "_id": "13202303",
+    "_id": 13202303,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "17",
@@ -121,7 +121,7 @@
     "maturityDate": "20230420"
   },
   {
-    "_id": "26202303",
+    "_id": 26202303,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "17",
@@ -132,7 +132,7 @@
     "maturityDate": "20230720"
   },
   {
-    "_id": "17202303",
+    "_id": 17202303,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "18",
@@ -143,7 +143,7 @@
     "maturityDate": "20230523"
   },
   {
-    "_id": "04202303",
+    "_id": 4202303,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "19",
@@ -154,7 +154,7 @@
     "maturityDate": "20230221"
   },
   {
-    "_id": "08202303",
+    "_id": 8202303,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "19",
@@ -165,7 +165,7 @@
     "maturityDate": "20230321"
   },
   {
-    "_id": "13202304",
+    "_id": 13202304,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "23",
@@ -176,7 +176,7 @@
     "maturityDate": "20230427"
   },
   {
-    "_id": "26202304",
+    "_id": 26202304,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "23",
@@ -187,7 +187,7 @@
     "maturityDate": "20230727"
   },
   {
-    "_id": "52202304",
+    "_id": 52202304,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "24",
@@ -198,7 +198,7 @@
     "maturityDate": "20240125"
   },
   {
-    "_id": "17202304",
+    "_id": 17202304,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "25",
@@ -209,7 +209,7 @@
     "maturityDate": "20230530"
   },
   {
-    "_id": "04202304",
+    "_id": 4202304,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "26",
@@ -220,7 +220,7 @@
     "maturityDate": "20230228"
   },
   {
-    "_id": "08202304",
+    "_id": 8202304,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "26",
@@ -231,7 +231,7 @@
     "maturityDate": "20230328"
   },
   {
-    "_id": "13202305",
+    "_id": 13202305,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "30",
@@ -242,7 +242,7 @@
     "maturityDate": "20230504"
   },
   {
-    "_id": "26202305",
+    "_id": 26202305,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "30",
@@ -253,7 +253,7 @@
     "maturityDate": "20230803"
   },
   {
-    "_id": "17202305",
+    "_id": 17202305,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "01",
@@ -264,7 +264,7 @@
     "maturityDate": "20230606"
   },
   {
-    "_id": "04202305",
+    "_id": 4202305,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "02",
@@ -275,7 +275,7 @@
     "maturityDate": "20230307"
   },
   {
-    "_id": "08202305",
+    "_id": 8202305,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "02",
@@ -286,7 +286,7 @@
     "maturityDate": "20230404"
   },
   {
-    "_id": "13202306",
+    "_id": 13202306,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "06",
@@ -297,7 +297,7 @@
     "maturityDate": "20230511"
   },
   {
-    "_id": "26202306",
+    "_id": 26202306,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "06",
@@ -308,7 +308,7 @@
     "maturityDate": "20230810"
   },
   {
-    "_id": "17202306",
+    "_id": 17202306,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "08",
@@ -319,7 +319,7 @@
     "maturityDate": "20230613"
   },
   {
-    "_id": "04202306",
+    "_id": 4202306,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "09",
@@ -330,7 +330,7 @@
     "maturityDate": "20230314"
   },
   {
-    "_id": "08202306",
+    "_id": 8202306,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "09",
@@ -341,7 +341,7 @@
     "maturityDate": "20230411"
   },
   {
-    "_id": "13202307",
+    "_id": 13202307,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "13",
@@ -352,7 +352,7 @@
     "maturityDate": "20230518"
   },
   {
-    "_id": "26202307",
+    "_id": 26202307,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "13",
@@ -363,7 +363,7 @@
     "maturityDate": "20230817"
   },
   {
-    "_id": "17202307",
+    "_id": 17202307,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "15",
@@ -374,7 +374,7 @@
     "maturityDate": "20230620"
   },
   {
-    "_id": "04202307",
+    "_id": 4202307,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "16",
@@ -385,7 +385,7 @@
     "maturityDate": "20230321"
   },
   {
-    "_id": "08202307",
+    "_id": 8202307,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "16",
@@ -396,7 +396,7 @@
     "maturityDate": "20230418"
   },
   {
-    "_id": "13202308",
+    "_id": 13202308,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "21",
@@ -407,7 +407,7 @@
     "maturityDate": "20230525"
   },
   {
-    "_id": "26202308",
+    "_id": 26202308,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "21",
@@ -418,7 +418,7 @@
     "maturityDate": "20230824"
   },
   {
-    "_id": "52202308",
+    "_id": 52202308,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "21",
@@ -429,7 +429,7 @@
     "maturityDate": "20240222"
   },
   {
-    "_id": "17202308",
+    "_id": 17202308,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "22",
@@ -440,7 +440,7 @@
     "maturityDate": "20230627"
   },
   {
-    "_id": "04202308",
+    "_id": 4202308,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "23",
@@ -451,7 +451,7 @@
     "maturityDate": "20230328"
   },
   {
-    "_id": "08202308",
+    "_id": 8202308,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "23",
@@ -462,7 +462,7 @@
     "maturityDate": "20230425"
   },
   {
-    "_id": "13202309",
+    "_id": 13202309,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "27",
@@ -473,7 +473,7 @@
     "maturityDate": "20230601"
   },
   {
-    "_id": "26202309",
+    "_id": 26202309,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "27",
@@ -484,7 +484,7 @@
     "maturityDate": "20230831"
   },
   {
-    "_id": "17202309",
+    "_id": 17202309,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "01",
@@ -495,7 +495,7 @@
     "maturityDate": "20230705"
   },
   {
-    "_id": "04202309",
+    "_id": 4202309,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "02",
@@ -506,7 +506,7 @@
     "maturityDate": "20230404"
   },
   {
-    "_id": "08202309",
+    "_id": 8202309,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "02",
@@ -517,7 +517,7 @@
     "maturityDate": "20230502"
   },
   {
-    "_id": "13202310",
+    "_id": 13202310,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "06",
@@ -528,7 +528,7 @@
     "maturityDate": "20230608"
   },
   {
-    "_id": "26202310",
+    "_id": 26202310,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "06",
@@ -539,7 +539,7 @@
     "maturityDate": "20230907"
   },
   {
-    "_id": "17202310",
+    "_id": 17202310,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "08",
@@ -550,7 +550,7 @@
     "maturityDate": "20230711"
   },
   {
-    "_id": "04202310",
+    "_id": 4202310,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "09",
@@ -561,7 +561,7 @@
     "maturityDate": "20230411"
   },
   {
-    "_id": "08202310",
+    "_id": 8202310,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "09",
@@ -572,7 +572,7 @@
     "maturityDate": "20230509"
   },
   {
-    "_id": "13202311",
+    "_id": 13202311,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "13",
@@ -583,7 +583,7 @@
     "maturityDate": "20230615"
   },
   {
-    "_id": "26202311",
+    "_id": 26202311,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "13",
@@ -594,7 +594,7 @@
     "maturityDate": "20230914"
   },
   {
-    "_id": "17202311",
+    "_id": 17202311,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "15",
@@ -605,7 +605,7 @@
     "maturityDate": "20230718"
   },
   {
-    "_id": "04202311",
+    "_id": 4202311,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "16",
@@ -616,7 +616,7 @@
     "maturityDate": "20230418"
   },
   {
-    "_id": "08202311",
+    "_id": 8202311,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "16",
@@ -627,7 +627,7 @@
     "maturityDate": "20230516"
   },
   {
-    "_id": "13202312",
+    "_id": 13202312,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "20",
@@ -638,7 +638,7 @@
     "maturityDate": "20230622"
   },
   {
-    "_id": "26202312",
+    "_id": 26202312,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "20",
@@ -649,7 +649,7 @@
     "maturityDate": "20230921"
   },
   {
-    "_id": "52202312",
+    "_id": 52202312,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "21",
@@ -660,7 +660,7 @@
     "maturityDate": "20240322"
   },
   {
-    "_id": "17202312",
+    "_id": 17202312,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "22",
@@ -671,7 +671,7 @@
     "maturityDate": "20230725"
   },
   {
-    "_id": "04202312",
+    "_id": 4202312,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "23",
@@ -682,7 +682,7 @@
     "maturityDate": "20230425"
   },
   {
-    "_id": "08202312",
+    "_id": 8202312,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "23",
@@ -693,7 +693,7 @@
     "maturityDate": "20230523"
   },
   {
-    "_id": "13202313",
+    "_id": 13202313,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "27",
@@ -704,7 +704,7 @@
     "maturityDate": "20230629"
   },
   {
-    "_id": "26202313",
+    "_id": 26202313,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "27",
@@ -715,7 +715,7 @@
     "maturityDate": "20230928"
   },
   {
-    "_id": "17202313",
+    "_id": 17202313,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "29",
@@ -726,7 +726,7 @@
     "maturityDate": "20230801"
   },
   {
-    "_id": "04202313",
+    "_id": 4202313,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "30",
@@ -737,7 +737,7 @@
     "maturityDate": "20230502"
   },
   {
-    "_id": "08202313",
+    "_id": 8202313,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "30",
@@ -748,7 +748,7 @@
     "maturityDate": "20230530"
   },
   {
-    "_id": "13202314",
+    "_id": 13202314,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "03",
@@ -759,7 +759,7 @@
     "maturityDate": "20230706"
   },
   {
-    "_id": "26202314",
+    "_id": 26202314,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "03",
@@ -770,7 +770,7 @@
     "maturityDate": "20231005"
   },
   {
-    "_id": "17202314",
+    "_id": 17202314,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "05",
@@ -781,7 +781,7 @@
     "maturityDate": "20230808"
   },
   {
-    "_id": "04202314",
+    "_id": 4202314,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "06",
@@ -792,7 +792,7 @@
     "maturityDate": "20230509"
   },
   {
-    "_id": "08202314",
+    "_id": 8202314,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "06",
@@ -803,7 +803,7 @@
     "maturityDate": "20230606"
   },
   {
-    "_id": "13202315",
+    "_id": 13202315,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "10",
@@ -814,7 +814,7 @@
     "maturityDate": "20230713"
   },
   {
-    "_id": "26202315",
+    "_id": 26202315,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "10",
@@ -825,7 +825,7 @@
     "maturityDate": "20231012"
   },
   {
-    "_id": "17202315",
+    "_id": 17202315,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "12",
@@ -836,7 +836,7 @@
     "maturityDate": "20230815"
   },
   {
-    "_id": "04202315",
+    "_id": 4202315,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "13",
@@ -847,7 +847,7 @@
     "maturityDate": "20230516"
   },
   {
-    "_id": "08202315",
+    "_id": 8202315,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "13",
@@ -858,7 +858,7 @@
     "maturityDate": "20230613"
   },
   {
-    "_id": "13202316",
+    "_id": 13202316,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "17",
@@ -869,7 +869,7 @@
     "maturityDate": "20230720"
   },
   {
-    "_id": "26202316",
+    "_id": 26202316,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "17",
@@ -880,7 +880,7 @@
     "maturityDate": "20231019"
   },
   {
-    "_id": "52202316",
+    "_id": 52202316,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "18",
@@ -891,7 +891,7 @@
     "maturityDate": "20240418"
   },
   {
-    "_id": "17202316",
+    "_id": 17202316,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "19",
@@ -902,7 +902,7 @@
     "maturityDate": "20230822"
   },
   {
-    "_id": "04202316",
+    "_id": 4202316,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "20",
@@ -913,7 +913,7 @@
     "maturityDate": "20230523"
   },
   {
-    "_id": "08202316",
+    "_id": 8202316,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "20",
@@ -924,7 +924,7 @@
     "maturityDate": "20230620"
   },
   {
-    "_id": "13202317",
+    "_id": 13202317,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "24",
@@ -935,7 +935,7 @@
     "maturityDate": "20230720"
   },
   {
-    "_id": "26202317",
+    "_id": 26202317,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "24",
@@ -946,7 +946,7 @@
     "maturityDate": "20231026"
   },
   {
-    "_id": "17202317",
+    "_id": 17202317,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "26",
@@ -957,7 +957,7 @@
     "maturityDate": "20230829"
   },
   {
-    "_id": "04202317",
+    "_id": 4202317,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "27",
@@ -968,7 +968,7 @@
     "maturityDate": "20230530"
   },
   {
-    "_id": "08202317",
+    "_id": 8202317,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "27",

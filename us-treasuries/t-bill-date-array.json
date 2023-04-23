@@ -1,6 +1,6 @@
 [
   {
-    "_id": "2023001",
+    "_id": 2023001,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "03",
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "_id": "2023002",
+    "_id": 2023002,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "04",
@@ -37,7 +37,7 @@
     ]
   },  
   {
-    "_id": "2023003",
+    "_id": 2023003,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "05",
@@ -59,7 +59,7 @@
     ]
   },
   {
-    "_id": "2023004",
+    "_id": 2023004,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "09",
@@ -81,7 +81,7 @@
     ]
   },    
   {
-    "_id": "2023005",
+    "_id": 2023005,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "11",
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "_id": "2023006",
+    "_id": 2023006,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "12",
@@ -118,7 +118,7 @@
     ]
   },
   {
-    "_id": "2023007",
+    "_id": 2023007,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "17",
@@ -140,7 +140,7 @@
     ]
   },
   {
-    "_id": "2023008",
+    "_id": 2023008,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "18",
@@ -155,7 +155,7 @@
     ]
   },
   {
-    "_id": "2023009",
+    "_id": 2023009,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "19",
@@ -177,7 +177,7 @@
     ]
   },
   {
-    "_id": "2023010",
+    "_id": 2023010,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "23",
@@ -199,7 +199,7 @@
     ]
   },
   {
-    "_id": "2023011",
+    "_id": 2023011,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "24",
@@ -214,7 +214,7 @@
     ]
   },
   {
-    "_id": "2023012",
+    "_id": 2023012,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "25",
@@ -229,7 +229,7 @@
     ]
   },
   {
-    "_id": "2023013",
+    "_id": 2023013,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "26",
@@ -251,7 +251,7 @@
     ]
   },
   {
-    "_id": "2023014",
+    "_id": 2023014,
     "auctionYear": "2023",
     "auctionMonth": "01",
     "auctionDay": "30",
@@ -273,7 +273,7 @@
     ]
   },
   {
-    "_id": "2023015",
+    "_id": 2023015,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "01",
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "_id": "2023016",
+    "_id": 2023016,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "02",
@@ -310,7 +310,7 @@
     ]
   },
   {
-    "_id": "2023017",
+    "_id": 2023017,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "06",
@@ -332,7 +332,7 @@
     ]
   },
   {
-    "_id": "2023018",
+    "_id": 2023018,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "08",
@@ -347,7 +347,7 @@
     ]
   },
   {
-    "_id": "2023019",
+    "_id": 2023019,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "09",
@@ -369,7 +369,7 @@
     ]
   },
   {
-    "_id": "2023020",
+    "_id": 2023020,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "13",
@@ -391,7 +391,7 @@
     ]
   },
   {
-    "_id": "2023021",
+    "_id": 2023021,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "15",
@@ -406,7 +406,7 @@
     ]
   },
   {
-    "_id": "2023022",
+    "_id": 2023022,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "16",
@@ -428,7 +428,7 @@
     ]
   },
   {
-    "_id": "2023023",
+    "_id": 2023023,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "21",
@@ -457,7 +457,7 @@
     ]
   },
   {
-    "_id": "2023024",
+    "_id": 2023024,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "22",
@@ -472,7 +472,7 @@
     ]
   },
   {
-    "_id": "2023025",
+    "_id": 2023025,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "23",
@@ -494,7 +494,7 @@
     ]
   },
   {
-    "_id": "2023026",
+    "_id": 2023026,
     "auctionYear": "2023",
     "auctionMonth": "02",
     "auctionDay": "27",
@@ -516,7 +516,7 @@
     ]
   },
   {
-    "_id": "2023027",
+    "_id": 2023027,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "01",
@@ -531,7 +531,7 @@
     ]
   },
   {
-    "_id": "2023028",
+    "_id": 2023028,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "02",
@@ -553,7 +553,7 @@
     ]
   },
   {
-    "_id": "2023029",
+    "_id": 2023029,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "06",
@@ -575,7 +575,7 @@
     ]
   },
   {
-    "_id": "2023030",
+    "_id": 2023030,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "08",
@@ -590,7 +590,7 @@
     ]
   },
   {
-    "_id": "2023031",
+    "_id": 2023031,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "09",
@@ -612,7 +612,7 @@
     ]
   },
   {
-    "_id": "2023032",
+    "_id": 2023032,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "13",
@@ -634,7 +634,7 @@
     ]
   },
   {
-    "_id": "2023033",
+    "_id": 2023033,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "15",
@@ -649,7 +649,7 @@
     ]
   },
   {
-    "_id": "2023034",
+    "_id": 2023034,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "16",
@@ -671,7 +671,7 @@
     ]
   },
   {
-    "_id": "2023035",
+    "_id": 2023035,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "20",
@@ -693,7 +693,7 @@
     ]
   },
   {
-    "_id": "2023036",
+    "_id": 2023036,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "21",
@@ -708,7 +708,7 @@
     ]
   },
   {
-    "_id": "2023037",
+    "_id": 2023037,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "22",
@@ -723,7 +723,7 @@
     ]
   },
   {
-    "_id": "2023038",
+    "_id": 2023038,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "23",
@@ -745,7 +745,7 @@
     ]
   },
   {
-    "_id": "2023039",
+    "_id": 2023039,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "27",
@@ -767,7 +767,7 @@
     ]
   },
   {
-    "_id": "2023040",
+    "_id": 2023040,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "29",
@@ -782,7 +782,7 @@
     ]
   },
   {
-    "_id": "2023041",
+    "_id": 2023041,
     "auctionYear": "2023",
     "auctionMonth": "03",
     "auctionDay": "30",
@@ -804,7 +804,7 @@
     ]
   },
   {
-    "_id": "2023042",
+    "_id": 2023042,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "03",
@@ -826,7 +826,7 @@
     ]
   },
   {
-    "_id": "2023043",
+    "_id": 2023043,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "05",
@@ -841,7 +841,7 @@
     ]
   },
   {
-    "_id": "2023044",
+    "_id": 2023044,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "06",
@@ -863,7 +863,7 @@
     ]
   },
   {
-    "_id": "2023045",
+    "_id": 2023045,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "10",
@@ -885,7 +885,7 @@
     ]
   },
   {
-    "_id": "2023046",
+    "_id": 2023046,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "12",
@@ -900,7 +900,7 @@
     ]
   },
   {
-    "_id": "2023047",
+    "_id": 2023047,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "13",
@@ -922,7 +922,7 @@
     ]
   },
   {
-    "_id": "2023048",
+    "_id": 2023048,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "17",
@@ -944,7 +944,7 @@
     ]
   },
   {
-    "_id": "2023049",
+    "_id": 2023049,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "18",
@@ -959,7 +959,7 @@
     ]
   },
   {
-    "_id": "2023050",
+    "_id": 2023050,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "19",
@@ -974,7 +974,7 @@
     ]
   },
   {
-    "_id": "2023051",
+    "_id": 2023051,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "20",
@@ -996,7 +996,7 @@
     ]
   },
   {
-    "_id": "2023052",
+    "_id": 2023052,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "24",
@@ -1018,7 +1018,7 @@
     ]
   },
   {
-    "_id": "2023053",
+    "_id": 2023053,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "26",
@@ -1033,7 +1033,7 @@
     ]
   },
   {
-    "_id": "2023051",
+    "_id": 2023054,
     "auctionYear": "2023",
     "auctionMonth": "04",
     "auctionDay": "27",
