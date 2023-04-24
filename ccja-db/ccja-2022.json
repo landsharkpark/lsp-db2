@@ -72,6 +72,35 @@
           "Kafka - a02-kafka-objects - began project for various Kafka configurations",
           "Kafka - a02-kafka-objects - read JSON text file and publish to Kafka Topic"
         ]
+      },
+      {
+        "id": 107,
+        "sprintDay": 7,
+        "challengeDay": 7,
+        "date": "20230421",
+        "dayNotes": [
+          "Java Gradle project - worked on input and output files for GitHub project"
+        ]
+      },
+      {
+        "id": 108,
+        "sprintDay": 8,
+        "challengeDay": 8,
+        "date": "20230422",
+        "dayNotes": [
+          "landsharkpark blog - added Finance page",
+          "Worked on REST API call to t-bill auctions"
+        ]
+      },
+      {
+        "id": 109,
+        "sprintDay": 9,
+        "challengeDay": 9,
+        "date": "20230423",
+        "dayNotes": [
+          "landsharkpark blog - finished t-bill auction results panel on Finance page",
+          "Bootstrap table for display results of t-bill auctions"
+        ]
       }
     ]
   }
