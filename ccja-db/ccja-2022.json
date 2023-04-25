@@ -11,6 +11,9 @@
       "Basic Kafka Java program"
     ],
     "sprintreview": [
+      "Basic Kafka and Java set up is good",
+      "Added T-Bill auction results to https://landsharkpark-blog.web.app site",
+      "Some general Ubuntu workstation set up for development"
     ],
     "days": [
       {
@@ -113,5 +116,31 @@
         ]
       }      
     ]
+  },
+  {
+    "id": 1,
+    "sprintnbr": 1,
+    "sprinttitle": "2023 Projects Setup",
+    "sprintgoals": [
+      "Need to update landsharkpark Picks page for Kentucky Derby",
+      "Mortgage Calculator page",
+      "Update landsharkpark-mn and leseanbruneau-blog web sites",
+      "Basic Kafka installation and configuration",
+      "Basic Kafka Java program"
+    ],
+    "sprintreview": [
+    ],
+    "days": [
+      {
+        "id": 102,
+        "sprintDay": 2,
+        "challengeDay": 11,
+        "date": "20230425",
+        "dayNotes": [
+          "Kentucky Derby Picks page"
+        ]
+      }
+    ]
   }
+
 ]
