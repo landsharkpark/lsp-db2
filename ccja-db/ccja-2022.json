@@ -101,7 +101,17 @@
           "landsharkpark blog - finished t-bill auction results panel on Finance page",
           "Bootstrap table for display results of t-bill auctions"
         ]
-      }
+      },
+      {
+        "id": 110,
+        "sprintDay": 10,
+        "challengeDay": 10,
+        "date": "20230424",
+        "dayNotes": [
+          "landsharkpark blog - added Kentucky Derby links",
+          "updated blog entry"
+        ]
+      }      
     ]
   }
 ]
