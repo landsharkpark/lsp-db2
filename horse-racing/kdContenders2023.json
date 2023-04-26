@@ -1,0 +1,347 @@
+[
+    {
+        "id": 1,
+        "rank": 1,
+        "points": 190,
+        "name": "Forte",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Forte_2",
+        "sire": "Violence",
+        "pedigree": "Violence - Queen Caroline, by Blame",
+        "pedigreeLink": "https://www.pedigreequery.com/forte21",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 2,
+        "rank": 2,
+        "points": 160,
+        "name": "Practical Move",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/practical_move",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 3,
+        "rank": 3,
+        "points": 154,
+        "name": "Angel of Empire",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Angel_Of_Empire",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 4,
+        "rank": 4,
+        "points": 150,
+        "name": "Tapit Trice",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Tapit_Trice",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 5,
+        "rank": 5,
+        "points": 123,
+        "name": "Two Phil's",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Two_Phils",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 6,
+        "rank": 6,
+        "points": 105,
+        "name": "Lord Miles",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Lord_Miles",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 7,
+        "rank": 7,
+        "points": 100,
+        "name": "Derma Sotogake (JPN)",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Derma_Sotogake",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 8,
+        "rank": 8,
+        "points": 100,
+        "name": "Kingsbarns",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Kingsbarns_1",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 9,
+        "rank": 9,
+        "points": 64,
+        "name": "Raise Cain",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 10,
+        "rank": 10,
+        "points": 60,
+        "name": "Rocket Can",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Raise_Cain",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 11,
+        "rank": 11,
+        "points": 60,
+        "name": "Hit Show",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Hit_Show",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 12,
+        "rank": 12,
+        "points": 57,
+        "name": "Confidence Game",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Confidence_Game",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 13,
+        "rank": 13,
+        "points": 54,
+        "name": "Verifying",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Verifying",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 14,
+        "rank": 14,
+        "points": 54,
+        "name": "Sun Thunder",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Sun_Thunder",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 15,
+        "rank": 15,
+        "points": 50,
+        "name": "Wild On Ice",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Wild_On_Ice",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 16,
+        "rank": 16,
+        "points": 46,
+        "name": "Mage",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Mage",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 17,
+        "rank": 17,
+        "points": 46,
+        "name": "Blazing Sevens",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Blazing_Sevens",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 18,
+        "rank": 18,
+        "points": 46,
+        "name": "Disarm",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Disarm_2",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 19,
+        "rank": 19,
+        "points": 45,
+        "ae": false,
+        "scratched": false,
+        "name": "Reincarnate",
+        "profileLink": "https://www.horseracingnation.com/horse/Reincarnate",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 20,
+        "rank": 20,
+        "points": 0,
+        "name": "Continuar (JPN)",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Continuar",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 21,
+        "rank": 21,
+        "points": 45,
+        "name": "Jace's Road",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Jaces_Road",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 22,
+        "rank": 22,
+        "points": 45,
+        "name": "Skinner",
+        "ae": false,
+        "scratched": false,
+        "profileLink": "https://www.horseracingnation.com/horse/Skinner_1",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    },
+    {
+        "id": 23,
+        "rank": 23,
+        "points": 23,
+        "ae": false,
+        "scratched": false,
+        "name": "Cyclone Mischief",
+        "profileLink": "https://www.horseracingnation.com/horse/Cyclone_Mischief",
+        "sire": "",
+        "pedigree": "",
+        "pedigreeLink": "",
+        "comments": [
+            ""
+        ]
+    }
+]
