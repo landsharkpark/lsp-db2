@@ -242,7 +242,7 @@
         {
           "raceNum": "4",
           "raceName": "",
-          "tv": "FANDUEL TV",
+          "tv": "NBC, FANDUEL TV",
           "stakesrace": false,
           "purse": "",
           "postTime": "11:04 AM",
@@ -256,7 +256,7 @@
         {
           "raceNum": "5",
           "raceName": "",
-          "tv": "USA, FANDUEL TV",
+          "tv": "NBC, FANDUEL TV",
           "stakesrace": false,
           "purse": "",
           "postTime": "11:36 AM",
@@ -270,7 +270,7 @@
         {
           "raceNum": "6",
           "raceName": "",
-          "tv": "USA, FANDUEL TV",
+          "tv": "NBC, FANDUEL TV",
           "stakesrace": false,
           "purse": "",
           "postTime": "12:14 PM",
@@ -284,7 +284,7 @@
         {
           "raceNum": "7",
           "raceName": "",
-          "tv": "USA, FANDUEL TV",
+          "tv": "NBC, FANDUEL TV",
           "stakesrace": false,
           "purse": "",
           "postTime": "12:56 PM",
@@ -298,7 +298,7 @@
         {
           "raceNum": "8",
           "raceName": "",
-          "tv": "USA, FANDUEL TV",
+          "tv": "NBC, FANDUEL TV",
           "stakesrace": false,
           "purse": "",
           "postTime": "1:46 PM",
@@ -354,7 +354,7 @@
         {
           "raceNum": "12",
           "raceName": "Kentucky Derby 149",
-          "tv": "FANDUEL TV",
+          "tv": "NBC, FANDUEL TV",
           "stakesrace": false,
           "purse": "",
           "postTime": "5:57 PM",
@@ -368,7 +368,7 @@
         {
             "raceNum": "13",
             "raceName": "",
-            "tv": "NBC",
+            "tv": "FANDUEL TV",
             "stakesrace": false,
             "purse": "",
             "postTime": "6:55 PM",

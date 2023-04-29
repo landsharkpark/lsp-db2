@@ -118,12 +118,12 @@
     ]
   },
   {
-    "id": 1,
-    "sprintnbr": 1,
+    "id": 2,
+    "sprintnbr": 2,
     "sprinttitle": "2023 Projects Setup",
     "sprintgoals": [
       "Need to update landsharkpark Picks page for Kentucky Derby",
-      "Mortgage Calculator page",
+      "Kentucky Derby Horses page",
       "Update landsharkpark-mn and leseanbruneau-blog web sites",
       "Basic Kafka installation and configuration",
       "Basic Kafka Java program"
@@ -132,14 +132,51 @@
     ],
     "days": [
       {
-        "id": 102,
-        "sprintDay": 2,
+        "id": 201,
+        "sprintDay": 1,
         "challengeDay": 11,
         "date": "20230425",
         "dayNotes": [
-          "Kentucky Derby Picks page"
+          "Kentucky Derby Picks page - set up new external file and REST API call"
+        ]
+      },
+      {
+        "id": 202,
+        "sprintDay": 2,
+        "challengeDay": 12,
+        "date": "20230426",
+        "dayNotes": [
+          "Kentucky Derby Picks page - web page formatting"
+        ]
+      },
+      {
+        "id": 203,
+        "sprintDay": 3,
+        "challengeDay": 13,
+        "date": "20230427",
+        "dayNotes": [
+          "Kentucky Derby Horses page - set up new external file and REST API call"
+        ]
+      },
+      {
+        "id": 204,
+        "sprintDay": 4,
+        "challengeDay": 14,
+        "date": "20230428",
+        "dayNotes": [
+          "Kentucky Derby Horses page - web page formatting"
+        ]
+      },
+      {
+        "id": 205,
+        "sprintDay": 5,
+        "challengeDay": 15,
+        "date": "20230429",
+        "dayNotes": [
+          "Java JSON Simple Program example - checked in new code for reading and writing JSON files using Java"
         ]
       }
+
     ]
   }
 
