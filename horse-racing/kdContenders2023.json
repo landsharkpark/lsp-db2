@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "postPosition": 1,        
         "rank": 1,
         "points": 190,
         "name": "Forte",
@@ -19,6 +20,7 @@
     },
     {
         "id": 2,
+        "postPosition": 1,        
         "rank": 2,
         "points": 160,
         "name": "Practical Move",
@@ -36,6 +38,7 @@
     },
     {
         "id": 3,
+        "postPosition": 1,        
         "rank": 3,
         "points": 154,
         "name": "Angel of Empire",
@@ -53,6 +56,7 @@
     },
     {
         "id": 4,
+        "postPosition": 1,        
         "rank": 4,
         "points": 150,
         "name": "Tapit Trice",
@@ -69,6 +73,7 @@
     },
     {
         "id": 5,
+        "postPosition": 1,        
         "rank": 5,
         "points": 123,
         "name": "Two Phil's",
@@ -86,6 +91,7 @@
     },
     {
         "id": 6,
+        "postPosition": 1,        
         "rank": 6,
         "points": 105,
         "name": "Lord Miles",
@@ -102,6 +108,7 @@
     },
     {
         "id": 7,
+        "postPosition": 1,        
         "rank": 7,
         "points": 100,
         "name": "Derma Sotogake (JPN)",
@@ -118,6 +125,7 @@
     },
     {
         "id": 8,
+        "postPosition": 1,        
         "rank": 8,
         "points": 100,
         "name": "Kingsbarns",
@@ -133,6 +141,7 @@
     },
     {
         "id": 9,
+        "postPosition": 1,        
         "rank": 9,
         "points": 64,
         "name": "Raise Cain",
@@ -150,6 +159,7 @@
     },
     {
         "id": 10,
+        "postPosition": 1,        
         "rank": 10,
         "points": 60,
         "name": "Rocket Can",
@@ -167,6 +177,7 @@
     },
     {
         "id": 11,
+        "postPosition": 1,        
         "rank": 11,
         "points": 60,
         "name": "Hit Show",
@@ -183,6 +194,7 @@
     },
     {
         "id": 12,
+        "postPosition": 1,        
         "rank": 12,
         "points": 57,
         "name": "Confidence Game",
@@ -199,6 +211,7 @@
     },
     {
         "id": 13,
+        "postPosition": 1,        
         "rank": 13,
         "points": 54,
         "name": "Verifying",
@@ -215,6 +228,7 @@
     },
     {
         "id": 14,
+        "postPosition": 1,        
         "rank": 14,
         "points": 54,
         "name": "Sun Thunder",
@@ -233,6 +247,7 @@
     },
     {
         "id": 15,
+        "postPosition": 1,        
         "rank": 15,
         "points": 50,
         "name": "Wild On Ice",
@@ -248,6 +263,7 @@
     },
     {
         "id": 16,
+        "postPosition": 1,        
         "rank": 16,
         "points": 46,
         "name": "Mage",
@@ -264,6 +280,7 @@
     },
     {
         "id": 17,
+        "postPosition": 1,        
         "rank": 17,
         "points": 46,
         "name": "Blazing Sevens",
@@ -281,6 +298,7 @@
     },
     {
         "id": 18,
+        "postPosition": 1,        
         "rank": 18,
         "points": 46,
         "name": "Disarm",
@@ -297,6 +315,7 @@
     },
     {
         "id": 19,
+        "postPosition": 1,        
         "rank": 19,
         "points": 45,
         "ae": false,
@@ -314,6 +333,7 @@
     },
     {
         "id": 20,
+        "postPosition": 1,        
         "rank": 20,
         "points": 0,
         "name": "Continuar (JPN)",
@@ -330,6 +350,7 @@
     },
     {
         "id": 21,
+        "postPosition": 1,        
         "rank": 21,
         "points": 45,
         "name": "Jace's Road",
@@ -348,6 +369,7 @@
     },
     {
         "id": 22,
+        "postPosition": 1,        
         "rank": 22,
         "points": 45,
         "name": "Skinner",
@@ -364,6 +386,7 @@
     },
     {
         "id": 23,
+        "postPosition": 1,        
         "rank": 23,
         "points": 45,
         "ae": false,

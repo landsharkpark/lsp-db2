@@ -173,9 +173,29 @@
         "challengeDay": 15,
         "date": "20230429",
         "dayNotes": [
+          "More Kafka shell scripts for admin functions"
+        ]
+      },
+      {
+        "id": 206,
+        "sprintDay": 6,
+        "challengeDay": 16,
+        "date": "20230430",
+        "dayNotes": [
+          "GitHub check-in - kafka-simple-projects Java modules",
+          "a01-kafka-basics - simple Kafka Producer and Consumer Java programs",
+          "a02-kafka-basics-objects - Kafka batch program to read JSON file and publish content to Kafka topic"
+        ]
+      },
+      {
+        "id": 207,
+        "sprintDay": 7,
+        "challengeDay": 17,
+        "date": "20230501",
+        "dayNotes": [
           "Java JSON Simple Program example - checked in new code for reading and writing JSON files using Java"
         ]
-      }
+      }      
 
     ]
   }
