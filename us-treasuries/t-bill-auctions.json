@@ -981,23 +981,23 @@
   {
     "_id": 13202318,
     "auctionYear": "2023",
-    "auctionMonth": "04",
-    "auctionDay": "24",
+    "auctionMonth": "05",
+    "auctionDay": "01",
     "term": "13-week",
     "description": "91-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "5.274",
+    "price": "98.705778",
     "maturityDate": "20230803"
   },
   {
     "_id": 26202318,
     "auctionYear": "2023",
-    "auctionMonth": "04",
-    "auctionDay": "24",
+    "auctionMonth": "05",
+    "auctionDay": "01",
     "term": "26-week",
     "description": "182-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "5.108",
+    "price": "97.522778",
     "maturityDate": "20231102"
   },
   {
