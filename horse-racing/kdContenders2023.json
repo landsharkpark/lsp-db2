@@ -375,13 +375,12 @@
         "name": "Mandarin Hero (JPN)",
         "ae": true,
         "scratched": false,
-        "profileLink": "https://www.horseracingnation.com/horse/Continuar",
-        "sire": "Drefong",
-        "pedigree": "Drefong - Pan De Ring, by King",
-        "pedigreeLink": "https://www.pedigreequery.com/continuar",
+        "profileLink": "https://www.horseracingnation.com/horse/Mandarin_Hero",
+        "sire": "Shanghai Bobby",
+        "pedigree": "Shanghai Bobby - Namura Nadeshiko, by Fuji Kiseki",
+        "pedigreeLink": "https://www.pedigreequery.com/mandarin+hero2",
         "comments": [
-            "3rd - UAE Derby (MEY 3/25/2023)",
-            "5th - Saudi Derby (KAA 2/25/2023)"
+            "2nd - Santa Anita Derby (4/8/2023)"
         ]
     },
     {
@@ -392,13 +391,12 @@
         "name": "King Russell",
         "ae": true,
         "scratched": false,
-        "profileLink": "https://www.horseracingnation.com/horse/Continuar",
-        "sire": "Drefong",
-        "pedigree": "Drefong - Pan De Ring, by King",
-        "pedigreeLink": "https://www.pedigreequery.com/continuar",
+        "profileLink": "https://www.horseracingnation.com/horse/King_Russell",
+        "sire": "Creative Cause",
+        "pedigree": "Creative Cause - Believe You Will, by Proud Citizen",
+        "pedigreeLink": "https://www.pedigreequery.com/king+russell",
         "comments": [
-            "3rd - UAE Derby (MEY 3/25/2023)",
-            "5th - Saudi Derby (KAA 2/25/2023)"
+            "2nd - Arkansas Derby (OP 4/1/2023)"
         ]
     }
 ]
