@@ -195,8 +195,26 @@
         "dayNotes": [
           "Java JSON Simple Program example - checked in new code for reading and writing JSON files using Java"
         ]
+      },      
+      {
+        "id": 208,
+        "sprintDay": 8,
+        "challengeDay": 18,
+        "date": "20230502",
+        "dayNotes": [
+          "Horse racing blog site update - entered horses and race information",
+          "Horse racing blog site update - Some formatting updates on Contenders and Picks pages"
+        ]
+      },
+      {
+        "id": 209,
+        "sprintDay": 9,
+        "challengeDay": 19,
+        "date": "20230503",
+        "dayNotes": [
+          "Horse racing blog site update - Navigation bar"
+        ]
       }      
-
     ]
   }
 
