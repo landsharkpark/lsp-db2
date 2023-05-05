@@ -37,13 +37,15 @@
           "distance": "6 1/2 Furlongs",
           "surface": "Dirt",
           "picks": "11-2-9-6",
-          "officialResults": "",
+          "officialResults": "11-9-13-2",
           "preRaceComments": [
             "(2) Padma - Did not run well on turf last time out, expect better results on class drop, cutback in distance, and move back to dirt",
             "(11) Vahva - Gun Runner Sire, L. Saez as jockey",
             "(9) Undervalued Asset - Lost badly last time out to Dorth Vader, I'm putting a line through that race"
           ],
-          "postRaceComments": []
+          "postRaceComments": [
+            "Great dual between (11) Vahva and down to the wire"
+          ]
         },
         {
           "raceNum": "3",
@@ -55,7 +57,7 @@
           "distance": "1 Mile",
           "surface": "Turf",
           "picks": "6-11-12-1",
-          "officialResults": "",
+          "officialResults": "1-11-10-4",
           "preRaceComments": [
             "I'm curious how Churchill Downs turf course plays this weekend",
             "(6) Point Me By - Lots of seconds and third place finishes, needs improved effort to win",
@@ -63,7 +65,10 @@
             "(12) Siege of Boston - Good past performance results, but moving up in class",
             "(1) Smokin' T - Slow starter, might be tough to work out a good trip on the rail"
           ],
-          "postRaceComments": []
+          "postRaceComments": [
+            "(1) Smokin' T - no problem with rail post, great ride from Velazquez",
+            "(11) Burning Bright - good run given outside post"
+          ]
         },
         {
           "raceNum": "4",
