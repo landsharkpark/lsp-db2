@@ -163,25 +163,6 @@
         ]
     },
     {
-        "id": 10,
-        "progNum": 10,     
-        "postPosition": 101,
-        "rank": 2,
-        "points": 160,
-        "name": "Practical Move",
-        "ae": false,
-        "scratched": true,
-        "profileLink": "https://www.horseracingnation.com/horse/practical_move",
-        "sire": "Practical Joke",
-        "pedigree": "Practical Joke - Ack Naughty, by Afleet Alex",
-        "pedigreeLink": "https://www.pedigreequery.com/practical+move",
-        "comments": [
-            "1st - Santa Anita Derby (SA 4/8/2023)",
-            "1st - San Felipe (SA 3/4/2023)",
-            "1st - Los Alamtos Futurity (LRC 12/17/2022)"
-        ]
-    },
-    {
         "id": 11,
         "progNum": 11,     
         "postPosition": 10,        
@@ -335,42 +316,6 @@
         ]
     },
     {
-        "id": 19,
-        "progNum": 19,     
-        "postPosition": 102,        
-        "rank": 6,
-        "points": 105,
-        "name": "Lord Miles",
-        "ae": false,
-        "scratched": true,
-        "profileLink": "https://www.horseracingnation.com/horse/Lord_Miles",
-        "sire": "Curlin",
-        "pedigree": "Curlin - Lady Esme, by Majestic Warrior",
-        "pedigreeLink": "https://www.pedigreequery.com/lord+miles",
-        "comments": [
-            "1st - Wood Memorial (AQU 4/8/2023)",
-            "5th - Tampa Bay Derby (TAM 3/11/2023)"
-        ]
-    },
-    {
-        "id": 20,
-        "progNum": 20,     
-        "postPosition": 103,        
-        "rank": 20,
-        "points": 0,
-        "name": "Continuar (JPN)",
-        "ae": false,
-        "scratched": true,
-        "profileLink": "https://www.horseracingnation.com/horse/Continuar",
-        "sire": "Drefong",
-        "pedigree": "Drefong - Pan De Ring, by King",
-        "pedigreeLink": "https://www.pedigreequery.com/continuar",
-        "comments": [
-            "3rd - UAE Derby (MEY 3/25/2023)",
-            "5th - Saudi Derby (KAA 2/25/2023)"
-        ]
-    },
-    {
         "id": 21,
         "progNum": 21,     
         "postPosition": 18,        
@@ -421,5 +366,61 @@
         "comments": [
             "2nd - Arkansas Derby (OP 4/1/2023)"
         ]
+    },
+    {
+        "id": 10,
+        "progNum": 10,     
+        "postPosition": 101,
+        "rank": 2,
+        "points": 160,
+        "name": "Practical Move",
+        "ae": false,
+        "scratched": true,
+        "profileLink": "https://www.horseracingnation.com/horse/practical_move",
+        "sire": "Practical Joke",
+        "pedigree": "Practical Joke - Ack Naughty, by Afleet Alex",
+        "pedigreeLink": "https://www.pedigreequery.com/practical+move",
+        "comments": [
+            "1st - Santa Anita Derby (SA 4/8/2023)",
+            "1st - San Felipe (SA 3/4/2023)",
+            "1st - Los Alamtos Futurity (LRC 12/17/2022)"
+        ]
+    },
+    {
+        "id": 19,
+        "progNum": 19,     
+        "postPosition": 102,        
+        "rank": 6,
+        "points": 105,
+        "name": "Lord Miles",
+        "ae": false,
+        "scratched": true,
+        "profileLink": "https://www.horseracingnation.com/horse/Lord_Miles",
+        "sire": "Curlin",
+        "pedigree": "Curlin - Lady Esme, by Majestic Warrior",
+        "pedigreeLink": "https://www.pedigreequery.com/lord+miles",
+        "comments": [
+            "1st - Wood Memorial (AQU 4/8/2023)",
+            "5th - Tampa Bay Derby (TAM 3/11/2023)"
+        ]
+    },
+    {
+        "id": 20,
+        "progNum": 20,     
+        "postPosition": 103,        
+        "rank": 20,
+        "points": 0,
+        "name": "Continuar (JPN)",
+        "ae": false,
+        "scratched": true,
+        "profileLink": "https://www.horseracingnation.com/horse/Continuar",
+        "sire": "Drefong",
+        "pedigree": "Drefong - Pan De Ring, by King",
+        "pedigreeLink": "https://www.pedigreequery.com/continuar",
+        "comments": [
+            "3rd - UAE Derby (MEY 3/25/2023)",
+            "5th - Saudi Derby (KAA 2/25/2023)"
+        ]
     }
+
 ]
