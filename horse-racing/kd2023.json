@@ -35,8 +35,8 @@
           "picks": "2-11-9-6",
           "officialResults": "",
           "preRaceComments": [
-            "(2) Padma - Did not run well on turf last time out, expect better results on class drop, cutback in distance, and move to dirt",
-            "(11) Vahva - Gun Runner kid, L. Saez as jockey",
+            "(2) Padma - Did not run well on turf last time out, expect better results on class drop, cutback in distance, and move back to dirt",
+            "(11) Vahva - Gun Runner Sire, L. Saez as jockey",
             "(9) Undervalued Asset - Lost badly last time out to Dorth Vader, I'm putting a line through that race"
           ],
           "postRaceComments": []
@@ -50,9 +50,15 @@
           "postTime": "10:30 AM",
           "distance": "1 Mile",
           "surface": "Turf",
-          "picks": "1-6-11-12",
+          "picks": "6-11-12",
           "officialResults": "",
-          "preRaceComments": [],
+          "preRaceComments": [
+            "I'm curious how Churchill Downs turf course plays this weekend",
+            "(6) Point Me By - Lots of seconds and third place finishes, needs improved effort to win",
+            "(11) Burning Bright - Tough post",
+            "(12) Siege of Boston - Good past performance results, but moving up in class",
+            "(1) Smokin' T - Slow starter, might be tough to work out a good trip on the rail"
+          ],
           "postRaceComments": []
         },
         {
@@ -66,7 +72,11 @@
           "surface": "Dirt",
           "picks": "13-4-7-9",
           "officialResults": "",
-          "preRaceComments": [],
+          "preRaceComments": [
+            "(13) Into Disco - One turn mile - seems like a good distance for this horse",
+            "(4) Not So Close - If she can handle the move up class, than she will be a strong contender",
+            "(7) Heartyconstitution - Gaffalione picks up the mount, may end up being my pick at post time"
+          ],
           "postRaceComments": []
         },
         {
@@ -80,7 +90,10 @@
           "surface": "Dirt",
           "picks": "4-3-1-2",
           "officialResults": "",
-          "preRaceComments": [],
+          "preRaceComments": [
+            "Race will likely be between (1) Art Collector, (2) Last Sumurai, and (4) West Will Power who seem to take turns beating one another",
+            "(3) Rich Strike - last year's Kentucky Derby winner.  Good enough to pull a surprise if given the right trip"
+          ],
           "postRaceComments": []
         },
         {
@@ -94,7 +107,10 @@
           "surface": "Dirt",
           "picks": "7-6-5-8",
           "officialResults": "",
-          "preRaceComments": [],
+          "preRaceComments": [
+            "(7) Shantisara, (6) McKulick - Chad Brown trained horses.  Tough be bet against on turf on big race days",
+            "(5) Lady Rockstar, (8) New Year's Eve - Brendan Walsh trained horses.  If 7 and 6 don't win, I'm guessing it will be either of these two"
+          ],
           "postRaceComments": []
         },
         {
@@ -108,7 +124,10 @@
           "surface": "Dirt",
           "picks": "6-8-9-3",
           "officialResults": "",
-          "preRaceComments": [],
+          "preRaceComments": [
+            "(6) Red Carpet Ready - Oscar Performance Sire.  Lost to Dorth Vader last time out, but very good in previous races",
+            "(8) Accede and (9) Munnys Gold - both look great.  Looks like a good trifect box, however won't pay much if won"
+          ],
           "postRaceComments": []
         },
         {
@@ -122,7 +141,11 @@
           "surface": "Turf",
           "picks": "11-8-1-3",
           "officialResults": "",
-          "preRaceComments": [],
+          "preRaceComments": [
+            "(11) Caravel - Love the horse, hate the post position",
+            "(8) Oeuvre - Great at this distance",
+            "(1) Bay Storm - good starter, Velazquez will need a strong trip to hold rail position"
+          ],
           "postRaceComments": []
         },
         {
@@ -130,13 +153,16 @@
           "raceName": "",
           "tv": "USA, FANDUEL TV",
           "stakesrace": false,
-          "purse": "",
+          "purse": "$750,000",
           "postTime": "3:04 PM",
-          "distance": "",
+          "distance": "8 1/2 Furlongs",
           "surface": "Dirt",
           "picks": "7-10-4-6",
           "officialResults": "",
-          "preRaceComments": [],
+          "preRaceComments": [
+            "(7) Society - I've always liked this horse, however hasn't been good past couple times out",
+            "(10) A Mo Reay - solid past performances, outside post a little concern on a two turn race"
+          ],
           "postRaceComments": []
         },
         {
@@ -150,7 +176,11 @@
           "surface": "Turf",
           "picks": "9-3-6-11",
           "officialResults": "",
-          "preRaceComments": [],
+          "preRaceComments": [
+            "(9) Papilio - Great IRE turf horse, like the post position, Castellano, distance",
+            "(3) Cairo Concert - was beat by Papilio last time out, but overall great past performance",
+            "Looking forward to this rematch"
+          ],
           "postRaceComments": []
         },
         {
@@ -164,7 +194,12 @@
             "surface": "Dirt",
             "picks": "7-6-13-4",
             "officialResults": "",
-            "preRaceComments": [],
+            "preRaceComments": [
+              "(7) Wet Paint - has been amazing in prep races into in this race",
+              "(6) Botanical - Turfway Park horse, will be interested how she runs on the dirt",
+              "(13) Affirmative Lady - ugly post position, Velazquez will need to work out a great trip",
+              "(4) Southlawn - interesting filly out of Fair Grounds, might be overlooked at post time"
+            ],
             "postRaceComments": []
           },
           {
@@ -178,7 +213,11 @@
             "surface": "Dirt",
             "picks": "1-2-7-8",
             "officialResults": "",
-            "preRaceComments": [],
+            "preRaceComments": [
+              "(1) Curl Girl - west coast shipper, ran great to break maiden last month at Keeneland",
+              "(2) Tough Lagacy - trained by Norm Casse",
+              "(7) Forever Dixie - trained by Mark Casse, father of Norm Casse"
+            ],
             "postRaceComments": []
           },
           {
@@ -192,7 +231,10 @@
             "surface": "Dirt",
             "picks": "11-10-2-6",
             "officialResults": "",
-            "preRaceComments": [],
+            "preRaceComments": [
+              "Tough maiden race to close out Friday's card",
+              "Pick a number out of a hat, throw some dice, or whatever random number generator you need to pick a winner"
+            ],
             "postRaceComments": []
           }
         ]
@@ -214,17 +256,9 @@
           "distance": "6 1/2 Furlongs",
           "surface": "Dirt",
           "picks": "8-3-1-5",
-          "officialResults": "TEST1-TEST2-TEST3-TEST4",
-          "preRaceComments": [
-            "Prerace Comment 1",
-            "Prerace Comment 2",
-            "Prerace Comment 3"
-          ],
-          "postRaceComments": [
-            "Postrace Comment 1",
-            "Postrace Comment 2",
-            "Postrace Comment 3"
-          ]
+          "officialResults": "",
+          "preRaceComments": [],
+          "postRaceComments": []
         },
         {
           "raceNum": "2",
