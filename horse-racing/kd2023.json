@@ -50,7 +50,7 @@
           "postTime": "10:30 AM",
           "distance": "1 Mile",
           "surface": "Turf",
-          "picks": "6-11-12",
+          "picks": "6-11-12-1",
           "officialResults": "",
           "preRaceComments": [
             "I'm curious how Churchill Downs turf course plays this weekend",
@@ -150,7 +150,7 @@
         },
         {
           "raceNum": "9",
-          "raceName": "",
+          "raceName": "La Troienne S.",
           "tv": "USA, FANDUEL TV",
           "stakesrace": false,
           "purse": "$750,000",
@@ -383,7 +383,10 @@
           "surface": "Dirt",
           "picks": "2-7-10-1",
           "officialResults": "",
-          "preRaceComments": [],
+          "preRaceComments": [
+            "(2) C Z Rocket - Peter Miller does a great job shipping horses east for big races",
+            "(7) Cody's Wish - great horse, odds might be a little too low for me to bet on"
+          ],
           "postRaceComments": []
         },
         {
@@ -411,7 +414,14 @@
           "surface": "Dirt",
           "picks": "15-14-17-6",
           "officialResults": "",
-          "preRaceComments": [],
+          "preRaceComments": [
+            "(15) Forte, (14) Angel of Empire, and (5) Tapit Trace have best closing speed",
+            "(15) Forte - you are the champ until you are beat.  Looked the best in KD prep races.  Concerned about post position at KD, but handled outside post position well in last race",
+            "(14) Angel of Empire - Prat could work out the trip to win",
+            "(5) Tapit Trice - Slow starter in past races, concerned about being too far behind for a late run to win",
+            "(17) Derma Sotogake - Japan horse.  First Japan horse I'm excited to see in KD.  Wondering if he can pull off an American Pharoah trip of getting lead early and can finish",
+            "(6) Kingsbarns - undefeated, good post position"
+          ],
           "postRaceComments": []
         },
         {
@@ -439,7 +449,10 @@
             "surface": "Dirt",
             "picks": "2-9-5-14",
             "officialResults": "",
-            "preRaceComments": [],
+            "preRaceComments": [
+              "Tough maiden race to close out Saturday's card",
+              "Pick a number out of a hat, throw some dice, or whatever random number generator you need to pick a winner"
+            ],
             "postRaceComments": []
           }
         ]
