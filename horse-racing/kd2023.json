@@ -273,9 +273,12 @@
           "distance": "6 1/2 Furlongs",
           "surface": "Dirt",
           "picks": "1-3-5-8",
-          "officialResults": "",
+          "officialResults": "3-1-8-4",
           "preRaceComments": [],
-          "postRaceComments": []
+          "postRaceComments": [
+            "(3) Federal Judge - two wins in two starts to begin career",
+            "(1) Extra Anejo - slow start, but finished well"
+          ]
         },
         {
           "raceNum": "2",
@@ -287,9 +290,13 @@
           "distance": "1 1/16 Miles",
           "surface": "Dirt",
           "picks": "8-5-7-6",
-          "officialResults": "",
+          "officialResults": "6-8-3-7",
           "preRaceComments": [],
-          "postRaceComments": []
+          "postRaceComments": [
+            "(8) Quality Chic - only two weeks since last race, possibly was the difference",
+            "(6) Quaternion - New trainer, solid performance.  Leparoux with a nice ride",
+            "(3) Harbour Bridge - strong finish for third, ran out of time to win"
+          ]
         },
         {
           "raceNum": "3",
@@ -301,9 +308,11 @@
           "distance": "1 Mile",
           "surface": "Dirt",
           "picks": "5-1-14-3",
-          "officialResults": "",
+          "officialResults": "14-5-1-10",
           "preRaceComments": [],
-          "postRaceComments": []
+          "postRaceComments": [
+            "Bump down the stretch, however objection denied"
+          ]
         },
         {
           "raceNum": "4",
@@ -315,9 +324,13 @@
           "distance": "7 Furlongs",
           "surface": "Dirt",
           "picks": "2-5-3-1",
-          "officialResults": "",
+          "officialResults": "5-3-2-1",
           "preRaceComments": [],
-          "postRaceComments": []
+          "postRaceComments": [
+            "(5) Matareya - Second win on the day for Prat.  Got the lead early and held on to win",
+            "(3) Wicked Halo - Gaffalione held strong to keep position and favorite pinned against the rail to finish second",
+            "(2) Goodnight Olive - troubled trip all the way, never could break free"
+          ]
         },
         {
           "raceNum": "5",
@@ -329,9 +342,11 @@
           "distance": "1 Mile",
           "surface": "Turf",
           "picks": "5-3-2-4",
-          "officialResults": "",
+          "officialResults": "7-5-2-4",
           "preRaceComments": [],
-          "postRaceComments": []
+          "postRaceComments": [
+            "Tough turf race - nice win by Irad"
+          ]
         },
         {
           "raceNum": "6",
@@ -344,8 +359,16 @@
           "surface": "Dirt",
           "picks": "3-12-2-6",
           "officialResults": "",
-          "preRaceComments": [],
-          "postRaceComments": []
+          "preRaceComments": [
+            "(3) Baby Yoda - solid performer, but concerned about first start off layoff",
+            "(12) Caddo River -  Like the horse at this distance",
+            "(6) Zozos - not sure what to think about this horse, seems to be too much of class improvement"
+          ],
+          "postRaceComments": [
+            "(6) Zozos - Looks great, this seems to be back in early 2022 form",
+            "(11) Kupuna - good race after only a two week break",
+            "(2) Masqueparade and (3) Baby Yoda - both were coming off layoffs, poor starts out of the gate"
+          ]
         },
         {
           "raceNum": "7",
@@ -358,7 +381,11 @@
           "surface": "Turf",
           "picks": "10-4-2-12",
           "officialResults": "",
-          "preRaceComments": [],
+          "preRaceComments": [
+            "I like Wesley Ward's turf horses",
+            "(10) Arrest Me Red - Like the post, jockey.  couple scratches move him closer to inside which should help",
+            "(4) Big Invasion - Concerned about a slow start"
+          ],
           "postRaceComments": []
         },
         {
@@ -371,9 +398,15 @@
           "distance": "1 Mile",
           "surface": "Dirt",
           "picks": "12-5-11-9",
-          "officialResults": "",
-          "preRaceComments": [],
-          "postRaceComments": []
+          "officialResults": "1-11-2-14",
+          "preRaceComments": [
+            "(12) Gun Pilot - going with hot jockey Gaffalione to hopefully be the difference to get the win",
+            "(5) Echo Again - was my Kentucky Derby pick last fall, did not work out",
+            "(11) Gilmore - improving horse, wondering if he can step up in class"
+          ],
+          "postRaceComments": [
+            "(1) Nobals - 38-1 got off to a great start and held the rail through the race"
+          ]
         },
         {
           "raceNum": "9",
