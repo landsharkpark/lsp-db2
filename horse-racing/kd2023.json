@@ -358,7 +358,7 @@
           "distance": "1 Mile",
           "surface": "Dirt",
           "picks": "3-12-2-6",
-          "officialResults": "",
+          "officialResults": "6-11-7-3",
           "preRaceComments": [
             "(3) Baby Yoda - solid performer, but concerned about first start off layoff",
             "(12) Caddo River -  Like the horse at this distance",
@@ -380,13 +380,15 @@
           "distance": "5 1/2 Furlongs",
           "surface": "Turf",
           "picks": "10-4-2-12",
-          "officialResults": "",
+          "officialResults": "1-11-2-14",
           "preRaceComments": [
             "I like Wesley Ward's turf horses",
             "(10) Arrest Me Red - Like the post, jockey.  couple scratches move him closer to inside which should help",
             "(4) Big Invasion - Concerned about a slow start"
           ],
-          "postRaceComments": []
+          "postRaceComments": [
+            "(1) Nobals - 38-1 got off to a great start and held the rail through the race"
+          ]
         },
         {
           "raceNum": "8",
@@ -398,14 +400,13 @@
           "distance": "1 Mile",
           "surface": "Dirt",
           "picks": "12-5-11-9",
-          "officialResults": "1-11-2-14",
+          "officialResults": "9-7-11-6",
           "preRaceComments": [
             "(12) Gun Pilot - going with hot jockey Gaffalione to hopefully be the difference to get the win",
             "(5) Echo Again - was my Kentucky Derby pick last fall, did not work out",
             "(11) Gilmore - improving horse, wondering if he can step up in class"
           ],
           "postRaceComments": [
-            "(1) Nobals - 38-1 got off to a great start and held the rail through the race"
           ]
         },
         {
@@ -417,9 +418,12 @@
           "postTime": "2:40 PM",
           "distance": "1 1/16 Miles",
           "surface": "Turf",
-          "picks": "1-2-11-8",
-          "officialResults": "",
-          "preRaceComments": [],
+          "picks": "8-1-2-11",
+          "officialResults": "14-2-1-8",
+          "preRaceComments": [
+            "(8) Mo Stash - Been in bigger races, like Saez as the jockey",
+            "(2) Far Bridge and (11) Carl Spackler - both are good horses, but only have raced twice"
+          ],
           "postRaceComments": []
         },
         {
@@ -432,12 +436,14 @@
           "distance": "7 Furlongs",
           "surface": "Dirt",
           "picks": "2-7-10-1",
-          "officialResults": "",
+          "officialResults": "7-4-6-3",
           "preRaceComments": [
             "(2) C Z Rocket - Peter Miller does a great job shipping horses east for big races",
             "(7) Cody's Wish - great horse, odds might be a little too low for me to bet on"
           ],
-          "postRaceComments": []
+          "postRaceComments": [
+            "(7) Cody's Wish - No problem coming off the layoff, best horse in the race"
+          ]
         },
         {
           "raceNum": "11",
@@ -449,7 +455,7 @@
           "distance": "1 1/8 Miles",
           "surface": "Turf",
           "picks": "8-9-4-10",
-          "officialResults": "",
+          "officialResults": "5-7-9-1",
           "preRaceComments": [],
           "postRaceComments": []
         },
@@ -463,7 +469,7 @@
           "distance": "1 1/4 Miles",
           "surface": "Dirt",
           "picks": "15-14-17-6",
-          "officialResults": "",
+          "officialResults": "8-3-14-11",
           "preRaceComments": [
             "(15) Forte, (14) Angel of Empire, and (5) Tapit Trace have best closing speed",
             "(15) Forte - you are the champ until you are beat.  Looked the best in KD prep races.  Concerned about post position at KD, but handled outside post position well in last race",
