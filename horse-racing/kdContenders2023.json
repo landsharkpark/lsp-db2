@@ -145,27 +145,9 @@
         ]
     },
     {
-        "id": 9,
-        "progNum": 9,     
-        "postPosition": 9,        
-        "rank": 19,
-        "points": 45,
-        "name": "Skinner",
-        "ae": false,
-        "scratched": false,
-        "profileLink": "https://www.horseracingnation.com/horse/Skinner_1",
-        "sire": "Curlin",
-        "pedigree": "Curlin - Winding Way, by Malibu Moon",
-        "pedigreeLink": "https://www.pedigreequery.com/skinner7",
-        "comments": [
-            "3rd - Santa Anita Derby (SA 4/8/2023)",
-            "3rd - San Felipe (SA 3/4/2023)"
-        ]
-    },
-    {
         "id": 11,
         "progNum": 11,     
-        "postPosition": 10,        
+        "postPosition": 9,        
         "rank": 16,
         "points": 46,
         "name": "Disarm",
@@ -183,7 +165,7 @@
     {
         "id": 12,
         "progNum": 12,     
-        "postPosition": 11,        
+        "postPosition": 10,        
         "rank": 18,
         "points": 45,
         "name": "Jace's Road",
@@ -203,7 +185,7 @@
     {
         "id": 13,
         "progNum": 13,     
-        "postPosition": 12,        
+        "postPosition": 11,        
         "rank": 14,
         "points": 54,
         "name": "Sun Thunder",
@@ -223,7 +205,7 @@
     {
         "id": 14,
         "progNum": 14,     
-        "postPosition": 13,        
+        "postPosition": 12,        
         "rank": 3,
         "points": 154,
         "name": "Angel of Empire",
@@ -242,7 +224,7 @@
     {
         "id": 15,
         "progNum": 15,     
-        "postPosition": 14,        
+        "postPosition": 13,        
         "rank": 1,
         "points": 190,
         "name": "Forte",
@@ -262,7 +244,7 @@
     {
         "id": 16,
         "progNum": 16,     
-        "postPosition": 15,        
+        "postPosition": 14,        
         "rank": 9,
         "points": 64,
         "name": "Raise Cain",
@@ -281,7 +263,7 @@
     {
         "id": 17,
         "progNum": 17,     
-        "postPosition": 16,        
+        "postPosition": 15,        
         "rank": 7,
         "points": 100,
         "name": "Derma Sotogake (JPN)",
@@ -299,7 +281,7 @@
     {
         "id": 18,
         "progNum": 18,     
-        "postPosition": 17,        
+        "postPosition": 16,        
         "rank": 10,
         "points": 60,
         "name": "Rocket Can",
@@ -318,7 +300,7 @@
     {
         "id": 21,
         "progNum": 21,     
-        "postPosition": 18,        
+        "postPosition": 17,        
         "rank": 21,
         "points": 45,
         "ae": false,
@@ -336,7 +318,7 @@
     {
         "id": 22,
         "progNum": 22,     
-        "postPosition": 19,        
+        "postPosition": 18,        
         "rank": 22,
         "points": 40,
         "name": "Mandarin Hero (JPN)",
@@ -353,7 +335,7 @@
     {
         "id": 23,
         "progNum": 23,     
-        "postPosition": 20,        
+        "postPosition": 19,        
         "rank": 23,
         "points": 40,
         "name": "King Russell",
@@ -368,9 +350,27 @@
         ]
     },
     {
+        "id": 9,
+        "progNum": 9,     
+        "postPosition": 101,        
+        "rank": 19,
+        "points": 45,
+        "name": "Skinner",
+        "ae": false,
+        "scratched": true,
+        "profileLink": "https://www.horseracingnation.com/horse/Skinner_1",
+        "sire": "Curlin",
+        "pedigree": "Curlin - Winding Way, by Malibu Moon",
+        "pedigreeLink": "https://www.pedigreequery.com/skinner7",
+        "comments": [
+            "3rd - Santa Anita Derby (SA 4/8/2023)",
+            "3rd - San Felipe (SA 3/4/2023)"
+        ]
+    },
+    {
         "id": 10,
         "progNum": 10,     
-        "postPosition": 101,
+        "postPosition": 102,
         "rank": 2,
         "points": 160,
         "name": "Practical Move",
@@ -389,7 +389,7 @@
     {
         "id": 19,
         "progNum": 19,     
-        "postPosition": 102,        
+        "postPosition": 103,        
         "rank": 6,
         "points": 105,
         "name": "Lord Miles",
@@ -407,7 +407,7 @@
     {
         "id": 20,
         "progNum": 20,     
-        "postPosition": 103,        
+        "postPosition": 104,        
         "rank": 20,
         "points": 0,
         "name": "Continuar (JPN)",
