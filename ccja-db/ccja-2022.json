@@ -214,6 +214,16 @@
         "dayNotes": [
           "Horse racing blog site update - Navigation bar"
         ]
+      },      
+      {
+        "id": 210,
+        "sprintDay": 10,
+        "challengeDay": 20,
+        "date": "20230508",
+        "dayNotes": [
+          "After Kentucky Derby break",
+          "Updated Kentucky Derby horses with final finish column"
+        ]
       }      
     ]
   }
