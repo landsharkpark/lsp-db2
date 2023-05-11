@@ -129,6 +129,11 @@
       "Basic Kafka Java program"
     ],
     "sprintreview": [
+      "landsharkpark updates for Picks page completed before Kentucky Derby",
+      "HTML/CSS styling for Kentucky Derby pages",
+      "Fixed issues with Navigation bar and Javascript sorting",
+      "Documented Ubuntu VM Kafka installation and configuration",
+      "Github check-in code for basic Kafka Java program for producer and consumer"
     ],
     "days": [
       {
@@ -222,10 +227,56 @@
         "date": "20230508",
         "dayNotes": [
           "After Kentucky Derby break",
-          "Updated Kentucky Derby horses with final finish column"
+          "Fixed sort issue for KD horses",
+          "Updated Kentucky Derby horses with final finish column",
+          "Added sort column headers to KD Horses page"
         ]
       }      
     ]
-  }
+  },
+  {
+    "id": 3,
+    "sprintnbr": 3,
+    "sprinttitle": "2023 Projects Setup",
+    "sprintgoals": [
+      "Kentucky Derby Post Position Results page",
+      "Update landsharkpark-mn and leseanbruneau-blog web sites",
+      "Something with Kafka - TBD"
+    ],
+    "sprintreview": [
+    ],
+    "days": [
+      {
+        "id": 301,
+        "sprintDay": 1,
+        "challengeDay": 21,
+        "date": "20230509",
+        "dayNotes": [
+          "Set up new Linux VM, Angular 16",
+          "Updated Twitter feeds sites to Angular 16"
+        ]
+      },
+      {
+        "id": 302,
+        "sprintDay": 2,
+        "challengeDay": 22,
+        "date": "20230510",
+        "dayNotes": [
+          "Kentucky Derby Post Position Results page - setup",
+          "Created component, added Post Position Results page to KD Home",
+          "Created basic REST API service method and subscriber observable for Post Position Results data"
+        ]
+      },
+      {
+        "id": 303,
+        "sprintDay": 3,
+        "challengeDay": 23,
+        "date": "20230511",
+        "dayNotes": [
+          "Kentucky Derby Post Position Results page - loaded data and worked on page table"
+        ]
+      }      
+    ]
+  }  
 
 ]
