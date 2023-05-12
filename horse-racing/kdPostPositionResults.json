@@ -11,7 +11,7 @@
         "totalWins": 8,
         "totalSeconds": 5,
         "totalThirds": 5,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "1986",
             "name": "Ferdinand"
@@ -52,7 +52,7 @@
         "totalWins": 7,
         "totalSeconds": 5,
         "totalThirds": 13,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "1978",
             "name": "Affirmed"
@@ -89,7 +89,7 @@
         "totalWins": 5,
         "totalSeconds": 7,
         "totalThirds": 8,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "1998",
             "name": "Real Quiet"
@@ -118,7 +118,7 @@
         "totalWins": 5,
         "totalSeconds": 6,
         "totalThirds": 4,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "2010",
             "name": "Super Saver"
@@ -147,7 +147,7 @@
         "totalWins": 10,
         "totalSeconds": 8,
         "totalThirds": 4,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "2017",
             "name": "Always Dreaming"
@@ -196,7 +196,7 @@
         "totalWins": 2,
         "totalSeconds": 8,
         "totalThirds": 3,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "1993",
             "name": "Sea Hero"
@@ -213,7 +213,7 @@
         "totalWins": 8,
         "totalSeconds": 6,
         "totalThirds": 6,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "2021",
             "name": "Mandaloun"
@@ -254,7 +254,7 @@
         "totalWins": 8,
         "totalSeconds": 5,
         "totalThirds": 5,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "2009",
             "name": "Mine That Bird"
@@ -295,7 +295,7 @@
         "totalWins": 4,
         "totalSeconds": 6,
         "totalThirds": 8,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "1972",
             "name": "Riva Ridge"
@@ -320,7 +320,7 @@
         "totalWins": 9,
         "totalSeconds": 6,
         "totalThirds": 10,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "2005",
             "name": "Giacomo"
@@ -365,7 +365,7 @@
         "totalWins": 2,
         "totalSeconds": 6,
         "totalThirds": 4,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "1988",
             "name": "Winning Colors"
@@ -382,7 +382,7 @@
         "totalWins": 3,
         "totalSeconds": 3,
         "totalThirds": 3,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "1971",
             "name": "Canonero II"
@@ -403,7 +403,7 @@
         "totalWins": 5,
         "totalSeconds": 5,
         "totalThirds": 7,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "2016",
             "name": "Nyquist"
@@ -432,7 +432,7 @@
         "totalWins": 2,
         "totalSeconds": 6,
         "totalThirds": 6,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "1961",
             "name": "Carry Back"
@@ -449,7 +449,7 @@
         "totalWins": 6,
         "totalSeconds": 2,
         "totalThirds": 1,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "2020",
             "name": "Authentic"
@@ -482,7 +482,7 @@
         "totalWins": 4,
         "totalSeconds": 3,
         "totalThirds": 3,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "2011",
             "name": "Animal Kingdom"
@@ -507,7 +507,7 @@
         "totalWins": 0,
         "totalSeconds": 1,
         "totalThirds": 2,
-        "postWiners": [
+        "postWinners": [
         ]
       },
       {
@@ -516,7 +516,7 @@
         "totalWins": 2,
         "totalSeconds": 4,
         "totalThirds": 0,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "2019",
             "name": "Country House"
@@ -533,7 +533,7 @@
         "totalWins": 1,
         "totalSeconds": 1,
         "totalThirds": 0,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "2012",
             "name": "I’ll Have Another"
@@ -546,7 +546,7 @@
         "totalWins": 2,
         "totalSeconds": 0,
         "totalThirds": 1,
-        "postWiners": [
+        "postWinners": [
           {
             "year": "2022",
             "name": "Rich Strike"
