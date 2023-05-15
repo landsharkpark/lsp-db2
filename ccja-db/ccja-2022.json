@@ -240,8 +240,9 @@
     "sprinttitle": "2023 Projects Setup",
     "sprintgoals": [
       "Kentucky Derby Post Position Results page",
-      "Update landsharkpark-mn and leseanbruneau-blog web sites",
-      "Something with Kafka - TBD"
+      "Mortgage Calculator page on landsharkpark-blog",
+      "Update landsharkpark-blog and leseanbruneau-blog web sites",
+      "Angular 16 Upgrade on test projects"
     ],
     "sprintreview": [
     ],
@@ -275,7 +276,36 @@
         "dayNotes": [
           "Kentucky Derby Post Position Results page - loaded data and worked on page table"
         ]
-      }      
+      },
+      {
+        "id": 304,
+        "sprintDay": 4,
+        "challengeDay": 24,
+        "date": "20230512",
+        "dayNotes": [
+          "Mortgage Calculator page - created page and basic Angular Form elements"
+        ]
+      },
+      {
+        "id": 305,
+        "sprintDay": 5,
+        "challengeDay": 25,
+        "date": "20230513",
+        "dayNotes": [
+          "Mortgage Calculator page - Angular Validation",
+          "Form validation isn't working, will add that to Tech Debt"
+        ]
+      },
+      {
+        "id": 306,
+        "sprintDay": 6,
+        "challengeDay": 26,
+        "date": "20230513",
+        "dayNotes": [
+          "Mortgage Calculator page - Function to calculate monthly payments",
+          "Mortgage Calculator page - Table/display mortgage monthly payment results"
+        ]
+      }
     ]
   }  
 
