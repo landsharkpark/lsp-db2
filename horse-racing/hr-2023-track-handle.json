@@ -1,0 +1,55 @@
+[
+  {
+      "id": 1,
+      "track": "CBY",
+      "seasonRaceDay": 1,
+      "year":  2023,
+      "month": 5,
+      "day": 27,
+      "weekDay": "SAT",
+      "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY052723USA.pdf",
+      "totalRaces": 9,
+      "totalDirtRaces": 5,
+      "totalTurfRaces": 4,
+      "totalOffTheTurfRaces": 0,
+      "totalHandle": 1184778,
+      "comments": [
+          "2023 Canterbury Park Season Opening",
+          "Two turf stakes races"
+      ]
+  },
+  {
+    "id": 2,
+    "track": "CBY",
+    "seasonRaceDay": 2,
+    "year":  2023,
+    "month": 5,
+    "day": 28,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY052823USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1525942,
+    "comments": [
+    ]
+  },
+  {
+    "id": 3,
+    "track": "CBY",
+    "seasonRaceDay": 3,
+    "year":  2023,
+    "month": 5,
+    "day": 29,
+    "weekDay": "MON",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY052923USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 916734,
+    "comments": [
+    ]
+  }
+]
