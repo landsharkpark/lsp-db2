@@ -293,7 +293,7 @@
     "term": "13-week",
     "description": "91-day",
     "investRate": "4.708",
-    "price": "98.83975",
+    "price": "98.839750",
     "maturityDate": "20230511"
   },
   {
@@ -303,7 +303,7 @@
     "auctionDay": "06",
     "term": "26-week",
     "description": "182-day",
-    "investRate": "4.94",
+    "investRate": "4.940",
     "price": "97.596083",
     "maturityDate": "20230810"
   },
@@ -348,7 +348,7 @@
     "term": "13-week",
     "description": "91-day",
     "investRate": "4.802",
-    "price": "98.817",
+    "price": "98.817000",
     "maturityDate": "20230518"
   },
   {
@@ -358,7 +358,7 @@
     "auctionDay": "13",
     "term": "26-week",
     "description": "182-day",
-    "investRate": "5.03",
+    "investRate": "5.030",
     "price": "97.553111",
     "maturityDate": "20230817"
   },
@@ -413,7 +413,7 @@
     "auctionDay": "21",
     "term": "26-week",
     "description": "182-day",
-    "investRate": "5.11",
+    "investRate": "5.110",
     "price": "97.515194",
     "maturityDate": "20230824"
   },
@@ -501,7 +501,7 @@
     "auctionDay": "02",
     "term": "4-week",
     "description": "28-day",
-    "investRate": "4.683",
+    "investRate": "4.683000",
     "price": "99.643",
     "maturityDate": "20230404"
   },
@@ -633,7 +633,7 @@
     "auctionDay": "20",
     "term": "13-week",
     "description": "91-day",
-    "investRate": "4.81",
+    "investRate": "4.810",
     "price": "98.818264",
     "maturityDate": "20230622"
   },
@@ -699,7 +699,7 @@
     "auctionDay": "27",
     "term": "13-week",
     "description": "91-day",
-    "investRate": "4.81",
+    "investRate": "4.810",
     "price": "98.818264",
     "maturityDate": "20230629"
   },
@@ -743,7 +743,7 @@
     "auctionDay": "30",
     "term": "8-week",
     "description": "56-day",
-    "investRate": "4.71",
+    "investRate": "4.710",
     "price": "99.284444",
     "maturityDate": "20230530"
   },
@@ -765,7 +765,7 @@
     "auctionDay": "03",
     "term": "26-week",
     "description": "182-day",
-    "investRate": "4.9",
+    "investRate": "4.900",
     "price": "97.621361",
     "maturityDate": "20231005"
   },
@@ -787,7 +787,7 @@
     "auctionDay": "06",
     "term": "4-week",
     "description": "28-day",
-    "investRate": "4.53",
+    "investRate": "4.530",
     "price": "99.654667",
     "maturityDate": "20230509"
   },
@@ -842,7 +842,7 @@
     "auctionDay": "13",
     "term": "4-week",
     "description": "28-day",
-    "investRate": "4.11",
+    "investRate": "4.110",
     "price": "99.686556",
     "maturityDate": "20230516"
   },
@@ -886,7 +886,7 @@
     "auctionDay": "18",
     "term": "52-week",
     "description": "364-day",
-    "investRate": "4.77",
+    "investRate": "4.770",
     "price": "95.419667",
     "maturityDate": "20240418"
   },
@@ -1238,8 +1238,8 @@
     "auctionDay": "31",
     "term": "17-week",
     "description": "119-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "5.511",
+    "price": "98.239792",
     "maturityDate": "20231003"
   },
   {
@@ -1249,8 +1249,8 @@
     "auctionDay": "01",
     "term": "4-week",
     "description": "28-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "5.237",
+    "price": "99.586750",
     "maturityDate": "20230705"
   },
   {
@@ -1260,8 +1260,8 @@
     "auctionDay": "01",
     "term": "8-week",
     "description": "56-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "5.350",
+    "price": "99.188000",
     "maturityDate": "20230801"
   },
   {
