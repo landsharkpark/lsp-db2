@@ -51,5 +51,57 @@
     "totalHandle": 916734,
     "comments": [
     ]
+  },
+  {
+    "id": 4,
+    "track": "CBY",
+    "seasonRaceDay": 4,
+    "year":  2023,
+    "month": 4,
+    "day": 3,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY060323USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 907229,
+    "comments": [
+    ]
+  },
+  {
+    "id": 5,
+    "track": "CBY",
+    "seasonRaceDay": 5,
+    "year":  2023,
+    "month": 6,
+    "day": 4,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY060423USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 99694,
+    "comments": [
+    ]
+  },
+  {
+    "id": 6,
+    "track": "CBY",
+    "seasonRaceDay": 6,
+    "year":  2023,
+    "month": 6,
+    "day": 7,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY060723USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1142502,
+    "comments": [
+      "Last three races - Quarter Horse Races"
+    ]
   }
 ]

@@ -9,7 +9,7 @@
       {
         "raceNum": "1",
         "raceName": "Maiden Special Weight",
-        "tv": "FANDUEL TV+",
+        "tv": "FS1, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$90,000",
         "postTime": "10:20 AM",
@@ -24,7 +24,7 @@
       {
         "raceNum": "2",
         "raceName": "Allowance",
-        "tv": "FANDUEL TV+",
+        "tv": "FS1, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$80,000",
         "postTime": "10:54 AM",
@@ -39,7 +39,7 @@
       {
         "raceNum": "3",
         "raceName": "True North S.",
-        "tv": "FANDUEL TV+",
+        "tv": "FS1, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$250,000",
         "postTime": "11:28 AM",
@@ -54,7 +54,7 @@
       {
         "raceNum": "4",
         "raceName": "Allowance",
-        "tv": "FANDUEL TV+",
+        "tv": "FS1, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$95,000",
         "postTime": "12:06 PM",
@@ -69,7 +69,7 @@
       {
         "raceNum": "5",
         "raceName": "Poker S.",
-        "tv": "FANDUEL TV+",
+        "tv": "FS1, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$200,000",
         "postTime": "11:51 AM",
@@ -84,7 +84,7 @@
       {
         "raceNum": "6",
         "raceName": "Brooklyn S.",
-        "tv": "CNBC, FANDUEL TV",
+        "tv": "FS1, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$200,000",
         "postTime": "12:29 PM",
@@ -99,7 +99,7 @@
       {
         "raceNum": "7",
         "raceName": "Ogden Phipps S.",
-        "tv": "CNBC, FANDUEL TV",
+        "tv": "FS1, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$500,000",
         "postTime": "2:02 PM",
@@ -114,7 +114,7 @@
       {
         "raceNum": "8",
         "raceName": "Woody Stephens S.",
-        "tv": "CNBC, FANDUEL TV",
+        "tv": "FS1, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$400,000",
         "postTime": "2:42 PM",
@@ -129,7 +129,7 @@
       {
         "raceNum": "9",
         "raceName": "Jaipur S.",
-        "tv": "CNBC, FANDUEL TV",
+        "tv": "FOX, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$400,000",
         "postTime": "3:19 PM",
@@ -144,7 +144,7 @@
       {
         "raceNum": "10",
         "raceName": "Hill 'N' Dale Metropolitan H.",
-        "tv": "CNBC, FANDUEL TV",
+        "tv": "FOX, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$1,000,000",
         "postTime": "4:04 PM",
@@ -159,7 +159,7 @@
       {
         "raceNum": "11",
         "raceName": "Manhattan S.",
-        "tv": "NBC, FANDUEL TV",
+        "tv": "FOX, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$750,000",
         "postTime": "4:54 PM",
@@ -174,7 +174,7 @@
       {
         "raceNum": "12",
         "raceName": "Belmont S.",
-        "tv": "NBC, FANDUEL TV",
+        "tv": "FOX, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$1,500,000",
         "postTime": "6:02 PM",
@@ -189,7 +189,7 @@
       {
         "raceNum": "13",
         "raceName": "Allowance",
-        "tv": "NBC, FANDUEL TV",
+        "tv": "FS2, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$80,000",
         "postTime": "6:47 PM",
@@ -213,7 +213,7 @@
       {
         "raceNum": "1",
         "raceName": "Maiden Special Weight",
-        "tv": "FANDUEL TV+",
+        "tv": "FS2, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$75,000",
         "postTime": "11:50 AM",
@@ -228,7 +228,7 @@
       {
         "raceNum": "2",
         "raceName": "Allowance",
-        "tv": "FANDUEL TV+",
+        "tv": "FS2, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$95,000",
         "postTime": "12:22 PM",
@@ -243,7 +243,7 @@
       {
         "raceNum": "3",
         "raceName": "Maiden Special Weight",
-        "tv": "FANDUEL TV+",
+        "tv": "FS2, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$75,000",
         "postTime": "12:55 PM",
@@ -258,7 +258,7 @@
       {
         "raceNum": "4",
         "raceName": "Just a Game S.",
-        "tv": "FANDUEL TV+",
+        "tv": "FS2, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$500,000",
         "postTime": "1:28 PM",
@@ -273,7 +273,7 @@
       {
         "raceNum": "5",
         "raceName": "Starter Allowance",
-        "tv": "FANDUEL TV+",
+        "tv": "FS2, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$65,000",
         "postTime": "2:02 PM",
@@ -288,7 +288,7 @@
       {
         "raceNum": "6",
         "raceName": "Allowance Optional Claiming",
-        "tv": "CNBC, FANDUEL TV",
+        "tv": "FS2, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$100,000",
         "postTime": "2:35 PM",
@@ -303,7 +303,7 @@
       {
         "raceNum": "7",
         "raceName": "Allowance",
-        "tv": "CNBC, FANDUEL TV",
+        "tv": "FS2, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$80,000",
         "postTime": "3:08 PM",
@@ -318,7 +318,7 @@
       {
         "raceNum": "8",
         "raceName": "New York S.",
-        "tv": "CNBC, FANDUEL TV",
+        "tv": "FS2, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$600,000",
         "postTime": "3:41 PM",
@@ -333,10 +333,10 @@
       {
         "raceNum": "9",
         "raceName": "Acorn S.",
-        "tv": "CNBC, FANDUEL TV",
+        "tv": "FS1, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$500,000",
-        "postTime": "3:14 PM",
+        "postTime": "4:14 PM",
         "distance": "1 1/16 Miles",
         "surface": "Dirt",
         "picks": "TBD",
@@ -348,7 +348,7 @@
       {
         "raceNum": "10",
         "raceName": "Belmont Gold Cup S.",
-        "tv": "CNBC, FANDUEL TV",
+        "tv": "FS1, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$250,000",
         "postTime": "4:47 PM",
@@ -363,7 +363,7 @@
       {
         "raceNum": "11",
         "raceName": "Intercontinental S.",
-        "tv": "NBC, FANDUEL TV",
+        "tv": "FS2, FANDUEL TV+",
         "stakesrace": false,
         "purse": "$200,000",
         "postTime": "5:19 PM",
