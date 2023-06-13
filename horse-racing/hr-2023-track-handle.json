@@ -103,5 +103,42 @@
     "comments": [
       "Last three races - Quarter Horse Races"
     ]
-  }
+  },
+  {
+    "id": 7,
+    "track": "CBY",
+    "seasonRaceDay": 7,
+    "year":  2023,
+    "month": 6,
+    "day": 10,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY061023USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 4,
+    "totalHandle": 626962,
+    "comments": [
+      "Belmont Stakes day",
+      "Rain - no turf races"
+    ]
+  },
+  {
+    "id": 8,
+    "track": "CBY",
+    "seasonRaceDay": 8,
+    "year":  2023,
+    "month": 6,
+    "day": 11,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY061123USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 636704,
+    "comments": [
+      "Bulldog races"
+    ]
+  }  
 ]
