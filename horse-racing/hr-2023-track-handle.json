@@ -57,7 +57,7 @@
     "track": "CBY",
     "seasonRaceDay": 4,
     "year":  2023,
-    "month": 4,
+    "month": 6,
     "day": 3,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY060323USA.pdf",
@@ -130,7 +130,7 @@
     "year":  2023,
     "month": 6,
     "day": 11,
-    "weekDay": "SAT",
+    "weekDay": "SUN",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY061123USA.pdf",
     "totalRaces": 8,
     "totalDirtRaces": 5,
@@ -140,5 +140,23 @@
     "comments": [
       "Bulldog races"
     ]
-  }  
+  },
+  {
+    "id": 9,
+    "track": "CBY",
+    "seasonRaceDay": 9,
+    "year":  2023,
+    "month": 6,
+    "day": 14,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY061423USA.pdf",
+    "totalRaces": 3,
+    "totalDirtRaces": 2,
+    "totalTurfRaces": 1,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 0,
+    "comments": [
+      "Races 4 - 9 cancelled due to poor air quality"
+    ]
+  }
 ]
