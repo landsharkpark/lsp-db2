@@ -156,7 +156,42 @@
     "totalOffTheTurfRaces": 0,
     "totalHandle": 0,
     "comments": [
-      "Races 4 - 9 cancelled due to poor air quality"
+      "Races 4 - 9 cancelled due to poor air quality",
+      "AQI was bad all day - makes me wonder why they even ran the first three races"
+    ]
+  },
+  {
+    "id": 10,
+    "track": "CBY",
+    "seasonRaceDay": 10,
+    "year":  2023,
+    "month": 6,
+    "day": 17,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY061723USA.pdf",
+    "totalRaces": 7,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 417659,
+    "comments": [
+    ]
+  },
+  {
+    "id": 11,
+    "track": "CBY",
+    "seasonRaceDay": 11,
+    "year":  2023,
+    "month": 6,
+    "day": 18,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY061823USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 801861,
+    "comments": [
     ]
   }
 ]
