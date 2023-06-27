@@ -211,5 +211,39 @@
     "comments": [
       "Northern Stars Turf Festival"
     ]
+  },
+  {
+    "id": 13,
+    "track": "CBY",
+    "seasonRaceDay": 13,
+    "year":  2023,
+    "month": 6,
+    "day": 24,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY062423USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 759409,
+    "comments": [
+    ]
+  },
+  {
+    "id": 14,
+    "track": "CBY",
+    "seasonRaceDay": 14,
+    "year":  2023,
+    "month": 6,
+    "day": 25,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY062523USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 3,
+    "totalHandle": 540857,
+    "comments": [
+    ]
   }
 ]
