@@ -245,5 +245,23 @@
     "totalHandle": 540857,
     "comments": [
     ]
+  },
+  {
+    "id": 15,
+    "track": "CBY",
+    "seasonRaceDay": 15,
+    "year":  2023,
+    "month": 6,
+    "day": 28,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY062823USA.pdf",
+    "totalRaces": 12,
+    "totalDirtRaces": 8,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1505084,
+    "comments": [
+      "Races 10, 11, 12 - TRIALS - Quarter Horse"
+    ]
   }
 ]
