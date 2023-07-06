@@ -263,5 +263,75 @@
     "comments": [
       "Races 10, 11, 12 - TRIALS - Quarter Horse"
     ]
+  },
+  {
+    "id": 16,
+    "track": "CBY",
+    "seasonRaceDay": 16,
+    "year":  2023,
+    "month": 7,
+    "day": 1,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY070123USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 699982,
+    "comments": [
+    ]
+  },
+  {
+    "id": 17,
+    "track": "CBY",
+    "seasonRaceDay": 17,
+    "year":  2023,
+    "month": 7,
+    "day": 2,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY070223USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 800760,
+    "comments": [
+    ]
+  },
+  {
+    "id": 18,
+    "track": "CBY",
+    "seasonRaceDay": 18,
+    "year":  2023,
+    "month": 7,
+    "day": 3,
+    "weekDay": "MON",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY070323USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1780712,
+    "comments": [
+      "Fireworks/Fourth of July holiday special racing"
+    ]
+  },
+  {
+    "id": 23,
+    "track": "SAR",
+    "seasonRaceDay": 1,
+    "year":  2023,
+    "month": 7,
+    "day": 13,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY070323USA.pdf",
+    "totalRaces": 20,
+    "totalDirtRaces": 20,
+    "totalTurfRaces": 20,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 0,
+    "comments": [
+      "Placeholder for Saratoga racing"
+    ]
   }
 ]
