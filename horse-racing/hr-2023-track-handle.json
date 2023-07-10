@@ -317,7 +317,41 @@
     ]
   },
   {
-    "id": 23,
+    "id": 19,
+    "track": "CBY",
+    "seasonRaceDay": 19,
+    "year":  2023,
+    "month": 7,
+    "day": 9,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY070823USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 824528,
+    "comments": [
+    ]
+  },
+  {
+    "id": 20,
+    "track": "CBY",
+    "seasonRaceDay": 20,
+    "year":  2023,
+    "month": 7,
+    "day": 9,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY070923USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 730000,
+    "comments": [
+    ]
+  },
+  {
+    "id": 101,
     "track": "SAR",
     "seasonRaceDay": 1,
     "year":  2023,
