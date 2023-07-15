@@ -1,24 +1,42 @@
 [
   {
-    "_id": 1001,
+    "_id": 102301,
     "track": "SAR",
     "seasonRaceDay": 1,
     "year":  2023,
     "month": 7,
     "day": 13,
     "weekDay": "THR",
-    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY070323USA.pdf",
-    "totalRaces": 20,
-    "totalDirtRaces": 20,
-    "totalTurfRaces": 20,
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071323USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 5,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": 0,
+    "totalHandle": 20417055,
     "comments": [
-      "Placeholder for Saratoga racing"
+      "Saratoga 2023 Opening Day",
+      "Track handle for opening day down 6.2% from 2022"
     ]
   },
   {
-      "_id": 2001,
+    "_id": 102302,
+    "track": "SAR",
+    "seasonRaceDay": 2,
+    "year":  2023,
+    "month": 7,
+    "day": 14,
+    "weekDay": "FRI",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071423USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 5,
+    "totalHandle": 13366687,
+    "comments": [
+    ]
+  },
+  {
+      "_id": 202301,
       "track": "CBY",
       "seasonRaceDay": 1,
       "year":  2023,
@@ -37,7 +55,7 @@
       ]
   },
   {
-    "_id": 2002,
+    "_id": 202302,
     "track": "CBY",
     "seasonRaceDay": 2,
     "year":  2023,
@@ -54,7 +72,7 @@
     ]
   },
   {
-    "_id": 2003,
+    "_id": 202303,
     "track": "CBY",
     "seasonRaceDay": 3,
     "year":  2023,
@@ -71,7 +89,7 @@
     ]
   },
   {
-    "_id": 2004,
+    "_id": 202304,
     "track": "CBY",
     "seasonRaceDay": 4,
     "year":  2023,
@@ -88,7 +106,7 @@
     ]
   },
   {
-    "_id": 2005,
+    "_id": 202305,
     "track": "CBY",
     "seasonRaceDay": 5,
     "year":  2023,
@@ -105,7 +123,7 @@
     ]
   },
   {
-    "_id": 2006,
+    "_id": 202306,
     "track": "CBY",
     "seasonRaceDay": 6,
     "year":  2023,
@@ -123,7 +141,7 @@
     ]
   },
   {
-    "_id": 2007,
+    "_id": 202307,
     "track": "CBY",
     "seasonRaceDay": 7,
     "year":  2023,
@@ -142,7 +160,7 @@
     ]
   },
   {
-    "_id": 2008,
+    "_id": 202308,
     "track": "CBY",
     "seasonRaceDay": 8,
     "year":  2023,
@@ -160,7 +178,7 @@
     ]
   },
   {
-    "_id": 2009,
+    "_id": 202309,
     "track": "CBY",
     "seasonRaceDay": 9,
     "year":  2023,
@@ -179,7 +197,7 @@
     ]
   },
   {
-    "_id": 2010,
+    "_id": 202310,
     "track": "CBY",
     "seasonRaceDay": 10,
     "year":  2023,
@@ -196,7 +214,7 @@
     ]
   },
   {
-    "_id": 2011,
+    "_id": 202311,
     "track": "CBY",
     "seasonRaceDay": 11,
     "year":  2023,
@@ -213,7 +231,7 @@
     ]
   },
   {
-    "_id": 2012,
+    "_id": 202312,
     "track": "CBY",
     "seasonRaceDay": 12,
     "year":  2023,
@@ -231,7 +249,7 @@
     ]
   },
   {
-    "_id": 2013,
+    "_id": 202313,
     "track": "CBY",
     "seasonRaceDay": 13,
     "year":  2023,
@@ -248,7 +266,7 @@
     ]
   },
   {
-    "_id": 2014,
+    "_id": 202314,
     "track": "CBY",
     "seasonRaceDay": 14,
     "year":  2023,
@@ -265,7 +283,7 @@
     ]
   },
   {
-    "_id": 2015,
+    "_id": 202315,
     "track": "CBY",
     "seasonRaceDay": 15,
     "year":  2023,
@@ -283,7 +301,7 @@
     ]
   },
   {
-    "_id": 2016,
+    "_id": 202316,
     "track": "CBY",
     "seasonRaceDay": 16,
     "year":  2023,
@@ -300,7 +318,7 @@
     ]
   },
   {
-    "_id": 2017,
+    "_id": 202317,
     "track": "CBY",
     "seasonRaceDay": 17,
     "year":  2023,
@@ -317,7 +335,7 @@
     ]
   },
   {
-    "_id": 2018,
+    "_id": 202318,
     "track": "CBY",
     "seasonRaceDay": 18,
     "year":  2023,
@@ -335,7 +353,7 @@
     ]
   },
   {
-    "_id": 2019,
+    "_id": 202319,
     "track": "CBY",
     "seasonRaceDay": 19,
     "year":  2023,
@@ -352,7 +370,7 @@
     ]
   },
   {
-    "_id": 2020,
+    "_id": 202320,
     "track": "CBY",
     "seasonRaceDay": 20,
     "year":  2023,
@@ -367,5 +385,43 @@
     "totalHandle": 730000,
     "comments": [
     ]
+  },
+  {
+    "_id": 202321,
+    "track": "CBY",
+    "seasonRaceDay": 21,
+    "year":  2023,
+    "month": 7,
+    "day": 12,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY071223USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 768518,
+    "comments": [
+      "Last three races - Quarter Horse racing",
+      "Race 8 - Bob Morehouse S. Quarter Horse"
+    ]
+  },
+  {
+    "_id": 202322,
+    "track": "CBY",
+    "seasonRaceDay": 22,
+    "year":  2023,
+    "month": 7,
+    "day": 13,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY071223USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 2,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 957974,
+    "comments": [
+      "Last race - Quarter Horse racing"
+    ]
   }
+
 ]
