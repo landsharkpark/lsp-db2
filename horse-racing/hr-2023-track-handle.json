@@ -70,6 +70,23 @@
     ]
   },
   {
+    "_id": 102305,
+    "track": "SAR",
+    "seasonRaceDay": 5,
+    "year":  2023,
+    "month": 7,
+    "day": 19,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071923USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 13342627,
+    "comments": [
+    ]
+  },
+  {
       "_id": 202301,
       "track": "CBY",
       "seasonRaceDay": 1,
@@ -495,6 +512,24 @@
     "comments": [
       "Extreme Race Day"
     ]
+  },
+  {
+    "_id": 202325,
+    "track": "CBY",
+    "seasonRaceDay": 25,
+    "year":  2023,
+    "month": 7,
+    "day": 19,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY071923USA.pdf",
+    "totalRaces": 0,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 0,
+    "comments": [
+    ]
   }
+
 
 ]
