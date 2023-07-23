@@ -104,6 +104,57 @@
     ]
   },
   {
+    "_id": 102307,
+    "track": "SAR",
+    "seasonRaceDay": 7,
+    "year":  2023,
+    "month": 7,
+    "day": 21,
+    "weekDay": "FRI",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072123USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 1,
+    "totalOffTheTurfRaces": 3,
+    "totalHandle": 17844155,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102308,
+    "track": "SAR",
+    "seasonRaceDay": 8,
+    "year":  2023,
+    "month": 7,
+    "day": 22,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072223USA.pdf",
+    "totalRaces": 11,
+    "totalDirtRaces": 7,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 23309782,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102309,
+    "track": "SAR",
+    "seasonRaceDay": 9,
+    "year":  2023,
+    "month": 7,
+    "day": 23,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072323USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 18514744,
+    "comments": [
+    ]
+  },
+  {
       "_id": 202301,
       "track": "CBY",
       "seasonRaceDay": 1,
@@ -565,8 +616,39 @@
     "comments": [
       "Race 8 and 9 - Quarter Horse races"
     ]
+  },
+  {
+    "_id": 202327,
+    "track": "CBY",
+    "seasonRaceDay": 27,
+    "year":  2023,
+    "month": 7,
+    "day": 22,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY072223USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 668497,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 202328,
+    "track": "CBY",
+    "seasonRaceDay": 28,
+    "year":  2023,
+    "month": 7,
+    "day": 23,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY072323USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 629850,
+    "comments": [
+    ]
   }
-
-
-
 ]
