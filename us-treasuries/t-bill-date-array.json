@@ -1816,15 +1816,15 @@
       {
         "term": "13-week",
         "description": "91-day",
-        "investRate": "TBD",
-        "price": "TBD",
+        "investRate": "5.430",
+        "price": "98.667861",
         "maturityDate": "20231026"
       },
       {
         "term": "26-week",
-        "description": "181-day",
-        "investRate": "TBD",
-        "price": "TBD",
+        "description": "182-day",
+        "investRate": "5.504",
+        "price": "97.335722",
         "maturityDate": "20240125"
       }
     ]
