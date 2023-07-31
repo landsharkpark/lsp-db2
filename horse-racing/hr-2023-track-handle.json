@@ -197,11 +197,11 @@
     "day": 28,
     "weekDay": "FRI",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072823USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 11,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 6,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": 0,
+    "totalHandle": 24158850,
     "comments": [
     ]
   },
@@ -214,12 +214,14 @@
     "day": 29,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072923USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
-    "totalOffTheTurfRaces": 0,
-    "totalHandle": 0,
+    "totalRaces": 12,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 3,
+    "totalHandle": 32077522,
     "comments": [
+      "Jim Dandy S. Day",
+      "JD Win - Forte, Place - Saudi Crown, Show - Angel of Empire"
     ]
   },
   {
@@ -231,10 +233,10 @@
     "day": 30,
     "weekDay": "SUN",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR073023USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
-    "totalOffTheTurfRaces": 0,
+    "totalRaces": 10,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 2,
+    "totalOffTheTurfRaces": 4,
     "totalHandle": 0,
     "comments": [
     ]
@@ -763,12 +765,13 @@
     "day": 27,
     "weekDay": "THR",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY072723USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": 0,
+    "totalHandle": 639327,
     "comments": [
+      "Races 7 and 8 - Quarter Horse races"
     ]
   },
   {
@@ -780,11 +783,11 @@
     "day": 29,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY072923USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": 0,
+    "totalHandle": 669012,
     "comments": [
     ]
   },
@@ -797,12 +800,13 @@
     "day": 30,
     "weekDay": "SUN",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY073023USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": 0,
+    "totalHandle": 787697,
     "comments": [
+      "Corgis dog races"
     ]
   }
 
