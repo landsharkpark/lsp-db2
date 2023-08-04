@@ -242,6 +242,92 @@
     ]
   },
   {
+    "_id": 102315,
+    "track": "SAR",
+    "seasonRaceDay": 15,
+    "year":  2023,
+    "month": 8,
+    "day": 2,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080223USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 6,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 14809095,
+    "comments": [
+      "Race 1 - Hurdles"
+    ]
+  },
+  {
+    "_id": 102316,
+    "track": "SAR",
+    "seasonRaceDay": 16,
+    "year":  2023,
+    "month": 8,
+    "day": 3,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080323USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 16933400,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102317,
+    "track": "SAR",
+    "seasonRaceDay": 17,
+    "year":  2023,
+    "month": 8,
+    "day": 4,
+    "weekDay": "FRI",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080423USA.pdf",
+    "totalRaces": 0,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 0,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102318,
+    "track": "SAR",
+    "seasonRaceDay": 18,
+    "year":  2023,
+    "month": 8,
+    "day": 5,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080523USA.pdf",
+    "totalRaces": 0,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 0,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102319,
+    "track": "SAR",
+    "seasonRaceDay": 19,
+    "year":  2023,
+    "month": 8,
+    "day": 6,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080623USA.pdf",
+    "totalRaces": 0,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 0,
+    "comments": [
+    ]
+  },
+  {
       "_id": 202301,
       "track": "CBY",
       "seasonRaceDay": 1,
@@ -807,6 +893,75 @@
     "totalHandle": 787697,
     "comments": [
       "Corgis dog races"
+    ]
+  },
+  {
+    "_id": 202333,
+    "track": "CBY",
+    "seasonRaceDay": 33,
+    "year":  2023,
+    "month": 8,
+    "day": 2,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY080223USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 670913,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 202334,
+    "track": "CBY",
+    "seasonRaceDay": 34,
+    "year":  2023,
+    "month": 8,
+    "day": 3,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY080323USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 2,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 321566,
+    "comments": [
+      "Races 7 and 8 - Quarter Horse races"
+    ]
+  },
+  {
+    "_id": 202335,
+    "track": "CBY",
+    "seasonRaceDay": 35,
+    "year":  2023,
+    "month": 8,
+    "day": 5,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY080523USA.pdf",
+    "totalRaces": 0,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 0,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 202336,
+    "track": "CBY",
+    "seasonRaceDay": 36,
+    "year":  2023,
+    "month": 8,
+    "day": 6,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY080623USA.pdf",
+    "totalRaces": 0,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 0,
+    "comments": [
     ]
   }
 
