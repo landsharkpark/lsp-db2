@@ -285,12 +285,13 @@
     "day": 4,
     "weekDay": "FRI",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080423USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
-    "totalOffTheTurfRaces": 0,
+    "totalRaces": 7,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 1,
+    "totalOffTheTurfRaces": 2,
     "totalHandle": 0,
     "comments": [
+      "Races 8 - 11 cancelled due to severe weather"
     ]
   },
   {
@@ -302,12 +303,15 @@
     "day": 5,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080523USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
-    "totalOffTheTurfRaces": 0,
-    "totalHandle": 0,
+    "totalRaces": 12,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 2,
+    "totalHandle": 39518560,
     "comments": [
+      "Whitney Stakes - (1) White Abario (2) Zandon (3) Cody's Wish",
+      "Test Stakes - (1) Pretty Mischievous (2) Clearly Unhinged (3) Munnys Gold",
+      "Maple Leaf Mel - deserved better fate in Test S. and escepically in life.  R.I.P. Champ!!!"
     ]
   },
   {
@@ -939,11 +943,11 @@
     "day": 5,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY080523USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": 0,
+    "totalHandle": 660176,
     "comments": [
     ]
   },
@@ -956,11 +960,11 @@
     "day": 6,
     "weekDay": "SUN",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY080623USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
-    "totalOffTheTurfRaces": 0,
-    "totalHandle": 0,
+    "totalRaces": 7,
+    "totalDirtRaces": 3,
+    "totalTurfRaces": 2,
+    "totalOffTheTurfRaces": 2,
+    "totalHandle": 419406,
     "comments": [
     ]
   }
