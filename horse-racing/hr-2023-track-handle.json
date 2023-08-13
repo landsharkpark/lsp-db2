@@ -323,6 +323,94 @@
     "day": 6,
     "weekDay": "SUN",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080623USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 3,
+    "totalHandle": 19508333,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102320,
+    "track": "SAR",
+    "seasonRaceDay": 20,
+    "year":  2023,
+    "month": 8,
+    "day": 9,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080923USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 4,
+    "totalHandle": 8570825,
+    "comments": [
+      "Races 1 and 5 were cancelled"
+    ]
+  },
+  {
+    "_id": 102321,
+    "track": "SAR",
+    "seasonRaceDay": 21,
+    "year":  2023,
+    "month": 8,
+    "day": 10,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR081023USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 5,
+    "totalHandle": 12387322,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102322,
+    "track": "SAR",
+    "seasonRaceDay": 22,
+    "year":  2023,
+    "month": 8,
+    "day": 11,
+    "weekDay": "FRI",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR081123USA.pdf",
+    "totalRaces": 11,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 2,
+    "totalHandle": 18770658,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102323,
+    "track": "SAR",
+    "seasonRaceDay": 23,
+    "year":  2023,
+    "month": 8,
+    "day": 12,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR081223USA.pdf",
+    "totalRaces": 11,
+    "totalDirtRaces": 7,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 29744433,
+    "comments": [
+      "Fourstardave H. G1 - (W) Casa Creed; (P) Annapolis; (S) Ice Chocolat",
+      "Two races at Saratoga - Casa Creed beats Annapolis, better horse this year"
+    ]
+  },
+  {
+    "_id": 102324,
+    "track": "SAR",
+    "seasonRaceDay": 24,
+    "year":  2023,
+    "month": 8,
+    "day": 13,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR081323USA.pdf",
     "totalRaces": 0,
     "totalDirtRaces": 0,
     "totalTurfRaces": 0,
@@ -965,6 +1053,79 @@
     "totalTurfRaces": 2,
     "totalOffTheTurfRaces": 2,
     "totalHandle": 419406,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 202337,
+    "track": "CBY",
+    "seasonRaceDay": 37,
+    "year":  2023,
+    "month": 8,
+    "day": 9,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY080923USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 3,
+    "totalHandle": 750428,
+    "comments": [
+      "Races 7 and 8 - Quarter Horse races"
+    ]
+  },
+  {
+    "_id": 202338,
+    "track": "CBY",
+    "seasonRaceDay": 38,
+    "year":  2023,
+    "month": 8,
+    "day": 10,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY081023USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 0,
+    "comments": [
+      "Races 7 and 8 - Quarter Horse races"
+    ]
+  },
+  {
+    "_id": 202339,
+    "track": "CBY",
+    "seasonRaceDay": 39,
+    "year":  2023,
+    "month": 8,
+    "day": 12,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY081223USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 7,
+    "totalTurfRaces": 1,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1163643,
+    "comments": [
+      "Minnesota Derby - (W) Roses by Liam; (P) Jose Patio; (S) It's Bobs Business",
+      "Wally's Choice S. - (W) Thealligatorhunter, (P) Xavey Dave, (S) Devil Vision",
+      "Glitter Star S. - (W) She's My Warrior, (P) It's Her Time, (S) Molly's Angel"
+    ]
+  },
+  {
+    "_id": 202340,
+    "track": "CBY",
+    "seasonRaceDay": 40,
+    "year":  2023,
+    "month": 8,
+    "day": 13,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY081323USA.pdf",
+    "totalRaces": 0,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 0,
     "comments": [
     ]
   }
