@@ -411,9 +411,9 @@
     "day": 13,
     "weekDay": "SUN",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR081323USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 10,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 4,
     "totalOffTheTurfRaces": 0,
     "totalHandle": 0,
     "comments": [
@@ -1121,11 +1121,11 @@
     "day": 13,
     "weekDay": "SUN",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY081323USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": 0,
+    "totalHandle": 715844,
     "comments": [
     ]
   }

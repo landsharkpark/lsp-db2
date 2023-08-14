@@ -2008,15 +2008,15 @@
       {
         "term": "13-week",
         "description": "91-day",
-        "investRate": "TBD",
-        "price": "TBD",
+        "investRate": "5.456",
+        "price": "98.661542",
         "maturityDate": "20231116"
       },
       {
         "term": "26-week",
         "description": "182-day",
-        "investRate": "TBD",
-        "price": "TBD",
+        "investRate": "5.526",
+        "price": "97.325611",
         "maturityDate": "20240215"
       }
     ]
