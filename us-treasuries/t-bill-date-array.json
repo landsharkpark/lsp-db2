@@ -2089,8 +2089,8 @@
       {
         "term": "17-week",
         "description": "119-day",
-        "investRate": "TBD",
-        "price": "TBD",
+        "investRate": "5.500",
+        "price": "98.243097",
         "maturityDate": "20231226"
       }
     ]
@@ -2104,15 +2104,15 @@
       {
         "term": "4-week",
         "description": "28-day",
-        "investRate": "TBD",
-        "price": "TBD",
+        "investRate": "5.395",
+        "price": "99.588944",
         "maturityDate": "20230926"
       },
       {
         "term": "8-week",
         "description": "56-day",
-        "investRate": "TBD",
-        "price": "TBD",
+        "investRate": "5.423",
+        "price": "99.177111",
         "maturityDate": "20231024"
       }
     ]
