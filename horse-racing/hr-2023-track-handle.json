@@ -549,11 +549,11 @@
     "day": 25,
     "weekDay": "FRI",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082523USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
-    "totalOffTheTurfRaces": 0,
-    "totalHandle": 0,
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 1,
+    "totalOffTheTurfRaces": 4,
+    "totalHandle": 17833411,
     "comments": [
     ]
   },
@@ -566,12 +566,13 @@
     "day": 26,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082623USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
-    "totalOffTheTurfRaces": 0,
-    "totalHandle": 0,
+    "totalRaces": 13,
+    "totalDirtRaces": 8,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 2,
+    "totalHandle": 50183272,
     "comments": [
+      "Travers Stakes Day"
     ]
   },
   {
@@ -583,11 +584,11 @@
     "day": 27,
     "weekDay": "SUN",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082723USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
-    "totalOffTheTurfRaces": 0,
-    "totalHandle": 0,
+    "totalRaces": 11,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 2,
+    "totalHandle": 20132668,
     "comments": [
     ]
   },
@@ -1363,11 +1364,45 @@
     "day": 24,
     "weekDay": "THR",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY082423USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 9,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 4,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": 0,
+    "totalHandle": 556243,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 202345,
+    "track": "CBY",
+    "seasonRaceDay": 45,
+    "year":  2023,
+    "month": 8,
+    "day": 26,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY082623USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 2,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 814133,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 202346,
+    "track": "CBY",
+    "seasonRaceDay": 46,
+    "year":  2023,
+    "month": 8,
+    "day": 27,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY082723USA.pdf",
+    "totalRaces": 7,
+    "totalDirtRaces": 3,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 751611,
     "comments": [
     ]
   }
