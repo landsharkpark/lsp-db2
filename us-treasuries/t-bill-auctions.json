@@ -489,7 +489,7 @@
     "auctionMonth": "03",
     "auctionDay": "01",
     "term": "17-week",
-    "description": "119-day",
+    "description": "120-day",
     "investRate": "5.049",
     "price": "98.371667",
     "maturityDate": "20230705"
@@ -1171,7 +1171,7 @@
     "auctionMonth": "05",
     "auctionDay": "22",
     "term": "26-week",
-    "description": "182-day",
+    "description": "183-day",
     "investRate": "5.398",
     "price": "97.371917",
     "maturityDate": "20231124"
