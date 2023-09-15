@@ -1586,11 +1586,11 @@
     "day": 9,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY090923USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 10,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 4,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": 0,
+    "totalHandle": 1431366,
     "comments": [
     ]
   },
@@ -1603,12 +1603,15 @@
     "day": 13,
     "weekDay": "WED",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY091323USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 12,
+    "totalDirtRaces": 8,
+    "totalTurfRaces": 4,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": 0,
+    "totalHandle": 2367847,
     "comments": [
+      "Canterbury Park BCBC / NHX Qualifier",
+      "Race 6 - Declared No Contest due to gate malfunction",
+      "Races 11 - 13 - Quarter horse races"
     ]
   },
   {
