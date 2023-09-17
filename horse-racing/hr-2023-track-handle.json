@@ -1623,12 +1623,14 @@
     "day": 16,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY091623USA.pdf",
-    "totalRaces": 0,
+    "totalRaces": 3,
     "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalTurfRaces": 3,
     "totalOffTheTurfRaces": 0,
     "totalHandle": 0,
     "comments": [
+      "Off Main Track",
+      "only three turf race - other 10 races cancelled due to management decision"
     ]
   }
 
