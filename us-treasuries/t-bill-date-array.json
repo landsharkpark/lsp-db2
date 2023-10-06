@@ -2494,15 +2494,15 @@
       {
         "term": "13-week",
         "description": "91-day",
-        "investRate": "TBD",
-        "price": "TBD",
+        "investRate": "5.509",
+        "price": "98.648903",
         "maturityDate": "20240104"
       },
       {
         "term": "26-week",
         "description": "182-day",
-        "investRate": "TBD",
-        "price": "TBD",
+        "investRate": "5.580",
+        "price": "97.300333",
         "maturityDate": "20240404"
       }
     ]
@@ -2516,8 +2516,8 @@
       {
         "term": "52-week",
         "description": "364-day",
-        "investRate": "TBD",
-        "price": "TBD",
+        "investRate": "5.488",
+        "price": "94.757389",
         "maturityDate": "20241003"
       }
     ]
@@ -2531,9 +2531,9 @@
       {
         "term": "17-week",
         "description": "119-day",
-        "investRate": "TBD",
-        "price": "TBD",
-        "maturityDate": "20240205"
+        "investRate": "5.537",
+        "price": "98.231528",
+        "maturityDate": "20240206"
       }
     ]
   },
@@ -2546,16 +2546,134 @@
       {
         "term": "4-week",
         "description": "28-day",
+        "investRate": "5.421",
+        "price": "99.587000",
+        "maturityDate": "20231107"
+      },
+      {
+        "term": "8-week",
+        "description": "56-day",
+        "investRate": "5.490",
+        "price": "99.167000",
+        "maturityDate": "20231205"
+      }
+    ]
+  },
+  {
+    "_id": 2023129,
+    "auctionYear": "2023",
+    "auctionMonth": "10",
+    "auctionDay": "10",
+    "auctionDetails": [
+      {
+        "term": "13-week",
+        "description": "91-day",
         "investRate": "TBD",
         "price": "TBD",
-        "maturityDate": "20231107"
+        "maturityDate": "20240111"
+      },
+      {
+        "term": "26-week",
+        "description": "182-day",
+        "investRate": "TBD",
+        "price": "TBD",
+        "maturityDate": "20240411"
+      }
+    ]
+  },
+  {
+    "_id": 2023130,
+    "auctionYear": "2023",
+    "auctionMonth": "10",
+    "auctionDay": "11",
+    "auctionDetails": [
+      {
+        "term": "17-week",
+        "description": "119-day",
+        "investRate": "TBD",
+        "price": "TBD",
+        "maturityDate": "20240213"
+      }
+    ]
+  },
+  {
+    "_id": 2023131,
+    "auctionYear": "2023",
+    "auctionMonth": "10",
+    "auctionDay": "12",
+    "auctionDetails": [
+      {
+        "term": "4-week",
+        "description": "28-day",
+        "investRate": "TBD",
+        "price": "TBD",
+        "maturityDate": "20231114"
       },
       {
         "term": "8-week",
         "description": "56-day",
         "investRate": "TBD",
         "price": "TBD",
-        "maturityDate": "20231205"
+        "maturityDate": "20231212"
+      }
+    ]
+  },
+  {
+    "_id": 2023132,
+    "auctionYear": "2023",
+    "auctionMonth": "10",
+    "auctionDay": "16",
+    "auctionDetails": [
+      {
+        "term": "13-week",
+        "description": "91-day",
+        "investRate": "TBD",
+        "price": "TBD",
+        "maturityDate": "20240118"
+      },
+      {
+        "term": "26-week",
+        "description": "182-day",
+        "investRate": "TBD",
+        "price": "TBD",
+        "maturityDate": "20240418"
+      }
+    ]
+  },
+  {
+    "_id": 2023133,
+    "auctionYear": "2023",
+    "auctionMonth": "10",
+    "auctionDay": "18",
+    "auctionDetails": [
+      {
+        "term": "17-week",
+        "description": "119-day",
+        "investRate": "TBD",
+        "price": "TBD",
+        "maturityDate": "20240220"
+      }
+    ]
+  },
+  {
+    "_id": 2023134,
+    "auctionYear": "2023",
+    "auctionMonth": "10",
+    "auctionDay": "19",
+    "auctionDetails": [
+      {
+        "term": "4-week",
+        "description": "28-day",
+        "investRate": "TBD",
+        "price": "TBD",
+        "maturityDate": "20231121"
+      },
+      {
+        "term": "8-week",
+        "description": "56-day",
+        "investRate": "TBD",
+        "price": "TBD",
+        "maturityDate": "20231219"
       }
     ]
   }
