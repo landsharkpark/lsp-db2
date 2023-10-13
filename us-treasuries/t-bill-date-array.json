@@ -2605,15 +2605,15 @@
       {
         "term": "4-week",
         "description": "28-day",
-        "investRate": "TBD",
-        "price": "TBD",
+        "investRate": "5.436",
+        "price": "99.585833",
         "maturityDate": "20231114"
       },
       {
         "term": "8-week",
         "description": "56-day",
-        "investRate": "TBD",
-        "price": "TBD",
+        "investRate": "5.480",
+        "price": "99.168556",
         "maturityDate": "20231212"
       }
     ]
