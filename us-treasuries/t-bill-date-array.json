@@ -2627,15 +2627,15 @@
       {
         "term": "13-week",
         "description": "91-day",
-        "investRate": "TBD",
-        "price": "TBD",
+        "investRate": "5.503",
+        "price": "98.650167",
         "maturityDate": "20240118"
       },
       {
         "term": "26-week",
         "description": "182-day",
-        "investRate": "TBD",
-        "price": "TBD",
+        "investRate": "5.574",
+        "price": "97.302861",
         "maturityDate": "20240418"
       }
     ]

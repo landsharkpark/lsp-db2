@@ -2435,10 +2435,10 @@
     "auctionYear": "2023",
     "auctionMonth": "10",
     "auctionDay": "16",
-    "term": "13-week",
-    "description": "91-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "issue": "13-week",
+    "term": "91-day",
+    "investRate": "5.503",
+    "price": "98.650167",
     "maturityDate": "20240118"
   },
   {
@@ -2446,10 +2446,10 @@
     "auctionYear": "2023",
     "auctionMonth": "10",
     "auctionDay": "16",
-    "term": "26-week",
-    "description": "182-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "issue": "26-week",
+    "term": "182-day",
+    "investRate": "5.574",
+    "price": "97.302861",
     "maturityDate": "20240418"
   },
   {
