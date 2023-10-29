@@ -62,7 +62,7 @@
       {
         "raceNum": "4",
         "raceName": "Allowance Optional Claiming",
-        "tv": "FANDUEL TV",
+        "tv": "USA, FANDUEL TV",
         "bcweekend": true,
         "bcwcrace": false,
         "purse": "$0",
@@ -152,7 +152,7 @@
       {
         "raceNum": "10",
         "raceName": "TBD",
-        "tv": "USA, FANDUEL TV",
+        "tv": "FANDUEL TV",
         "bcweekend": true,
         "bcwcrace": false,
         "purse": "$0",
@@ -191,7 +191,7 @@
       {
         "raceNum": "2",
         "raceName": "Allowance Optional Claiming",
-        "tv": "FANDUEL TV",
+        "tv": "USA, FANDUEL TV",
         "bcweekend": true,
         "bcwcrace": false,
         "purse": "$0",
@@ -236,7 +236,7 @@
       {
         "raceNum": "5",
         "raceName": "BC Filly and Mare Sprint",
-        "tv": "FANDUEL TV",
+        "tv": "NBC, FANDUEL TV",
         "bcweekend": true,
         "bcwcrace": true,
         "purse": "$1,000,000",
@@ -251,7 +251,7 @@
       {
         "raceNum": "6",
         "raceName": "FanDuel BC Mile",
-        "tv": "USA, FANDUEL TV",
+        "tv": "NBC, FANDUEL TV",
         "bcweekend": true,
         "bcwcrace": true,
         "purse": "$2,000,000",
@@ -326,7 +326,7 @@
       {
         "raceNum": "11",
         "raceName": "Qatar Racing BC Sprint",
-        "tv": "USA, FANDUEL TV",
+        "tv": "FANDUEL TV",
         "bcweekend": true,
         "bcwcrace": true,
         "purse": "$2,000,000",
