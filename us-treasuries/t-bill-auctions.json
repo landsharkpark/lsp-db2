@@ -2722,9 +2722,9 @@
     "auctionMonth": "11",
     "auctionDay": "20",
     "issue": "13-week",
-    "term": "91-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "term": "90-day",
+    "investRate": "5.429",
+    "price": "98.682500",
     "maturityDate": "20240222"
   },
   {
@@ -2733,9 +2733,9 @@
     "auctionMonth": "11",
     "auctionDay": "20",
     "issue": "26-week",
-    "term": "182-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "term": "181-day",
+    "investRate": "5.461",
+    "price": "97.370472",
     "maturityDate": "20240523"
   },
   {
@@ -2761,7 +2761,7 @@
     "maturityDate": "20231226"
   },
   {
-    "_id": 8202348,
+    "_id": 8202347,
     "auctionYear": "2023",
     "auctionMonth": "11",
     "auctionDay": "22",
@@ -2836,6 +2836,61 @@
     "investRate": "TBD",
     "price": "TBD",
     "maturityDate": "20240130"
+  },
+  {
+    "_id": 13202349,
+    "auctionYear": "2023",
+    "auctionMonth": "12",
+    "auctionDay": "04",
+    "issue": "13-week",
+    "term": "91-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20240307"
+  },
+  {
+    "_id": 26202349,
+    "auctionYear": "2023",
+    "auctionMonth": "12",
+    "auctionDay": "04",
+    "issue": "26-week",
+    "term": "182-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20240606"
+  },
+  {
+    "_id": 17202349,
+    "auctionYear": "2023",
+    "auctionMonth": "12",
+    "auctionDay": "06",
+    "issue": "17-week",
+    "term": "119-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20240409"
+  },
+  {
+    "_id": 4202349,
+    "auctionYear": "2023",
+    "auctionMonth": "12",
+    "auctionDay": "07",
+    "issue": "4-week",
+    "term": "28-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20240109"
+  },
+  {
+    "_id": 8202349,
+    "auctionYear": "2023",
+    "auctionMonth": "12",
+    "auctionDay": "07",
+    "issue": "8-week",
+    "term": "56-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20240206"
   }
 
 ]
