@@ -2988,15 +2988,15 @@
       {
         "term": "13-week",
         "description": "91-day",
-        "investRate": "",
-        "price": "",
+        "investRate": "5.441",
+        "price": "98.665333",
         "maturityDate": "20240229"
       },
       {
         "term": "26-week",
         "description": "182-day",
-        "investRate": "",
-        "price": "",
+        "investRate": "5.472",
+        "price": "97.350889",
         "maturityDate": "20240530"
       }
     ]
@@ -3010,9 +3010,9 @@
       {
         "term": "52-week",
         "description": "364-day",
-        "investRate": "",
-        "price": "",
-        "maturityDate": "20241201"
+        "investRate": "5.214",
+        "price": "94.996458",
+        "maturityDate": "20241129"
       }
     ]
   },
@@ -3025,8 +3025,8 @@
       {
         "term": "17-week",
         "description": "119-day",
-        "investRate": "",
-        "price": "",
+        "investRate": "5.421",
+        "price": "98.267889",
         "maturityDate": "20240402"
       }
     ]
@@ -3040,15 +3040,15 @@
       {
         "term": "4-week",
         "description": "28-day",
-        "investRate": "",
-        "price": "",
+        "investRate": "5.400",
+        "price": "99.588556",
         "maturityDate": "20240102"
       },
       {
         "term": "8-week",
         "description": "56-day",
-        "investRate": "",
-        "price": "",
+        "investRate": "5.412",
+        "price": "99.178667",
         "maturityDate": "20240130"
       }
     ]
