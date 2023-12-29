@@ -3283,15 +3283,15 @@
       {
         "term": "4-week",
         "description": "28-day",
-        "investRate": "",
-        "price": "",
+        "investRate": "5.436",
+        "price": "99.585833",
         "maturityDate": "20240130"
       },
       {
         "term": "8-week",
         "description": "56-day",
-        "investRate": "",
-        "price": "",
+        "investRate": "5.418",
+        "price": "99.177889",
         "maturityDate": "20240227"
       }
     ]
