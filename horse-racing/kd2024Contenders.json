@@ -1,29 +1,57 @@
 [
   {
-      "id": 1,
-      "rank": 1,
-      "points": 30,
-      "name": "Fierceness",
-      "profileLink": "https://www.horseracingnation.com/horse/Fierceness",
-      "sire": "City of Light",
-      "pedigree": "City of Light - Nonna Bella by Stay Thirsty",
-      "pedigreeLink": "https://www.pedigreequery.com/fierceness2",
-      "comments": [
-          "1st - 2023 Breeders' Cup Juvenille (G1) (SA 11/3/2023)"
-      ]
+    "id": 1,
+    "rank": 1,
+    "points": 30,
+    "name": "Fierceness",
+    "profileLink": "https://www.horseracingnation.com/horse/Fierceness",
+    "sire": "City of Light",
+    "pedigree": "City of Light - Nonna Bella by Stay Thirsty",
+    "pedigreeLink": "https://www.pedigreequery.com/fierceness2",
+    "comments": [
+      "1st - 2023 Breeders' Cup Juvenille (G1) (SA 11/3/2023)"
+    ]
   },
   {
-      "id": 2,
-      "rank": 2,
-      "points": 19,
-      "name": "Locked",
-      "profileLink": "https://www.horseracingnation.com/horse/Locked",
-      "sire": "Gun Runner",
-      "pedigree": "Gun Runner - Luna Rosa by Malibu Moon",
-      "pedigreeLink": "https://www.pedigreequery.com/locked3",
-      "comments": [
-          "3rd - 2023 Breeders' Cup Juvenille (G1) (SA 11/3/2023)",
-          "1st - 2023 Breeders' Futurity (G1) (KEE 10/07/2023)"
-      ]
+    "id": 2,
+    "rank": 3,
+    "points": 19,
+    "name": "Locked",
+    "profileLink": "https://www.horseracingnation.com/horse/Locked",
+    "sire": "Gun Runner",
+    "pedigree": "Gun Runner - Luna Rosa by Malibu Moon",
+    "pedigreeLink": "https://www.pedigreequery.com/locked3",
+    "comments": [
+      "3rd - 2023 Breeders' Cup Juvenille (G1) (SA 11/3/2023)",
+      "1st - 2023 Breeders' Futurity (G1) (KEE 10/07/2023)"
+    ]
+  },
+  {
+    "id": 3,
+    "rank": 2,
+    "points": 30,
+    "name": "Track Phantom",
+    "profileLink": "https://www.horseracingnation.com/horse/Track_Phantom",
+    "sire": "Quality Road",
+    "pedigree": "Quality Road - Miss Sunset by Into Mischief",
+    "pedigreeLink": "https://www.pedigreequery.com/track+phantom",
+    "comments": [
+        "1st - 2024 Lecomte (G3) (FG 01/20/2024)"
+    ]
+  },
+  {
+    "id": 4,
+    "rank": 23,
+    "points": 5,
+    "name": "Sierra Leone",
+    "profileLink": "https://www.horseracingnation.com/horse/Sierra_Leone",
+    "sire": "Gun Runner",
+    "pedigree": "Gun Runner - Heavenly Love by Malibu Moon",
+    "pedigreeLink": "https://www.pedigreequery.com/sierra+leone16",
+    "comments": [
+        "2nd - 2023 Remsen (G2) (AQU 12/02/2023)",
+        "I'm an occassional HHH Podcast viewer, so I feel contractually obligated to cheer for this horse"
+    ]
   }
+
 ]
