@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "lsprank": 1,
+    "lsprank": 2,
     "rank": 1,
     "points": 30,
     "name": "Fierceness",
@@ -15,7 +15,7 @@
   },
   {
     "id": 2,
-    "lsprank": 3,
+    "lsprank": 4,
     "rank": 3,
     "points": 19,
     "name": "Locked",
@@ -30,7 +30,7 @@
   },
   {
     "id": 3,
-    "lsprank": 2,
+    "lsprank": 3,
     "rank": 2,
     "points": 30,
     "name": "Track Phantom",
@@ -44,7 +44,7 @@
   },
   {
     "id": 4,
-    "lsprank": 23,
+    "lsprank": 1,
     "rank": 23,
     "points": 5,
     "name": "Sierra Leone",
