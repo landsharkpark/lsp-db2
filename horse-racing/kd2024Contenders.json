@@ -2,7 +2,7 @@
   {
     "id": 1,
     "lsprank": 2,
-    "rank": 1,
+    "rank": 7,
     "points": 30,
     "name": "Fierceness",
     "profileLink": "https://www.horseracingnation.com/horse/Fierceness",
@@ -55,6 +55,49 @@
     "comments": [
         "2nd - 2023 Remsen (G2) (AQU 12/02/2023)",
         "I'm an occassional HHH Podcast viewer, so I feel contractually obligated to cheer for this horse"
+    ]
+  },
+  {
+    "id": 5,
+    "lsprank": 2,
+    "rank": 23,
+    "points": 20,
+    "name": "Hades",
+    "profileLink": "https://www.horseracingnation.com/horse/Hades_1",
+    "sire": "Awesome Slew",
+    "pedigree": "Awesome Slew - The Shady Lady by Quality Road",
+    "pedigreeLink": "https://www.pedigreequery.com/hades15",
+    "comments": [
+        "1st - 2024 Holy Bull (G3) (GP 02/03/2024)",
+        "Three consective wins in first three career races"
+    ]
+  },
+  {
+    "id": 6,
+    "lsprank": 6,
+    "rank": 23,
+    "points": 20,
+    "name": "Domestic Product",
+    "profileLink": "https://www.horseracingnation.com/horse/Domestic_Product",
+    "sire": "Practical Joke",
+    "pedigree": "Practical Joke - Goods And Services by Paynter",
+    "pedigreeLink": "https://www.pedigreequery.com/domestic+product",
+    "comments": [
+        "2nd - 2024 Holy Bull (G3) (GP 02/03/2024)"
+    ]
+  },
+  {
+    "id": 7,
+    "lsprank": 5,
+    "rank": 23,
+    "points": 20,
+    "name": "Mystik Dan",
+    "profileLink": "https://www.horseracingnation.com/horse/Mystik_Dan",
+    "sire": "Goldencents",
+    "pedigree": "Goldencents - Ma'am by Colonel John",
+    "pedigreeLink": "https://www.pedigreequery.com/mystik+dan",
+    "comments": [
+        "1st - 2024 Southwest (G3) (OP 02/03/2024)"
     ]
   }
 
