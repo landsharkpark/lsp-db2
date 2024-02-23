@@ -16,7 +16,7 @@
   },
   {
     "id": 2,
-    "lsprank": 7,
+    "lsprank": 9,
     "rank": 10,
     "points": 19,
     "name": "Locked",
@@ -92,7 +92,7 @@
   {
     "id": 7,
     "lsprank": 5,
-    "rank": 4,
+    "rank": 6,
     "points": 21,
     "name": "Mystik Dan",
     "profileLink": "https://www.horseracingnation.com/horse/Mystik_Dan",
@@ -101,6 +101,20 @@
     "pedigreeLink": "https://www.pedigreequery.com/mystik+dan",
     "comments": [
         "1st - 2024 Southwest (G3) (OP 02/03/2024)"
+    ]
+  },
+  {
+    "id": 8,
+    "lsprank": 5,
+    "rank": 7,
+    "points": 10,
+    "name": "Resilience",
+    "profileLink": "https://www.horseracingnation.com/horse/Resilience_1",
+    "sire": "Into Mischief",
+    "pedigree": "Into Mischief - Meadowsweet by Smart Strike",
+    "pedigreeLink": "https://www.pedigreequery.com/resilience15",
+    "comments": [
+      "4th - 2024 Risen Star (G2) (FG 02/17/2024)"
     ]
   }
 
