@@ -1,22 +1,23 @@
 [
   {
     "id": 1,
-    "lsprank": 2,
-    "rank": 7,
-    "points": 30,
+    "lsprank": 8,
+    "rank": 3,
+    "points": 36,
     "name": "Fierceness",
     "profileLink": "https://www.horseracingnation.com/horse/Fierceness",
     "sire": "City of Light",
     "pedigree": "City of Light - Nonna Bella by Stay Thirsty",
     "pedigreeLink": "https://www.pedigreequery.com/fierceness2",
     "comments": [
+      "3rd - 2024 Holy Bull (G3) (GP 2/3/2024)",
       "1st - 2023 Breeders' Cup Juvenille (G1) (SA 11/3/2023)"
     ]
   },
   {
     "id": 2,
-    "lsprank": 4,
-    "rank": 3,
+    "lsprank": 7,
+    "rank": 10,
     "points": 19,
     "name": "Locked",
     "profileLink": "https://www.horseracingnation.com/horse/Locked",
@@ -30,37 +31,39 @@
   },
   {
     "id": 3,
-    "lsprank": 3,
+    "lsprank": 2,
     "rank": 2,
-    "points": 30,
+    "points": 55,
     "name": "Track Phantom",
     "profileLink": "https://www.horseracingnation.com/horse/Track_Phantom",
     "sire": "Quality Road",
     "pedigree": "Quality Road - Miss Sunset by Into Mischief",
     "pedigreeLink": "https://www.pedigreequery.com/track+phantom",
     "comments": [
-        "1st - 2024 Lecomte (G3) (FG 01/20/2024)"
+      "2nd - 2024 Risen Star (G2) (FG 02/17/2024)",
+      "1st - 2024 Lecomte (G3) (FG 01/20/2024)"
     ]
   },
   {
     "id": 4,
     "lsprank": 1,
-    "rank": 23,
-    "points": 5,
+    "rank": 1,
+    "points": 55,
     "name": "Sierra Leone",
     "profileLink": "https://www.horseracingnation.com/horse/Sierra_Leone",
     "sire": "Gun Runner",
     "pedigree": "Gun Runner - Heavenly Love by Malibu Moon",
     "pedigreeLink": "https://www.pedigreequery.com/sierra+leone16",
     "comments": [
-        "2nd - 2023 Remsen (G2) (AQU 12/02/2023)",
-        "I'm an occassional HHH Podcast viewer, so I feel contractually obligated to cheer for this horse"
+      "1st - 2024 Risen Star (G2) (FG 02/17/2024)",
+      "2nd - 2023 Remsen (G2) (AQU 12/02/2023)",
+      "I'm an occassional HHH Podcast viewer, so I feel contractually obligated to cheer for this horse"
     ]
   },
   {
     "id": 5,
-    "lsprank": 2,
-    "rank": 23,
+    "lsprank": 3,
+    "rank": 7,
     "points": 20,
     "name": "Hades",
     "profileLink": "https://www.horseracingnation.com/horse/Hades_1",
@@ -75,8 +78,8 @@
   {
     "id": 6,
     "lsprank": 6,
-    "rank": 23,
-    "points": 20,
+    "rank": 22,
+    "points": 10,
     "name": "Domestic Product",
     "profileLink": "https://www.horseracingnation.com/horse/Domestic_Product",
     "sire": "Practical Joke",
@@ -89,8 +92,8 @@
   {
     "id": 7,
     "lsprank": 5,
-    "rank": 23,
-    "points": 20,
+    "rank": 4,
+    "points": 21,
     "name": "Mystik Dan",
     "profileLink": "https://www.horseracingnation.com/horse/Mystik_Dan",
     "sire": "Goldencents",
