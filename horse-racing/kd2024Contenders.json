@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "lsprank": 8,
-    "rank": 3,
+    "lsprank": 7,
+    "rank": 4,
     "points": 36,
     "name": "Fierceness",
     "profileLink": "https://www.horseracingnation.com/horse/Fierceness",
@@ -17,7 +17,7 @@
   {
     "id": 2,
     "lsprank": 9,
-    "rank": 10,
+    "rank": 12,
     "points": 19,
     "name": "Locked",
     "profileLink": "https://www.horseracingnation.com/horse/Locked",
@@ -31,8 +31,8 @@
   },
   {
     "id": 3,
-    "lsprank": 2,
-    "rank": 2,
+    "lsprank": 3,
+    "rank": 3,
     "points": 55,
     "name": "Track Phantom",
     "profileLink": "https://www.horseracingnation.com/horse/Track_Phantom",
@@ -47,7 +47,7 @@
   {
     "id": 4,
     "lsprank": 1,
-    "rank": 1,
+    "rank": 2,
     "points": 55,
     "name": "Sierra Leone",
     "profileLink": "https://www.horseracingnation.com/horse/Sierra_Leone",
@@ -62,8 +62,8 @@
   },
   {
     "id": 5,
-    "lsprank": 3,
-    "rank": 7,
+    "lsprank": 4,
+    "rank": 9,
     "points": 20,
     "name": "Hades",
     "profileLink": "https://www.horseracingnation.com/horse/Hades_1",
@@ -79,7 +79,7 @@
     "id": 6,
     "lsprank": 6,
     "rank": 22,
-    "points": 10,
+    "points": 24,
     "name": "Domestic Product",
     "profileLink": "https://www.horseracingnation.com/horse/Domestic_Product",
     "sire": "Practical Joke",
@@ -92,7 +92,7 @@
   {
     "id": 7,
     "lsprank": 5,
-    "rank": 6,
+    "rank": 8,
     "points": 21,
     "name": "Mystik Dan",
     "profileLink": "https://www.horseracingnation.com/horse/Mystik_Dan",
@@ -105,8 +105,8 @@
   },
   {
     "id": 8,
-    "lsprank": 5,
-    "rank": 7,
+    "lsprank": 8,
+    "rank": 25,
     "points": 10,
     "name": "Resilience",
     "profileLink": "https://www.horseracingnation.com/horse/Resilience_1",
@@ -115,6 +115,23 @@
     "pedigreeLink": "https://www.pedigreequery.com/resilience15",
     "comments": [
       "4th - 2024 Risen Star (G2) (FG 02/17/2024)"
+    ]
+  },
+  {
+    "id": 9,
+    "lsprank": 2,
+    "rank": 1,
+    "points": 66,
+    "name": "Timberlake",
+    "profileLink": "ttps://www.horseracingnation.com/horse/Timberlake",
+    "sire": "Into Mischief",
+    "pedigree": "Into Mischief - Pin Up by Lookin At Lucky",
+    "pedigreeLink": "https://www.pedigreequery.com/timberlake9",
+    "comments": [
+      "1st - 2024 Rebel Stakes (G2) (02//24/2024)",
+      "4th - 2023 Breeders' Cup Juvenile (G1) (11/03/2023)",
+      "1st - Champagne S. (10/07/2023)",
+      "1st - 2023 Hopeful (G1) (09/04/2023)"
     ]
   }
 
