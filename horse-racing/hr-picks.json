@@ -1,16 +1,21 @@
 [
   {
-    "id": "1",
+    "_id": 1,
     "date": "20231102",
     "cardDesc": "Test One",
     "track": "Santa Anita Park",
-    "trackCode": "SAT",
+    "trackCode": "SA",
     "weekday": "saturday",
+    "raceDayNotes": [
+      "Santa Anita - Note 1",
+      "Santa Anita - Note 2",
+      "Santa Anita - Note 3"
+    ],
     "latePick5": "1,2/5/3,4,5,6,8,9/3,6/7,8,9",
     "latePick5Cost": "36.00",
     "race": [
       {
-        "raceNum": "1",
+        "raceNum": 1,
         "purse": "$89,000",
         "raceName": "Maiden Special Weight",
         "distance": "1 1/8 Miles",
@@ -24,7 +29,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "2",
+        "raceNum": 2,
         "purse": "$89,000",
         "raceName": "Maiden Special Weight",
         "distance": "7 Furlongs",
@@ -38,7 +43,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "3",
+        "raceNum": 3,
         "purse": "$200,000",
         "raceName": "Colonel S.",
         "distance": "1 Mile",
@@ -52,7 +57,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "4",
+        "raceNum": 4,
         "purse": "$100,000",
         "raceName": "Handicap",
         "distance": "1 1/8 Miles",
@@ -68,15 +73,14 @@
     ]
   },
   {
-    "id": "2",
+    "_id": 2,
     "date": "20240217",
     "cardDesc": "Risen Star",
     "track": "Fair Grounds",
     "trackCode": "FG",
-    "weekday": "saturday",
     "race": [
       {
-        "raceNum": "6",
+        "raceNum": 6,
         "purse": "$92,000",
         "raceName": "Allowance Optional Claiming",
         "distance": "7 Furlongs",
@@ -90,7 +94,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "7",
+        "raceNum": 7,
         "purse": "$200,000",
         "raceName": "Mac Diarmida S.",
         "distance": "1 3/8 Miles",
@@ -104,7 +108,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "8",
+        "raceNum": 8,
         "purse": "$200,000",
         "raceName": "Herecomesthebride S.",
         "distance": "1 Mile",
@@ -120,15 +124,14 @@
     ]
   },
   {
-    "id": "3",
+    "_id": 3,
     "date": "20240224",
     "cardDesc": "Rebel Stakes",
     "track": "Oaklawn Park",
     "trackCode": "OP",
-    "weekday": "saturday",
     "race": [
       {
-        "raceNum": "11",
+        "raceNum": 11,
         "purse": "$200,000",
         "raceName": "Gulfstream Park Mile S.",
         "distance": "1 Mile",
@@ -142,7 +145,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "12",
+        "raceNum": 12,
         "purse": "$150,000",
         "raceName": "Canadian Turf S.",
         "distance": "1 1/16 Miles",
@@ -156,7 +159,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "13",
+        "raceNum": 13,
         "purse": "$150,000",
         "raceName": "Honey Fox S.",
         "distance": "1 Mile",
@@ -170,7 +173,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "14",
+        "raceNum": 14,
         "purse": "$400,000",
         "raceName": "Fountain of Youth S.",
         "distance": "1 1/16 Miles",
@@ -186,17 +189,22 @@
     ]
   },
   {
-    "id": "4",
+    "_id": 4,
     "date": "20240302",
     "cardDesc": "Fountain of Youth",
     "track": "Gulfstream Park",
     "trackCode": "GP",
     "weekday": "saturday",
+    "raceDayNotes": [
+      "Santa Anita - Note 1",
+      "Santa Anita - Note 2",
+      "Santa Anita - Note 3"
+    ],
     "latePick5": "6,7,10,13/2,7/4,5/1,3,6/7,8,9",
     "latePick5Cost": "72.00",
     "race": [
       {
-        "raceNum": "1",
+        "raceNum": 1,
         "purse": "$89,000",
         "raceName": "Maiden Special Weight",
         "distance": "1 1/8 Miles",
@@ -210,7 +218,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "2",
+        "raceNum": 2,
         "purse": "$89,000",
         "raceName": "Maiden Special Weight",
         "distance": "7 Furlongs",
@@ -224,7 +232,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "3",
+        "raceNum": 3,
         "purse": "$200,000",
         "raceName": "Colonel S.",
         "distance": "1 Mile",
@@ -238,7 +246,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "4",
+        "raceNum": 4,
         "purse": "$100,000",
         "raceName": "Handicap",
         "distance": "1 1/8 Miles",
@@ -252,7 +260,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "5",
+        "raceNum": 5,
         "purse": "$92,000",
         "raceName": "Allowance Optional Claiming",
         "distance": "7 1/2 Furlongs",
@@ -266,7 +274,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "6",
+        "raceNum": 6,
         "purse": "$92,000",
         "raceName": "Allowance Optional Claiming",
         "distance": "7 Furlongs",
@@ -280,7 +288,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "7",
+        "raceNum": 7,
         "purse": "$200,000",
         "raceName": "Mac Diarmida S.",
         "distance": "1 3/8 Miles",
@@ -294,7 +302,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "8",
+        "raceNum": 8,
         "purse": "$200,000",
         "raceName": "Herecomesthebride S.",
         "distance": "1 Mile",
@@ -308,7 +316,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "9",
+        "raceNum": 9,
         "purse": "$200,000",
         "raceName": "Davona Dale S.",
         "distance": "1 Mile",
@@ -322,7 +330,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "10",
+        "raceNum": 10,
         "purse": "$150,000",
         "raceName": "The Very One S.",
         "distance": "1 3/8 Miles",
@@ -336,7 +344,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "11",
+        "raceNum": 11,
         "purse": "$200,000",
         "raceName": "Gulfstream Park Mile S.",
         "distance": "1 Mile",
@@ -350,7 +358,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "12",
+        "raceNum": 12,
         "purse": "$150,000",
         "raceName": "Canadian Turf S.",
         "distance": "1 1/16 Miles",
@@ -364,7 +372,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "13",
+        "raceNum": 13,
         "purse": "$150,000",
         "raceName": "Honey Fox S.",
         "distance": "1 Mile",
@@ -378,7 +386,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "14",
+        "raceNum": 14,
         "purse": "$400,000",
         "raceName": "Fountain of Youth S.",
         "distance": "1 1/16 Miles",
