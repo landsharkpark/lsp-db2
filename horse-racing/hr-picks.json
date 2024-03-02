@@ -288,7 +288,7 @@
         "tv": "FANDUEL TV+",
         "stakesrace": false,
         "picks": "5-1-4-3",
-        "officialResults": "TBD",
+        "officialResults": "5-7-4-9",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -302,7 +302,7 @@
         "tv": "FANDUEL TV+",
         "stakesrace": true,
         "picks": "1-4-9-7",
-        "officialResults": "TBD",
+        "officialResults": "4-7-2-10",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -316,7 +316,7 @@
         "tv": "FANDUEL TV+",
         "stakesrace": true,
         "picks": "3-7-5-10",
-        "officialResults": "TBD",
+        "officialResults": "11-7-3-2",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -330,8 +330,11 @@
         "tv": "FANDUEL TV+",
         "stakesrace": true,
         "picks": "3-2-8-5",
-        "officialResults": "TBD",
-        "preRaceComments": [],
+        "officialResults": "4-8-2-6",
+        "preRaceComments": [
+          "(3) Just F Y I - late scratch.  Also very bummed she will not run today",
+          "(2) Leslie's Rose - should make things easy for Irad/Todd in this race"
+        ],
         "postRaceComments": []
       },
       {
@@ -344,7 +347,7 @@
         "tv": "FANDUEL TV+",
         "stakesrace": true,
         "picks": "10-7-6-8",
-        "officialResults": "TBD",
+        "officialResults": "10-6-7-4",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -358,7 +361,7 @@
         "tv": "FANDUEL TV+",
         "stakesrace": true,
         "picks": "5-2-3-4",
-        "officialResults": "TBD",
+        "officialResults": "3-5-4-6",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -372,7 +375,7 @@
         "tv": "FANDUEL TV+",
         "stakesrace": true,
         "picks": "2-6-3-5",
-        "officialResults": "TBD",
+        "officialResults": "3-5-10-1",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -386,7 +389,7 @@
         "tv": "FANDUEL TV+",
         "stakesrace": true,
         "picks": "6-11-7-5",
-        "officialResults": "TBD",
+        "officialResults": "6-5-11-10",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -400,7 +403,7 @@
         "tv": "FANDUEL TV+",
         "stakesrace": true,
         "picks": "1-5-4-7",
-        "officialResults": "TBD",
+        "officialResults": "5-2-7-4",
         "preRaceComments": [
           "Big scratches with the 8 (Locked) and 3 (Victory Avenue)",
           "(1) Speak Easy - one race, but very fast out of gate and solid throughout race",
