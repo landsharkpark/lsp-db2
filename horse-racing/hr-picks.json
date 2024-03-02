@@ -212,10 +212,12 @@
         "postTime": "10:15 AM",
         "stakesrace": false,
         "tv": "FANDUEL TV+",
-        "picks": "7-8-5-6",
-        "officialResults": "TBD",
+        "picks": "7-8-5-1",
+        "officialResults": "5-11-6-1",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(5) Domingo - son of American Pharoah, wins on the turf"
+        ]
       },
       {
         "raceNum": 2,
@@ -226,10 +228,13 @@
         "postTime": "10:44 AM",
         "stakesrace": false,
         "tv": "FANDUEL TV+",
-        "picks": "6-1-3-8",
-        "officialResults": "TBD",
+        "picks": "1-6-3-8",
+        "officialResults": "2-1-3-6",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(2) Be You - wins, most experienced and faced good competition",
+          "(1) Big City and (8) Acclaimed Victor - early pace was too much for those horses"
+        ]
       },
       {
         "raceNum": 3,
@@ -241,7 +246,7 @@
         "tv": "FANDUEL TV+",
         "stakesrace": true,
         "picks": "7-9-8-5",
-        "officialResults": "TBD",
+        "officialResults": "5-8-6-9",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -255,7 +260,7 @@
         "tv": "FANDUEL TV+",
         "stakesrace": false,
         "picks": "10-2-6-3",
-        "officialResults": "TBD",
+        "officialResults": "10-2-3-6",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -268,8 +273,8 @@
         "postTime": "12:14 PM",
         "tv": "FANDUEL TV+",
         "stakesrace": false,
-        "picks": "11-10-5-2",
-        "officialResults": "TBD",
+        "picks": "11-2-10-5",
+        "officialResults": "11-9-2-1",
         "preRaceComments": [],
         "postRaceComments": []
       },
