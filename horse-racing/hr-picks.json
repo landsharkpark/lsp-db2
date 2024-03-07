@@ -200,8 +200,8 @@
       "Santa Anita - Note 2",
       "Santa Anita - Note 3"
     ],
-    "latePick5": "",
-    "latePick5Cost": "",
+    "latePick5": "6,10 / 4,5 / 2,3,4,6 / 5,6,7,11 / 1,5",
+    "latePick5Cost": "$64 (Races 10 - 14)",
     "race": [
       {
         "raceNum": 1,
