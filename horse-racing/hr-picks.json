@@ -353,8 +353,8 @@
       "",
       ""
     ],
-    "latePick5": "",
-    "latePick5Cost": "",
+    "latePick5": "3,7,8,10 / 1,3 / 1,4,7 / 5,7,10,11 / 5,7",
+    "latePick5Cost": "$96 (Races 7 - 11)",
     "race": [
       {
         "raceNum": 1,
@@ -463,7 +463,7 @@
         "postTime": "2:34 PM",
         "tv": "FANDUEL TV+",
         "stakesrace": false,
-        "picks": "4-1-10-3",
+        "picks": "1-10-3-9",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -491,7 +491,7 @@
         "postTime": "3:45 PM",
         "tv": "FANDUEL TV+",
         "stakesrace": false,
-        "picks": "3-7-11-10",
+        "picks": "7-11-10-5",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
