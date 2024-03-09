@@ -421,10 +421,17 @@
         "postTime": "12:27 PM",
         "tv": "FANDUEL TV+",
         "stakesrace": false,
-        "picks": "3-6-10-2",
-        "officialResults": "",
-        "preRaceComments": [],
-        "postRaceComments": []
+        "picks": "3-6-12-2",
+        "officialResults": "6-3-12-11",
+        "preRaceComments": [
+          "lots of first time starters",
+          "(12) Camera - second career race, first race seven months ago.  short price with a tough post",
+          "(3) Qualificata - looked good last race, a little improvement might be enough to win race"
+        ],
+        "postRaceComments": [
+          "(6) Very Practical - outstanding closing speed to win at the wire",
+          "(3) and (12) battled down the stretch, both looked strong in losing effort"
+        ]
       },
       {
         "raceNum": 5,
