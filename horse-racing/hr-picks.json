@@ -353,8 +353,8 @@
       "",
       ""
     ],
-    "latePick5": "3,7,8,10 / 1,3 / 1,4,7 / 5,7,10,11 / 5,7",
-    "latePick5Cost": "$96 (Races 7 - 11)",
+    "latePick5": "3,7,8 / 1,3 / 1,4,7 / 5,7,10,11 / 5,7",
+    "latePick5Cost": "$72 (Races 7 - 11)",
     "race": [
       {
         "raceNum": 1,
@@ -442,10 +442,13 @@
         "postTime": "12:57 PM",
         "tv": "FANDUEL TV+",
         "stakesrace": false,
-        "picks": "9-12-4-1",
-        "officialResults": "",
+        "picks": "9-5-4-1",
+        "officialResults": "1-9-11-3",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(1) Alimara - Chad Brown turf horse, first race in U.S.; Started slow, outstanding closing speed",
+          "(9) Segesta - other Chad Brown horse in race; good for most of race, but tired at the end"
+        ]
       },
       {
         "raceNum": 6,
@@ -457,9 +460,11 @@
         "tv": "FANDUEL TV+",
         "stakesrace": false,
         "picks": "2-3-4-1",
-        "officialResults": "",
+        "officialResults": "3-4-1-2",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(3) Skippylongstocking - won race this year and last year.  Nice pace, never a doubt best horse in race."
+        ]
       },
       {
         "raceNum": 7,
@@ -471,7 +476,7 @@
         "tv": "FANDUEL TV+",
         "stakesrace": false,
         "picks": "3-7-10-8",
-        "officialResults": "",
+        "officialResults": "8-10-3-7",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -484,7 +489,7 @@
         "postTime": "2:34 PM",
         "tv": "FANDUEL TV+",
         "stakesrace": false,
-        "picks": "1-10-3-9",
+        "picks": "1-8-9-10",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -571,7 +576,7 @@
         "postTime": "4:35 PM",
         "stakesrace": false,
         "tv": "FANDUEL TV+",
-        "picks": "TBD",
+        "picks": "1-6-7-8",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -585,7 +590,7 @@
         "postTime": "5:07 PM",
         "stakesrace": false,
         "tv": "FANDUEL TV+",
-        "picks": "TBD",
+        "picks": "4-6-1-2",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -599,7 +604,7 @@
         "postTime": "5:39 PM",
         "tv": "FANDUEL TV+",
         "stakesrace": true,
-        "picks": "TBD",
+        "picks": "3-7-8-4",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -613,7 +618,7 @@
         "postTime": "6:11 PM",
         "tv": "FANDUEL TV+",
         "stakesrace": false,
-        "picks": "TBD",
+        "picks": "2-5-3-6",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -627,7 +632,7 @@
         "postTime": "6:43 PM",
         "tv": "FANDUEL TV+",
         "stakesrace": false,
-        "picks": "TBD",
+        "picks": "4-6-7-2",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
