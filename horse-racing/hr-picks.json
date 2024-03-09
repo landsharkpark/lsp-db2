@@ -365,10 +365,14 @@
         "postTime": "10:55 AM",
         "tv": "FANDUEL TV+",
         "stakesrace": false,
-        "picks": "1-8-2-5",
-        "officialResults": "",
-        "preRaceComments": [],
-        "postRaceComments": []
+        "picks": "1-2-8-3",
+        "officialResults": "9-1-10-7",
+        "preRaceComments": [
+          "A lot of even running lines for these horses"
+        ],
+        "postRaceComments": [
+          "Always great to see a 37-1 bomb start a card"
+        ]
       },
       {
         "raceNum": 2,
@@ -380,9 +384,12 @@
         "tv": "FANDUEL TV+",
         "stakesrace": false,
         "picks": "1-3-2-10",
-        "officialResults": "",
+        "officialResults": "3-2-10-1",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(3) Hercules wins - nice pace, inside move",
+          "(1) Practical Way - 2/5 Post Time favorite led early, but faded badly"
+        ]
       },
       {
         "raceNum": 3,
@@ -394,9 +401,16 @@
         "tv": "FANDUEL TV+",
         "stakesrace": false,
         "picks": "5-10-11-2",
-        "officialResults": "",
-        "preRaceComments": [],
-        "postRaceComments": []
+        "officialResults": "3-5-7-10",
+        "preRaceComments": [
+          "(5) Mellifluous - Third start, slight class drop - hoping he figures things out today",
+          "(10) Mr Bolt - first time starter from outside post; tough ask but taking a lot of betting money"
+        ],
+        "postRaceComments": [
+          "(3) Snowname - wasn't able to finish in his first two races, but led early and had enough to win the race",
+          "(5) Mellifluous - Ok start, nice closing speed; didn't have enough distance to catch leader",
+          "(10) Mr Bolt - started race well but didn't have energy to finish the final furlong"
+        ]
       },
       {
         "raceNum": 4,
