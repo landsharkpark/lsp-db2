@@ -490,9 +490,11 @@
         "tv": "FANDUEL TV+",
         "stakesrace": false,
         "picks": "1-8-9-10",
-        "officialResults": "",
+        "officialResults": "1-7-8-3",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(1) Sterling Silver - 8/5 Post Time favorite off a layoff; recovered after poor start to win by a nose"
+        ]
       },
       {
         "raceNum": 9,
@@ -503,10 +505,13 @@
         "postTime": "3:12 PM",
         "tv": "FANDUEL TV+",
         "stakesrace": false,
-        "picks": "2-7-1-4",
-        "officialResults": "",
+        "picks": "7-1-4-8",
+        "officialResults": "3-4-1-7",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(3) Sparkle Blue - nice ride by Jorge Ruiz, led throughout and finished well",
+          "(1) Fluffy Socks - even money favorite at post time; No excuses - she doesn't like her picture taken; A good place or show horse"
+        ]
       },
       {
         "raceNum": 10,
@@ -518,9 +523,11 @@
         "tv": "FANDUEL TV+",
         "stakesrace": false,
         "picks": "7-11-10-5",
-        "officialResults": "",
+        "officialResults": "5-7-9-1",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(5) Wakesiu - Another good American Pharoah filly on the turf; nice ride by Junior Alvarado"
+        ]
       },
       {
         "raceNum": 11,
@@ -554,7 +561,7 @@
   },
   {
     "_id": 7,
-    "date": "20240308",
+    "date": "20240309",
     "cardDesc": "Test One",
     "track": "Santa Anita Park",
     "trackCode": "SA",
@@ -564,8 +571,8 @@
       "Santa Anita - Note 2",
       "Santa Anita - Note 3"
     ],
-    "latePick5": "",
-    "latePick5Cost": "",
+    "latePick5": "6,7 / 4 / 3,7,8 / 2,3,5,7 / 4,6",
+    "latePick5Cost": "$24 (Races 5 - 9)",
     "race": [
       {
         "raceNum": 5,
@@ -576,7 +583,7 @@
         "postTime": "4:35 PM",
         "stakesrace": false,
         "tv": "FANDUEL TV+",
-        "picks": "1-6-7-8",
+        "picks": "6-7-8-1",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
