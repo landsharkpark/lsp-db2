@@ -1,78 +1,5 @@
 [
   {
-    "_id": 1,
-    "date": "20231102",
-    "cardDesc": "Test One",
-    "track": "Santa Anita Park",
-    "trackCode": "SA",
-    "weekday": "saturday",
-    "raceDayNotes": [
-      "Santa Anita - Note 1",
-      "Santa Anita - Note 2",
-      "Santa Anita - Note 3"
-    ],
-    "latePick5": "1,2/5/3,4,5,6,8,9/3,6/7,8,9",
-    "latePick5Cost": "36.00",
-    "race": [
-      {
-        "raceNum": 1,
-        "purse": "$89,000",
-        "raceName": "Maiden Special Weight",
-        "distance": "1 1/8 Miles",
-        "surface": "Turf",
-        "postTime": "10:15 AM",
-        "stakesrace": false,
-        "tv": "FANDUEL TV+",
-        "picks": "TBD",
-        "officialResults": "TBD",
-        "preRaceComments": [],
-        "postRaceComments": []
-      },
-      {
-        "raceNum": 2,
-        "purse": "$89,000",
-        "raceName": "Maiden Special Weight",
-        "distance": "7 Furlongs",
-        "surface": "Dirt",
-        "postTime": "10:44 AM",
-        "stakesrace": false,
-        "tv": "FANDUEL TV+",
-        "picks": "TBD",
-        "officialResults": "TBD",
-        "preRaceComments": [],
-        "postRaceComments": []
-      },
-      {
-        "raceNum": 3,
-        "purse": "$200,000",
-        "raceName": "Colonel S.",
-        "distance": "1 Mile",
-        "surface": "Turf",
-        "postTime": "11:13 AM",
-        "tv": "FANDUEL TV+",
-        "stakesrace": true,
-        "picks": "TBD",
-        "officialResults": "TBD",
-        "preRaceComments": [],
-        "postRaceComments": []
-      },
-      {
-        "raceNum": 4,
-        "purse": "$100,000",
-        "raceName": "Handicap",
-        "distance": "1 1/8 Miles",
-        "surface": "All Weather",
-        "postTime": "11:43 AM",
-        "tv": "FANDUEL TV+",
-        "stakesrace": false,
-        "picks": "TBD",
-        "officialResults": "TBD",
-        "preRaceComments": [],
-        "postRaceComments": []
-      }
-    ]
-  },
-  {
     "_id": 2,
     "date": "20240217",
     "cardDesc": "Risen Star",
@@ -597,6 +524,94 @@
         "preRaceComments": [],
         "postRaceComments": []
       }
+    ]
+  },
+  {
+    "_id": 7,
+    "date": "20240308",
+    "cardDesc": "Test One",
+    "track": "Santa Anita Park",
+    "trackCode": "SA",
+    "weekday": "saturday",
+    "raceDayNotes": [
+      "Santa Anita - Note 1",
+      "Santa Anita - Note 2",
+      "Santa Anita - Note 3"
+    ],
+    "latePick5": "",
+    "latePick5Cost": "",
+    "race": [
+      {
+        "raceNum": 5,
+        "purse": "$67,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "4:35 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 6,
+        "purse": "$100,000",
+        "raceName": "Santa Ysabel S.",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "5:07 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 7,
+        "purse": "$100,000",
+        "raceName": "San Simeon S.",
+        "distance": "6 1/2 Furlongs",
+        "surface": "Downhill Turf",
+        "postTime": "5:39 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": true,
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 8,
+        "purse": "$300,000",
+        "raceName": "Beholder Mile S.",
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "postTime": "6:11 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 9,
+        "purse": "$65,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "5 Furlongs",
+        "surface": "Turf",
+        "postTime": "6:43 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      }
+
     ]
   }
 ]
