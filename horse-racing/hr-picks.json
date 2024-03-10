@@ -539,7 +539,7 @@
         "tv": "FANDUEL TV+",
         "stakesrace": false,
         "picks": "5-7-9-4",
-        "officialResults": "",
+        "officialResults": "5-7-9-4",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -553,7 +553,7 @@
         "tv": "FANDUEL TV+",
         "stakesrace": false,
         "picks": "2-3-11-5",
-        "officialResults": "",
+        "officialResults": "RACE CANCELLED",
         "preRaceComments": [],
         "postRaceComments": []
       }
@@ -561,7 +561,7 @@
   },
   {
     "_id": 7,
-    "date": "20240309",
+    "date": "20240310",
     "cardDesc": "Test One",
     "track": "Santa Anita Park",
     "trackCode": "SA",
@@ -584,7 +584,7 @@
         "stakesrace": false,
         "tv": "FANDUEL TV+",
         "picks": "6-7-8-1",
-        "officialResults": "TBD",
+        "officialResults": "1-3-6-7",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -598,7 +598,7 @@
         "stakesrace": false,
         "tv": "FANDUEL TV+",
         "picks": "4-6-1-2",
-        "officialResults": "TBD",
+        "officialResults": "4-7-5-1",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -612,7 +612,7 @@
         "tv": "FANDUEL TV+",
         "stakesrace": true,
         "picks": "3-7-8-4",
-        "officialResults": "TBD",
+        "officialResults": "3-4-7-5",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -626,7 +626,7 @@
         "tv": "FANDUEL TV+",
         "stakesrace": false,
         "picks": "2-5-3-6",
-        "officialResults": "TBD",
+        "officialResults": "6-2-3-4",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -640,7 +640,7 @@
         "tv": "FANDUEL TV+",
         "stakesrace": false,
         "picks": "4-6-7-2",
-        "officialResults": "TBD",
+        "officialResults": "6-4-7-3",
         "preRaceComments": [],
         "postRaceComments": []
       }
