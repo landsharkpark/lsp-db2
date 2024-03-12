@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "lsprank": 7,
-    "rank": 4,
+    "lsprank": 8,
+    "rank": 9,
     "points": 36,
     "name": "Fierceness",
     "profileLink": "https://www.horseracingnation.com/horse/Fierceness",
@@ -16,23 +16,22 @@
   },
   {
     "id": 2,
-    "lsprank": 9,
-    "rank": 12,
-    "points": 19,
-    "name": "Locked",
-    "profileLink": "https://www.horseracingnation.com/horse/Locked",
-    "sire": "Gun Runner",
-    "pedigree": "Gun Runner - Luna Rosa by Malibu Moon",
-    "pedigreeLink": "https://www.pedigreequery.com/locked3",
+    "lsprank": 7,
+    "rank": 6,
+    "points": 50,
+    "name": "Deterministic",
+    "profileLink": "https://www.horseracingnation.com/horse/Deterministic",
+    "sire": "Liam's Map",
+    "pedigree": "Liam's Map - Giulio's Jewel by Speightstown",
+    "pedigreeLink": "https://www.pedigreequery.com/deterministic3",
     "comments": [
-      "3rd - 2023 Breeders' Cup Juvenille (G1) (SA 11/3/2023)",
-      "1st - 2023 Breeders' Futurity (G1) (KEE 10/07/2023)"
+      "1st - 2024 Gotham (G3) (AQU 3/2/2024)"
     ]
   },
   {
     "id": 3,
     "lsprank": 3,
-    "rank": 3,
+    "rank": 5,
     "points": 55,
     "name": "Track Phantom",
     "profileLink": "https://www.horseracingnation.com/horse/Track_Phantom",
@@ -47,7 +46,7 @@
   {
     "id": 4,
     "lsprank": 1,
-    "rank": 2,
+    "rank": 4,
     "points": 55,
     "name": "Sierra Leone",
     "profileLink": "https://www.horseracingnation.com/horse/Sierra_Leone",
@@ -62,8 +61,8 @@
   },
   {
     "id": 5,
-    "lsprank": 4,
-    "rank": 9,
+    "lsprank": 8,
+    "rank": 16,
     "points": 20,
     "name": "Hades",
     "profileLink": "https://www.horseracingnation.com/horse/Hades_1",
@@ -77,9 +76,9 @@
   },
   {
     "id": 6,
-    "lsprank": 6,
-    "rank": 22,
-    "points": 24,
+    "lsprank": 5,
+    "rank": 3,
+    "points": 60,
     "name": "Domestic Product",
     "profileLink": "https://www.horseracingnation.com/horse/Domestic_Product",
     "sire": "Practical Joke",
@@ -91,8 +90,8 @@
   },
   {
     "id": 7,
-    "lsprank": 5,
-    "rank": 8,
+    "lsprank": 10,
+    "rank": 15,
     "points": 21,
     "name": "Mystik Dan",
     "profileLink": "https://www.horseracingnation.com/horse/Mystik_Dan",
@@ -105,8 +104,8 @@
   },
   {
     "id": 8,
-    "lsprank": 8,
-    "rank": 25,
+    "lsprank": 11,
+    "rank": 36,
     "points": 10,
     "name": "Resilience",
     "profileLink": "https://www.horseracingnation.com/horse/Resilience_1",
@@ -123,15 +122,46 @@
     "rank": 1,
     "points": 66,
     "name": "Timberlake",
-    "profileLink": "ttps://www.horseracingnation.com/horse/Timberlake",
+    "profileLink": "https://www.horseracingnation.com/horse/Timberlake",
     "sire": "Into Mischief",
     "pedigree": "Into Mischief - Pin Up by Lookin At Lucky",
     "pedigreeLink": "https://www.pedigreequery.com/timberlake9",
     "comments": [
-      "1st - 2024 Rebel Stakes (G2) (02//24/2024)",
-      "4th - 2023 Breeders' Cup Juvenile (G1) (11/03/2023)",
-      "1st - Champagne S. (10/07/2023)",
-      "1st - 2023 Hopeful (G1) (09/04/2023)"
+      "1st - 2024 Rebel Stakes (G2) (2/24/2024)",
+      "4th - 2023 Breeders' Cup Juvenile (G1) (11/3/2023)",
+      "1st - Champagne S. (10/7/2023)",
+      "1st - 2023 Hopeful (G1) (9/4/2023)"
+    ]
+  },
+  {
+    "id": 10,
+    "lsprank": 4,
+    "rank": 2,
+    "points": 60,
+    "name": "Dornoch",
+    "profileLink": "https://www.horseracingnation.com/horse/Dornoch_1",
+    "sire": "Good Magic",
+    "pedigree": "Good Magic - Puca by Big Brown",
+    "pedigreeLink": "https://www.pedigreequery.com/dornoch8",
+    "comments": [
+      "1st - 2024 Fountain of Youth (G2) (3/2/2024)",
+      "1st - 2023 Remsen (G2) (12/2/2023)",
+      "2nd - 2023 Sapling (8/26/2023)"
+    ]
+  },
+  {
+    "id": 11,
+    "lsprank": 6,
+    "rank": 7,
+    "points": 45,
+    "name": "No More Time",
+    "profileLink": "https://www.horseracingnation.com/horse/No_More_Time",
+    "sire": "Not This Time",
+    "pedigree": "Not This Time - Baroness Juliette by Speightstown",
+    "pedigreeLink": "https://www.pedigreequery.com/no+more+time",
+    "comments": [
+      "2nd - 2024 Tampa Bay Derby (G3) (3/9/2024)",
+      "1st - 2024 Sam F. Davis (G3) (2/10/2024)"
     ]
   }
 
