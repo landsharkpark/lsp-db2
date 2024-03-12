@@ -9,9 +9,13 @@
     "sire": "City of Light",
     "pedigree": "City of Light - Nonna Bella by Stay Thirsty",
     "pedigreeLink": "https://www.pedigreequery.com/fierceness2",
-    "comments": [
+    "prepRaces": [
       "3rd - 2024 Holy Bull (G3) (GP 2/3/2024)",
       "1st - 2023 Breeders' Cup Juvenille (G1) (SA 11/3/2023)"
+    ],
+    "comments": [
+      "Outstanding in Breeders' Cup Juvenille",
+      "Found trouble in a couple races and did not handle well"
     ]
   },
   {
@@ -24,8 +28,11 @@
     "sire": "Liam's Map",
     "pedigree": "Liam's Map - Giulio's Jewel by Speightstown",
     "pedigreeLink": "https://www.pedigreequery.com/deterministic3",
-    "comments": [
+    "prepRaces": [
       "1st - 2024 Gotham (G3) (AQU 3/2/2024)"
+    ],
+    "comments": [
+      ""
     ]
   },
   {
@@ -38,9 +45,13 @@
     "sire": "Quality Road",
     "pedigree": "Quality Road - Miss Sunset by Into Mischief",
     "pedigreeLink": "https://www.pedigreequery.com/track+phantom",
-    "comments": [
+    "prepRaces": [
       "2nd - 2024 Risen Star (G2) (FG 2/17/2024)",
       "1st - 2024 Lecomte (G3) (FG 1/20/2024)"
+    ],
+    "comments": [
+      "Great run from outside post in Risen Star",
+      "Early speed, can set his own pace"
     ]
   },
   {
@@ -53,10 +64,14 @@
     "sire": "Gun Runner",
     "pedigree": "Gun Runner - Heavenly Love by Malibu Moon",
     "pedigreeLink": "https://www.pedigreequery.com/sierra+leone16",
-    "comments": [
+    "prepRaces": [
       "1st - 2024 Risen Star (G2) (FG 2/17/2024)",
-      "2nd - 2023 Remsen (G2) (AQU 12/2/2023)",
-      "I'm an occassional HHH Podcast viewer, so I feel contractually obligated to cheer for this horse"
+      "2nd - 2023 Remsen (G2) (AQU 12/2/2023)"
+    ],
+    "comments": [
+      "I'm an occassional HHH Podcast viewer, so I feel contractually obligated to cheer for this horse",
+      "Outstanding closing speed",
+      "KD favorite after future pool 4"
     ]
   },
   {
@@ -69,8 +84,10 @@
     "sire": "Awesome Slew",
     "pedigree": "Awesome Slew - The Shady Lady by Quality Road",
     "pedigreeLink": "https://www.pedigreequery.com/hades15",
+    "prepRaces": [
+      "1st - 2024 Holy Bull (G3) (GP 2/3/2024)"
+    ],
     "comments": [
-        "1st - 2024 Holy Bull (G3) (GP 2/3/2024)",
         "Three consective wins in first three career races"
     ]
   },
@@ -84,9 +101,14 @@
     "sire": "Practical Joke",
     "pedigree": "Practical Joke - Goods And Services by Paynter",
     "pedigreeLink": "https://www.pedigreequery.com/domestic+product",
-    "comments": [
+    "prepRaces": [
       "1st - 2024 Tampa Bay Derby (G3) (TAM 3/9/2024)",
       "2nd - 2024 Holy Bull (G3) (GP 2/3/2024)"
+    ],
+    "comments": [
+      "Improving each race",
+      "Good closing speed",
+      "Longer distance would be good"
     ]
   },
   {
@@ -99,8 +121,11 @@
     "sire": "Goldencents",
     "pedigree": "Goldencents - Ma'am by Colonel John",
     "pedigreeLink": "https://www.pedigreequery.com/mystik+dan",
+    "prepRaces": [
+      "1st - 2024 Southwest (G3) (OP 2/3/2024)"
+    ],
     "comments": [
-        "1st - 2024 Southwest (G3) (OP 2/3/2024)"
+      "Ran well in the rain"
     ]
   },
   {
@@ -113,8 +138,11 @@
     "sire": "Into Mischief",
     "pedigree": "Into Mischief - Meadowsweet by Smart Strike",
     "pedigreeLink": "https://www.pedigreequery.com/resilience15",
-    "comments": [
+    "prepRaces": [
       "4th - 2024 Risen Star (G2) (FG 2/17/2024)"
+    ],
+    "comments": [
+      "Talented, but young horse that will need to improve"
     ]
   },
   {
@@ -127,11 +155,15 @@
     "sire": "Into Mischief",
     "pedigree": "Into Mischief - Pin Up by Lookin At Lucky",
     "pedigreeLink": "https://www.pedigreequery.com/timberlake9",
-    "comments": [
+    "prepRaces": [
       "1st - 2024 Rebel Stakes (G2) (2/24/2024)",
       "4th - 2023 Breeders' Cup Juvenile (G1) (11/3/2023)",
       "1st - Champagne S. (10/7/2023)",
       "1st - 2023 Hopeful (G1) (9/4/2023)"
+    ],
+    "comments": [
+      "Crushed the Rebel Stakes field",
+      "Solid horse"
     ]
   },
   {
@@ -144,10 +176,16 @@
     "sire": "Good Magic",
     "pedigree": "Good Magic - Puca by Big Brown",
     "pedigreeLink": "https://www.pedigreequery.com/dornoch8",
-    "comments": [
+    "prepRaces": [
       "1st - 2024 Fountain of Youth (G2) (3/2/2024)",
       "1st - 2023 Remsen (G2) (12/2/2023)",
       "2nd - 2023 Sapling (8/26/2023)"
+    ],
+    "comments": [
+      "Beat Sierra Leone in the Remsen",
+      "Crushed a weak field in Fountain of Youth",
+      "Seems to run best when battling another horse",
+      "When alone on the lead, seams bored, uninterested"
     ]
   },
   {
@@ -160,9 +198,13 @@
     "sire": "Not This Time",
     "pedigree": "Not This Time - Baroness Juliette by Speightstown",
     "pedigreeLink": "https://www.pedigreequery.com/no+more+time",
-    "comments": [
+    "prepRaces": [
       "2nd - 2024 Tampa Bay Derby (G3) (3/9/2024)",
       "1st - 2024 Sam F. Davis (G3) (2/10/2024)"
+    ],
+    "comments": [
+      "Just came up short in Tampa Bay Derby",
+      "Ran well with traffic"
     ]
   }
 
