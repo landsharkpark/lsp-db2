@@ -560,9 +560,9 @@
     ]
   },
   {
-    "_id": 7,
-    "date": "20240310",
-    "cardDesc": "Test One",
+    "_id": 6,
+    "date": "20240309",
+    "cardDesc": "Santa Ysabel",
     "track": "Santa Anita Park",
     "trackCode": "SA",
     "weekday": "saturday",
@@ -600,7 +600,9 @@
         "picks": "4-6-1-2",
         "officialResults": "4-7-5-1",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(4) Kinza - Bob Baffert trained, looks like best 3 yr old Filly right now"
+        ]
       },
       {
         "raceNum": 7,
@@ -628,7 +630,10 @@
         "picks": "2-5-3-6",
         "officialResults": "6-2-3-4",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(6) Sweet Azteca - wired the field",
+          "(2) Adare Manor - Post time favorite, no answer to the 6"
+        ]
       },
       {
         "raceNum": 9,
