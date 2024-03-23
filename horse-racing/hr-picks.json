@@ -830,5 +830,120 @@
         "postRaceComments": []
       }
     ]
+  },
+  {
+    "_id": 8,
+    "date": "20240323",
+    "cardDesc": "Jeff Ruby Steaks",
+    "track": "Fair Grounds",
+    "trackCode": "TP",
+    "weekday": "saturday",
+    "raceDayNotes": [
+      "Santa Anita - Note 1",
+      "Santa Anita - Note 2",
+      "Santa Anita - Note 3"
+    ],
+    "latePick5": "TBD",
+    "latePick5Cost": "TBD",
+    "race": [
+      {
+        "raceNum": 7,
+        "purse": "$250,000",
+        "raceName": "Animal Kingdom S.",
+        "distance": "6 Furlongs",
+        "surface": "All Weather",
+        "postTime": "2:43 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 8,
+        "purse": "$250,000",
+        "raceName": "Rushaway S.",
+        "distance": "1 1/16 Miles",
+        "surface": "All Weather",
+        "postTime": "3:13 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 9,
+        "purse": "$250,000",
+        "raceName": "Latonia S.",
+        "distance": "1 1/16 Miles",
+        "surface": "All Weather",
+        "postTime": "3:43 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 10,
+        "purse": "$300,000",
+        "raceName": "Kentucky Cup Classic S.",
+        "distance": "1 1/8 Miles",
+        "surface": "All Weather",
+        "postTime": "4:13 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 11,
+        "purse": "$300,000",
+        "raceName": "Bourbonette Oaks",
+        "distance": "1 1/16 Miles",
+        "surface": "All Weather",
+        "postTime": "4:43 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 12,
+        "purse": "$700,000",
+        "raceName": "Jeff Ruby Steaks",
+        "distance": "1 1/8 Miles",
+        "surface": "All Weather",
+        "postTime": "5:25 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 13,
+        "purse": "$70,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "1 Mile",
+        "surface": "All Weather",
+        "postTime": "6:05 PM",
+        "stakesrace": false,
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      }
+    ]
   }
+
 ]
