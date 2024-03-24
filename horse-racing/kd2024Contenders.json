@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "lsprank": 9,
-    "rank": 8,
+    "lsprank": 11,
+    "rank": 13,
     "points": 36,
     "name": "Fierceness",
     "profileLink": "https://www.horseracingnation.com/horse/Fierceness",
@@ -20,8 +20,8 @@
   },
   {
     "id": 2,
-    "lsprank": 7,
-    "rank": 6,
+    "lsprank": 10,
+    "rank": 10,
     "points": 50,
     "name": "Deterministic",
     "profileLink": "https://www.horseracingnation.com/horse/Deterministic",
@@ -37,9 +37,9 @@
   },
   {
     "id": 3,
-    "lsprank": 3,
-    "rank": 5,
-    "points": 55,
+    "lsprank": 4,
+    "rank": 3,
+    "points": 70,
     "name": "Track Phantom",
     "profileLink": "https://www.horseracingnation.com/horse/Track_Phantom",
     "sire": "Quality Road",
@@ -57,7 +57,7 @@
   {
     "id": 4,
     "lsprank": 1,
-    "rank": 4,
+    "rank": 9,
     "points": 55,
     "name": "Sierra Leone",
     "profileLink": "https://www.horseracingnation.com/horse/Sierra_Leone",
@@ -76,8 +76,8 @@
   },
   {
     "id": 5,
-    "lsprank": 8,
-    "rank": 16,
+    "lsprank": 13,
+    "rank": 21,
     "points": 20,
     "name": "Hades",
     "profileLink": "https://www.horseracingnation.com/horse/Hades_1",
@@ -93,8 +93,8 @@
   },
   {
     "id": 6,
-    "lsprank": 5,
-    "rank": 3,
+    "lsprank": 7,
+    "rank": 8,
     "points": 60,
     "name": "Domestic Product",
     "profileLink": "https://www.horseracingnation.com/horse/Domestic_Product",
@@ -113,8 +113,8 @@
   },
   {
     "id": 7,
-    "lsprank": 10,
-    "rank": 15,
+    "lsprank": 14,
+    "rank": 20,
     "points": 21,
     "name": "Mystik Dan",
     "profileLink": "https://www.horseracingnation.com/horse/Mystik_Dan",
@@ -130,7 +130,7 @@
   },
   {
     "id": 8,
-    "lsprank": 11,
+    "lsprank": 15,
     "rank": 36,
     "points": 10,
     "name": "Resilience",
@@ -148,7 +148,7 @@
   {
     "id": 9,
     "lsprank": 2,
-    "rank": 1,
+    "rank": 5,
     "points": 66,
     "name": "Timberlake",
     "profileLink": "https://www.horseracingnation.com/horse/Timberlake",
@@ -168,8 +168,8 @@
   },
   {
     "id": 10,
-    "lsprank": 4,
-    "rank": 2,
+    "lsprank": 6,
+    "rank": 7,
     "points": 60,
     "name": "Dornoch",
     "profileLink": "https://www.horseracingnation.com/horse/Dornoch_1",
@@ -190,8 +190,8 @@
   },
   {
     "id": 11,
-    "lsprank": 6,
-    "rank": 7,
+    "lsprank": 9,
+    "rank": 11,
     "points": 45,
     "name": "No More Time",
     "profileLink": "https://www.horseracingnation.com/horse/No_More_Time",
@@ -205,6 +205,82 @@
     "comments": [
       "Just came up short in Tampa Bay Derby",
       "Ran well with traffic"
+    ]
+  },
+  {
+    "id": 12,
+    "lsprank": 3,
+    "rank": 1,
+    "points": 125,
+    "name": "Catching Freedom",
+    "profileLink": "https://www.horseracingnation.com/horse/Catching_Freedom",
+    "sire": "Constitution",
+    "pedigree": "Constitution - Catch My Drift by Pioneerof the Nile ",
+    "pedigreeLink": "https://www.pedigreequery.com/catching+freedom",
+    "prepRaces": [
+      "1st - 2024 Louisiana Derby (G2) (3/23/2024)",
+      "3rd - 2024 Risen Star (G2) (2/17/2024)",
+      "1st - 2024 Smarty Jones (LS) (1/1/2024)"
+    ],
+    "comments": [
+      "Best performance and most imporved horse in LA Derby",
+      "Oustanding closing speed"
+    ]
+  },
+  {
+    "id": 13,
+    "lsprank": 8,
+    "rank": 2,
+    "points": 100,
+    "name": "Endlessly",
+    "profileLink": "https://www.horseracingnation.com/horse/Endlessly_2",
+    "sire": "Oscar Performance",
+    "pedigree": "Oscar Performance - Dream Fuhrever by Langfuhr",
+    "pedigreeLink": "https://www.pedigreequery.com/endlessly8",
+    "prepRaces": [
+      "1st - 2024 Jeff Ruby Steaks (G3) (3/23/2024)"
+    ],
+    "comments": [
+      "Dominating performance in Jeff Ruby Steaks",
+      "Has not run on a dirt track - four turf races and two all weather tracks"
+    ]
+  },
+  {
+    "id": 14,
+    "lsprank": 12,
+    "rank": 3,
+    "points": 67,
+    "name": "West Saratoga",
+    "profileLink": "https://www.horseracingnation.com/horse/West_Saratoga_1",
+    "sire": "Exaggerator",
+    "pedigree": "Exaggerator - Mo Wicked by Uncle Mo",
+    "pedigreeLink": "https://www.pedigreequery.com/west+saratoga2",
+    "prepRaces": [
+      "",
+      ""
+    ],
+    "comments": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 15,
+    "lsprank": 5,
+    "rank": 6,
+    "points": 65,
+    "name": "Honor Marie",
+    "profileLink": "https://www.horseracingnation.com/horse/Honor_Marie",
+    "sire": "Honor Code",
+    "pedigree": "Honor Code - Dame Marie by Smart Strike",
+    "pedigreeLink": "https://www.pedigreequery.com/honor+marie",
+    "prepRaces": [
+      "",
+      ""
+    ],
+    "comments": [
+      "",
+      ""
     ]
   }
 
