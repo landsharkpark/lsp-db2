@@ -959,8 +959,8 @@
       "",
       ""
     ],
-    "latePick5": "TBD",
-    "latePick5Cost": "",
+    "latePick5": "6,8 / 5,6,8 / 6,8 / 3,4,5,6,9 / 2,9,10",
+    "latePick5Cost": "$90 (Races 10 - 14)",
     "race": [
       {
         "raceNum": 1,
@@ -1166,8 +1166,8 @@
       "Santa Anita - Note 2",
       "Santa Anita - Note 3"
     ],
-    "latePick5": "TBD",
-    "latePick5Cost": "",
+    "latePick5": "2,8 / 6,7,8 / 1,8,10,11 / 2,7 / 3,5,6,10",
+    "latePick5Cost": "$96 (Races 9 - 13)",
     "race": [
       {
         "raceNum": 1,
@@ -1290,7 +1290,7 @@
         "postTime": "4:32 PM",
         "stakesrace": true,
         "tv": "FANDUEL TV+",
-        "picks": "8-2-3-7",
+        "picks": "8-2-7-3",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -1304,7 +1304,7 @@
         "postTime": "5:12 PM",
         "stakesrace": false,
         "tv": "FANDUEL TV+",
-        "picks": "6-8-5-2",
+        "picks": "7-6-8-5",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -1318,7 +1318,7 @@
         "postTime": "6:00 PM",
         "stakesrace": false,
         "tv": "FANDUEL TV+",
-        "picks": "1-11-6-8",
+        "picks": "1-11-10-8",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -1346,7 +1346,7 @@
         "postTime": "7:24 PM",
         "stakesrace": false,
         "tv": "FANDUEL TV+",
-        "picks": "3-10-6-8",
+        "picks": "6-5-3-10",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
