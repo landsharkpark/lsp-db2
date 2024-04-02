@@ -100,7 +100,7 @@
   },
   {
     "id": 6,
-    "lsprank": 5,
+    "lsprank": 4,
     "rank": 11,
     "points": 60,
     "name": "Domestic Product",
@@ -156,7 +156,7 @@
   },
   {
     "id": 9,
-    "lsprank": 2,
+    "lsprank": 13,
     "rank": 5,
     "points": 81,
     "name": "Timberlake",
@@ -278,7 +278,7 @@
   },
   {
     "id": 15,
-    "lsprank": 4,
+    "lsprank": 5,
     "rank": 9,
     "points": 65,
     "name": "Honor Marie",
