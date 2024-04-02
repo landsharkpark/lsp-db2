@@ -1,27 +1,30 @@
 [
   {
     "id": 1,
-    "lsprank": 11,
-    "rank": 13,
-    "points": 36,
+    "lsprank": 1,
+    "rank": 1,
+    "points": 136,
     "name": "Fierceness",
     "profileLink": "https://www.horseracingnation.com/horse/Fierceness",
     "sire": "City of Light",
     "pedigree": "City of Light - Nonna Bella by Stay Thirsty",
     "pedigreeLink": "https://www.pedigreequery.com/fierceness2",
     "prepRaces": [
+      "1st - 2024 Florida Derby (G1) (GP 3/30/2024)",
       "3rd - 2024 Holy Bull (G3) (GP 2/3/2024)",
       "1st - 2023 Breeders' Cup Juvenille (G1) (SA 11/3/2023)"
     ],
     "comments": [
-      "Outstanding in Breeders' Cup Juvenille",
-      "Found trouble in a couple races and did not handle well"
+      "Back on Fierceness bandwagon",
+      "Outstanding in Florida Derby and Breeders' Cup Juvenille",
+      "Found trouble in a couple races and did not handle well",
+      "Last race was his best race"
     ]
   },
   {
     "id": 2,
     "lsprank": 10,
-    "rank": 10,
+    "rank": 14,
     "points": 50,
     "name": "Deterministic",
     "profileLink": "https://www.horseracingnation.com/horse/Deterministic",
@@ -37,8 +40,8 @@
   },
   {
     "id": 3,
-    "lsprank": 4,
-    "rank": 3,
+    "lsprank": 14,
+    "rank": 6,
     "points": 70,
     "name": "Track Phantom",
     "profileLink": "https://www.horseracingnation.com/horse/Track_Phantom",
@@ -46,18 +49,20 @@
     "pedigree": "Quality Road - Miss Sunset by Into Mischief",
     "pedigreeLink": "https://www.pedigreequery.com/track+phantom",
     "prepRaces": [
+      "4th - 2024 Louisiana Derby (G2) (FG 3/23/2024)",
       "2nd - 2024 Risen Star (G2) (FG 2/17/2024)",
       "1st - 2024 Lecomte (G3) (FG 1/20/2024)"
     ],
     "comments": [
+      "Solid, early speed horse; may be a better sprinter",
       "Great run from outside post in Risen Star",
       "Early speed, can set his own pace"
     ]
   },
   {
     "id": 4,
-    "lsprank": 1,
-    "rank": 9,
+    "lsprank": 2,
+    "rank": 12,
     "points": 55,
     "name": "Sierra Leone",
     "profileLink": "https://www.horseracingnation.com/horse/Sierra_Leone",
@@ -76,25 +81,27 @@
   },
   {
     "id": 5,
-    "lsprank": 13,
-    "rank": 21,
-    "points": 20,
+    "lsprank": 17,
+    "rank": 19,
+    "points": 30,
     "name": "Hades",
     "profileLink": "https://www.horseracingnation.com/horse/Hades_1",
     "sire": "Awesome Slew",
     "pedigree": "Awesome Slew - The Shady Lady by Quality Road",
     "pedigreeLink": "https://www.pedigreequery.com/hades15",
     "prepRaces": [
+      "5th - 2024 Florida Derby (G1) (GP 3/30/2024)",
       "1st - 2024 Holy Bull (G3) (GP 2/3/2024)"
     ],
     "comments": [
-        "Three consective wins in first three career races"
+      "Poor showing in FL Derby; stumbled start and did not recover",
+      "Three consective wins in first three career races"
     ]
   },
   {
     "id": 6,
-    "lsprank": 7,
-    "rank": 8,
+    "lsprank": 5,
+    "rank": 11,
     "points": 60,
     "name": "Domestic Product",
     "profileLink": "https://www.horseracingnation.com/horse/Domestic_Product",
@@ -113,24 +120,26 @@
   },
   {
     "id": 7,
-    "lsprank": 14,
-    "rank": 20,
-    "points": 21,
+    "lsprank": 7,
+    "rank": 15,
+    "points": 46,
     "name": "Mystik Dan",
     "profileLink": "https://www.horseracingnation.com/horse/Mystik_Dan",
     "sire": "Goldencents",
     "pedigree": "Goldencents - Ma'am by Colonel John",
     "pedigreeLink": "https://www.pedigreequery.com/mystik+dan",
     "prepRaces": [
+      "3rd - 2024 Arkansas Derby (G1) (OP 3/30/2024)",
       "1st - 2024 Southwest (G3) (OP 2/3/2024)"
     ],
     "comments": [
-      "Ran well in the rain"
+      "Ok showing in AR Derby; rallied for 3rd place points",
+      "Ran well in the rain (Southwest)"
     ]
   },
   {
     "id": 8,
-    "lsprank": 15,
+    "lsprank": 19,
     "rank": 36,
     "points": 10,
     "name": "Resilience",
@@ -149,19 +158,21 @@
     "id": 9,
     "lsprank": 2,
     "rank": 5,
-    "points": 66,
+    "points": 81,
     "name": "Timberlake",
     "profileLink": "https://www.horseracingnation.com/horse/Timberlake",
     "sire": "Into Mischief",
     "pedigree": "Into Mischief - Pin Up by Lookin At Lucky",
     "pedigreeLink": "https://www.pedigreequery.com/timberlake9",
     "prepRaces": [
+      "4th - 2024 Arkansas Derby (G1) (3/30/2024)",
       "1st - 2024 Rebel Stakes (G2) (2/24/2024)",
       "4th - 2023 Breeders' Cup Juvenile (G1) (11/3/2023)",
       "1st - Champagne S. (10/7/2023)",
       "1st - 2023 Hopeful (G1) (9/4/2023)"
     ],
     "comments": [
+      "Flat, disappointing finish in AR Derby",
       "Crushed the Rebel Stakes field",
       "Solid horse"
     ]
@@ -169,7 +180,7 @@
   {
     "id": 10,
     "lsprank": 6,
-    "rank": 7,
+    "rank": 10,
     "points": 60,
     "name": "Dornoch",
     "profileLink": "https://www.horseracingnation.com/horse/Dornoch_1",
@@ -191,7 +202,7 @@
   {
     "id": 11,
     "lsprank": 9,
-    "rank": 11,
+    "rank": 16,
     "points": 45,
     "name": "No More Time",
     "profileLink": "https://www.horseracingnation.com/horse/No_More_Time",
@@ -210,7 +221,7 @@
   {
     "id": 12,
     "lsprank": 3,
-    "rank": 1,
+    "rank": 2,
     "points": 125,
     "name": "Catching Freedom",
     "profileLink": "https://www.horseracingnation.com/horse/Catching_Freedom",
@@ -230,7 +241,7 @@
   {
     "id": 13,
     "lsprank": 8,
-    "rank": 2,
+    "rank": 4,
     "points": 100,
     "name": "Endlessly",
     "profileLink": "https://www.horseracingnation.com/horse/Endlessly_2",
@@ -247,8 +258,8 @@
   },
   {
     "id": 14,
-    "lsprank": 12,
-    "rank": 3,
+    "lsprank": 18,
+    "rank": 7,
     "points": 67,
     "name": "West Saratoga",
     "profileLink": "https://www.horseracingnation.com/horse/West_Saratoga_1",
@@ -256,8 +267,9 @@
     "pedigree": "Exaggerator - Mo Wicked by Uncle Mo",
     "pedigreeLink": "https://www.pedigreequery.com/west+saratoga2",
     "prepRaces": [
-      "",
-      ""
+      "2nd - 2024 Jeff Ruby Steaks (G3) (3/23/2024)",
+      "3rd - 2024 Sam F. Davis (G3) (2/10/2024)",
+      "5th - 2023 Breeders' Futurity (G1) (10/7/2023)"
     ],
     "comments": [
       "",
@@ -266,8 +278,8 @@
   },
   {
     "id": 15,
-    "lsprank": 5,
-    "rank": 6,
+    "lsprank": 4,
+    "rank": 9,
     "points": 65,
     "name": "Honor Marie",
     "profileLink": "https://www.horseracingnation.com/horse/Honor_Marie",
@@ -275,8 +287,86 @@
     "pedigree": "Honor Code - Dame Marie by Smart Strike",
     "pedigreeLink": "https://www.pedigreequery.com/honor+marie",
     "prepRaces": [
+      "2nd - 2024 Louisiana Derby (G2) (3/23/2024)",
+      "5th - 2024 Risen Star (G2) (2/17/2024)",
+      "1st - 2023 Kentucky Jockey Club (11/25/2023)"
+    ],
+    "comments": [
       "",
       ""
+    ]
+  },
+  {
+    "id": 16,
+    "lsprank": 16,
+    "rank": 3,
+    "points": 100,
+    "name": "Forever Young (JPN)",
+    "profileLink": "https://www.horseracingnation.com/horse/Forever_Young_2",
+    "sire": "Real Steel",
+    "pedigree": "Real Steel - Forever Darling by Congrats",
+    "pedigreeLink": "https://www.pedigreequery.com/forever+young19",
+    "prepRaces": [
+      "1st - 2024 UAE Derby (G2) (3/30/2024)",
+      "1st - 2024 Saudi Derby (G3) (2/24/2024)"
+    ],
+    "comments": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 17,
+    "lsprank": 12,
+    "rank": 17,
+    "points": 40,
+    "name": "Grand Mo the First",
+    "profileLink": "https://www.horseracingnation.com/horse/Grand_Mo_the_First",
+    "sire": "Uncle Mo",
+    "pedigree": "Uncle Mo - Lilies So Fair by Giant's Causeway",
+    "pedigreeLink": "https://www.pedigreequery.com/grand+mo+the+first",
+    "prepRaces": [
+      "3rd - 2024 Florida Derby (G1) (3/30/2024)",
+      "3rd - 2024 Tampa Bay Derby (G3) (3/9/2024)"
+    ],
+    "comments": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 18,
+    "lsprank": 11,
+    "rank": 8,
+    "points": 65,
+    "name": "Just Steel",
+    "profileLink": "https://www.horseracingnation.com/horse/Just_Steel",
+    "sire": "Justify",
+    "pedigree": "Justify - Irish Lights by Fastnet Rock",
+    "pedigreeLink": "https://www.pedigreequery.com/just+steel2",
+    "prepRaces": [
+      "2nd - 2024 Arkansas Derby (G1) (3/30/2024)",
+      "7th - 2024 Rebel Stakes (G2) (2/24/2024)",
+      "2nd - 2024 Southwest Stakes (G3) (2/3/2024)",
+      "6th - 2023 Breeders' Futurity (G1) (10/7/2023)"
+    ],
+    "comments": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 19,
+    "lsprank": 15,
+    "rank": 13,
+    "points": 50,
+    "name": "Catalytic",
+    "profileLink": "https://www.horseracingnation.com/horse/Catalytic",
+    "sire": "Catalina Cruiser",
+    "pedigree": "Catalina Cruiser - One Show Only by Distorted Humor",
+    "pedigreeLink": "https://www.pedigreequery.com/catalytic5",
+    "prepRaces": [
+      "2nd - 2024 Florida Derby (G1) (3/30/2024)"
     ],
     "comments": [
       "",
