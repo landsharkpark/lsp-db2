@@ -1378,9 +1378,13 @@
         "stakesrace": false,
         "tv": "FANDUEL TV+",
         "picks": "7-5-8-3",
-        "officialResults": "TBD",
+        "officialResults": "5-4-7-8",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(5) Elephants Ear - Impressive, caught inside, was able to move out and very strong finish",
+          "(4) Bourbon Society - Improving, led early, held on for second",
+          "(7) Batten Down - Good race, but could not close on the 5 or 6"
+        ]
       },
       {
         "raceNum": 2,
@@ -1392,9 +1396,12 @@
         "stakesrace": false,
         "tv": "FANDUEL TV+",
         "picks": "4-6-2-7",
-        "officialResults": "TBD",
+        "officialResults": "2-4-5-6",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(2) Billal - Mott/Alvarado get it done this race.  Early speed, dominate down the strech",
+          "(4) Scatify - even with the 2 for most of race, gave way towards the end"
+        ]
       },
       {
         "raceNum": 3,
@@ -1406,9 +1413,12 @@
         "stakesrace": false,
         "tv": "FANDUEL TV+",
         "picks": "6-3-5-8",
-        "officialResults": "TBD",
+        "officialResults": "6-5-8-4",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(6) Discreet Mischief - Cox/Geroux, easy win",
+          "(5) Timeout - First time starter, nice finish but well back of winner"
+        ]
       },
       {
         "raceNum": 4,
@@ -1420,9 +1430,11 @@
         "stakesrace": false,
         "tv": "FANDUEL TV+",
         "picks": "4-1-2-7",
-        "officialResults": "TBD",
+        "officialResults": "6-2-4-5",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(6) Prevalence - 5/1 winner; not sure where that race came from.  Got out of the gate and wired the field"
+        ]
       },
       {
         "raceNum": 5,
@@ -1434,9 +1446,12 @@
         "stakesrace": false,
         "tv": "FANDUEL TV+",
         "picks": "2-9-7-10",
-        "officialResults": "TBD",
+        "officialResults": "2-14-4-10",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(2) White Palomino - Chad Brown trained, nice patient ride by Jose Ortiz",
+          "(14) El Rezeen - AE drew in; Pletcher trained - Irad Ortiz Jr. worked a nice trip for second"
+        ]
       },
       {
         "raceNum": 6,
@@ -1448,13 +1463,15 @@
         "stakesrace": true,
         "tv": "FANDUEL TV+",
         "picks": "9-2-4-6",
-        "officialResults": "TBD",
+        "officialResults": "6-9-2-8",
         "preRaceComments": [
           "(9) Minnesota Ready - hoping trainer (T. Amoss) and jockey (T. Gaffalione) change help this horse",
           "(2) Wico - Good record at KEE and distance; Wesley Ward/Irad Ortiz Jr. will have plan for this race",
           "(4) Raise Cain - a little bit of a layoff; hoping Luis Saez can get off to a faster start"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(6) Bo Cruz - wired the field, nice pace"
+        ]
       },
       {
         "raceNum": 7,
@@ -1466,11 +1483,13 @@
         "stakesrace": true,
         "tv": "FANDUEL TV+",
         "picks": "10-6-9-5",
-        "officialResults": "TBD",
+        "officialResults": "9-8-3-11",
         "preRaceComments": [
           "(10) Pounce - Good looking turf horse.  Casse/Castelliano have a good plan with this horse"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(9) Buchu - Nice ride by Martin Garcia, good looking horse"
+        ]
       },
       {
         "raceNum": 8,
@@ -1482,7 +1501,7 @@
         "stakesrace": true,
         "tv": "FANDUEL TV+",
         "picks": "2-8-6-1",
-        "officialResults": "TBD",
+        "officialResults": "6-8-2-1",
         "preRaceComments": [
           "(2) Red Carpet Ready - Good post/distance for this horse",
           "(8) Valva - a Gun Runner kid, faced good competition in past races"
@@ -1499,7 +1518,7 @@
         "stakesrace": true,
         "tv": "FANDUEL TV+",
         "picks": "3-6-4-9",
-        "officialResults": "TBD",
+        "officialResults": "6-3-1-10",
         "preRaceComments": [
           ""
         ],
@@ -1519,7 +1538,7 @@
         "stakesrace": true,
         "tv": "FANDUEL TV+",
         "picks": "10-4-6-7",
-        "officialResults": "TBD",
+        "officialResults": "10-6-8-4",
         "preRaceComments": [
           "Tough race to handicap - top two horses already have points for KD entry; will they try different strategy in race?",
           "(10) Sierra Leone - outside post, closer - will he be able to close on this field?",
@@ -1539,7 +1558,7 @@
         "stakesrace": false,
         "tv": "FANDUEL TV+",
         "picks": "3-1-6-5",
-        "officialResults": "TBD",
+        "officialResults": "3-4-5-8",
         "preRaceComments": [],
         "postRaceComments": []
       }
