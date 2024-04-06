@@ -1361,12 +1361,12 @@
     "trackCode": "KEE",
     "weekday": "saturday",
     "raceDayNotes": [
-      "Santa Anita - Note 1",
-      "Santa Anita - Note 2",
-      "Santa Anita - Note 3"
+      "Weather - outstanding; fast and firm",
+      "Tough late pick 5 sequence",
+      "200 pt Kentucky Derby prep race - Blue Grass Stakes"
     ],
-    "latePick5": "TBD",
-    "latePick5Cost": "TBD",
+    "latePick5": "2,3,4,9 / 5,6,9,10 / 2,6,8 / 3,4,6 / 10",
+    "latePick5Cost": "$72 (Races 6 - 10)",
     "race": [
       {
         "raceNum": 1,
@@ -1377,7 +1377,7 @@
         "postTime": "12:00 PM",
         "stakesrace": false,
         "tv": "FANDUEL TV+",
-        "picks": "7-6-5-8",
+        "picks": "7-5-8-3",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -1433,7 +1433,7 @@
         "postTime": "2:08 PM",
         "stakesrace": false,
         "tv": "FANDUEL TV+",
-        "picks": "2-3-9-7",
+        "picks": "2-9-7-10",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -1447,9 +1447,13 @@
         "postTime": "2:40 PM",
         "stakesrace": true,
         "tv": "FANDUEL TV+",
-        "picks": "9-2-3-4",
+        "picks": "9-2-4-6",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(9) Minnesota Ready - hoping trainer (T. Amoss) and jockey (T. Gaffalione) change help this horse",
+          "(2) Wico - Good record at KEE and distance; Wesley Ward/Irad Ortiz Jr. will have plan for this race",
+          "(4) Raise Cain - a little bit of a layoff; hoping Luis Saez can get off to a faster start"
+        ],
         "postRaceComments": []
       },
       {
@@ -1463,7 +1467,9 @@
         "tv": "FANDUEL TV+",
         "picks": "10-6-9-5",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(10) Pounce - Good looking turf horse.  Casse/Castelliano have a good plan with this horse"
+        ],
         "postRaceComments": []
       },
       {
@@ -1477,7 +1483,10 @@
         "tv": "FANDUEL TV+",
         "picks": "2-8-6-1",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(2) Red Carpet Ready - Good post/distance for this horse",
+          "(8) Valva - a Gun Runner kid, faced good competition in past races"
+        ],
         "postRaceComments": []
       },
       {
@@ -1489,10 +1498,16 @@
         "postTime": "4:20 PM",
         "stakesrace": true,
         "tv": "FANDUEL TV+",
-        "picks": "3-9-4-11",
+        "picks": "3-6-4-9",
         "officialResults": "TBD",
-        "preRaceComments": [],
-        "postRaceComments": []
+        "preRaceComments": [
+          ""
+        ],
+        "postRaceComments": [
+          "(3) Mischief Magic (IRE) - more of a pick of trainer (Charles Appleby) and jockey (Tyler Gaffalione)",
+          "(6) Arzak and (4) Beer Can Man - both coming off layoffs since BC Turf Sprint",
+          "(9) Panther Island and (11) Coppola - both had good performances at GP over the winter"
+        ]
       },
       {
         "raceNum": 10,
@@ -1505,7 +1520,13 @@
         "tv": "FANDUEL TV+",
         "picks": "10-4-6-7",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "Tough race to handicap - top two horses already have points for KD entry; will they try different strategy in race?",
+          "(10) Sierra Leone - outside post, closer - will he be able to close on this field?",
+          "(4) Dornoch - Good post, early speed - will distance be too far for this horse?",
+          "All other entries - have potential to continue improvement and win race",
+          "(Also...) All other entries - could regress and not be a factor.  Need to prove they belong in this class field."
+        ],
         "postRaceComments": []
       },
       {
