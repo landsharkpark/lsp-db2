@@ -2,7 +2,7 @@
   {
     "id": 1,
     "lsprank": 1,
-    "rank": 1,
+    "rank": 2,
     "points": 136,
     "name": "Fierceness",
     "profileLink": "https://www.horseracingnation.com/horse/Fierceness",
@@ -24,7 +24,7 @@
   {
     "id": 2,
     "lsprank": 10,
-    "rank": 14,
+    "rank": 16,
     "points": 50,
     "name": "Deterministic",
     "profileLink": "https://www.horseracingnation.com/horse/Deterministic",
@@ -32,6 +32,7 @@
     "pedigree": "Liam's Map - Giulio's Jewel by Speightstown",
     "pedigreeLink": "https://www.pedigreequery.com/deterministic3",
     "prepRaces": [
+      "8th - 2024 Wood Memorial (G2) (AQU 4/6/2024)",
       "1st - 2024 Gotham (G3) (AQU 3/2/2024)"
     ],
     "comments": [
@@ -41,7 +42,7 @@
   {
     "id": 3,
     "lsprank": 14,
-    "rank": 6,
+    "rank": 10,
     "points": 70,
     "name": "Track Phantom",
     "profileLink": "https://www.horseracingnation.com/horse/Track_Phantom",
@@ -62,14 +63,15 @@
   {
     "id": 4,
     "lsprank": 2,
-    "rank": 12,
-    "points": 55,
+    "rank": 1,
+    "points": 155,
     "name": "Sierra Leone",
     "profileLink": "https://www.horseracingnation.com/horse/Sierra_Leone",
     "sire": "Gun Runner",
     "pedigree": "Gun Runner - Heavenly Love by Malibu Moon",
     "pedigreeLink": "https://www.pedigreequery.com/sierra+leone16",
     "prepRaces": [
+      "1st - 2024 Blue Grass Stakes (G1) (KEE 4/6/2024)",
       "1st - 2024 Risen Star (G2) (FG 2/17/2024)",
       "2nd - 2023 Remsen (G2) (AQU 12/2/2023)"
     ],
@@ -82,7 +84,7 @@
   {
     "id": 5,
     "lsprank": 17,
-    "rank": 19,
+    "rank": 24,
     "points": 30,
     "name": "Hades",
     "profileLink": "https://www.horseracingnation.com/horse/Hades_1",
@@ -94,6 +96,7 @@
       "1st - 2024 Holy Bull (G3) (GP 2/3/2024)"
     ],
     "comments": [
+      "Entered in Lexington, needs to win or out of Kentucky Derby",
       "Poor showing in FL Derby; stumbled start and did not recover",
       "Three consective wins in first three career races"
     ]
@@ -101,7 +104,7 @@
   {
     "id": 6,
     "lsprank": 4,
-    "rank": 11,
+    "rank": 14,
     "points": 60,
     "name": "Domestic Product",
     "profileLink": "https://www.horseracingnation.com/horse/Domestic_Product",
@@ -121,7 +124,7 @@
   {
     "id": 7,
     "lsprank": 7,
-    "rank": 15,
+    "rank": 18,
     "points": 46,
     "name": "Mystik Dan",
     "profileLink": "https://www.horseracingnation.com/horse/Mystik_Dan",
@@ -140,24 +143,26 @@
   {
     "id": 8,
     "lsprank": 19,
-    "rank": 36,
-    "points": 10,
+    "rank": 5,
+    "points": 110,
     "name": "Resilience",
     "profileLink": "https://www.horseracingnation.com/horse/Resilience_1",
     "sire": "Into Mischief",
     "pedigree": "Into Mischief - Meadowsweet by Smart Strike",
     "pedigreeLink": "https://www.pedigreequery.com/resilience15",
     "prepRaces": [
+      "1st - 2024 Wood Memorial (G2) (AQU 4/6/2024)",
       "4th - 2024 Risen Star (G2) (FG 2/17/2024)"
     ],
     "comments": [
+      "Wired field from inside post in Wood Memorial",
       "Talented, but young horse that will need to improve"
     ]
   },
   {
     "id": 9,
     "lsprank": 13,
-    "rank": 5,
+    "rank": 40,
     "points": 81,
     "name": "Timberlake",
     "profileLink": "https://www.horseracingnation.com/horse/Timberlake",
@@ -181,18 +186,20 @@
     "id": 10,
     "lsprank": 6,
     "rank": 10,
-    "points": 60,
+    "points": 75,
     "name": "Dornoch",
     "profileLink": "https://www.horseracingnation.com/horse/Dornoch_1",
     "sire": "Good Magic",
     "pedigree": "Good Magic - Puca by Big Brown",
     "pedigreeLink": "https://www.pedigreequery.com/dornoch8",
     "prepRaces": [
+      "4th - 2024 Blue Grass Stakes (G1) (4/6/2024)",
       "1st - 2024 Fountain of Youth (G2) (3/2/2024)",
       "1st - 2023 Remsen (G2) (12/2/2023)",
       "2nd - 2023 Sapling (8/26/2023)"
     ],
     "comments": [
+      "Flat, didn't show up in Blue Grass Stakes, maybe saving energy for Kentucky Derby(?)",
       "Beat Sierra Leone in the Remsen",
       "Crushed a weak field in Fountain of Youth",
       "Seems to run best when battling another horse",
@@ -202,7 +209,7 @@
   {
     "id": 11,
     "lsprank": 9,
-    "rank": 16,
+    "rank": 19,
     "points": 45,
     "name": "No More Time",
     "profileLink": "https://www.horseracingnation.com/horse/No_More_Time",
@@ -241,7 +248,7 @@
   {
     "id": 13,
     "lsprank": 8,
-    "rank": 4,
+    "rank": 7,
     "points": 100,
     "name": "Endlessly",
     "profileLink": "https://www.horseracingnation.com/horse/Endlessly_2",
@@ -259,7 +266,7 @@
   {
     "id": 14,
     "lsprank": 18,
-    "rank": 7,
+    "rank": 11,
     "points": 67,
     "name": "West Saratoga",
     "profileLink": "https://www.horseracingnation.com/horse/West_Saratoga_1",
@@ -279,7 +286,7 @@
   {
     "id": 15,
     "lsprank": 5,
-    "rank": 9,
+    "rank": 13,
     "points": 65,
     "name": "Honor Marie",
     "profileLink": "https://www.horseracingnation.com/horse/Honor_Marie",
@@ -299,7 +306,7 @@
   {
     "id": 16,
     "lsprank": 16,
-    "rank": 3,
+    "rank": 6,
     "points": 100,
     "name": "Forever Young (JPN)",
     "profileLink": "https://www.horseracingnation.com/horse/Forever_Young_2",
@@ -318,7 +325,7 @@
   {
     "id": 17,
     "lsprank": 12,
-    "rank": 17,
+    "rank": 21,
     "points": 40,
     "name": "Grand Mo the First",
     "profileLink": "https://www.horseracingnation.com/horse/Grand_Mo_the_First",
@@ -337,7 +344,7 @@
   {
     "id": 18,
     "lsprank": 11,
-    "rank": 8,
+    "rank": 12,
     "points": 65,
     "name": "Just Steel",
     "profileLink": "https://www.horseracingnation.com/horse/Just_Steel",
@@ -358,7 +365,7 @@
   {
     "id": 19,
     "lsprank": 15,
-    "rank": 13,
+    "rank": 15,
     "points": 50,
     "name": "Catalytic",
     "profileLink": "https://www.horseracingnation.com/horse/Catalytic",
@@ -370,6 +377,83 @@
     ],
     "comments": [
       "",
+      ""
+    ]
+  },
+  {
+    "id": 20,
+    "lsprank": 15,
+    "rank": 4,
+    "points": 125,
+    "name": "Stronghold",
+    "profileLink": "https://www.horseracingnation.com/horse/Stronghold_4",
+    "sire": "Ghostzapper",
+    "pedigree": "Ghostzapper - Spectator by Jimmy Creed",
+    "pedigreeLink": "https://www.pedigreequery.com/stronghold7",
+    "prepRaces": [
+      "1st - 2024 Santa Anita Derby (G1) (4/6/2024)",
+      "1st - 2024 Sunland Park Derby (G3) (2/18/2024)",
+      "2nd - 2023 Los Alamitos Futurity (G2) (12/16/2023)",
+      "2nd - 2023 Bob Hope (G3) (11/19/2023)"
+    ],
+    "comments": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 21,
+    "lsprank": 15,
+    "rank": 9,
+    "points": 75,
+    "name": "Just a Touch",
+    "profileLink": "https://www.horseracingnation.com/horse/Justify_touching_Beauty",
+    "sire": "Justify",
+    "pedigree": "Justify - Touching Beauty by Tapit",
+    "pedigreeLink": "https://www.pedigreequery.com/just+a+touch7",
+    "prepRaces": [
+      "2nd - 2024 Blue Grass Stakes (G1) (4/6/2024)",
+      "2nd - 2024 Gotham (G3) (3/2/2024)"
+    ],
+    "comments": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 22,
+    "lsprank": 15,
+    "rank": 17,
+    "points": 50,
+    "name": "Society Man",
+    "profileLink": "https://www.horseracingnation.com/horse/Society_Man",
+    "sire": "Good Magic",
+    "pedigree": "Good Magic - You Cheated by Colonel John",
+    "pedigreeLink": "https://www.pedigreequery.com/society+man5",
+    "prepRaces": [
+      "2nd - 2024 Wood Memorial (G2) (4/6/2024)",
+      "8th - 2024 Withers (G3) (2/3/2024)"
+    ],
+    "comments": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 23,
+    "lsprank": 15,
+    "rank": 20,
+    "points": 44,
+    "name": "T O Password",
+    "profileLink": "https://www.horseracingnation.com/horse/T_O_Password",
+    "sire": "Copano Rickey",
+    "pedigree": "Copano Rickey - T O Rachel by King Kamehameha",
+    "pedigreeLink": "https://www.pedigreequery.com/t+o+password",
+    "prepRaces": [
+      "1st - 2024 Fukuryu Stakes (LS) (3/23/2024)"
+    ],
+    "comments": [
+      "Japan RTKD Invite",
       ""
     ]
   }
