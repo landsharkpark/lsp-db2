@@ -15,6 +15,7 @@
       "1st - 2023 Breeders' Cup Juvenille (G1) (SA 11/3/2023)"
     ],
     "comments": [
+      "Will wait for KD Post Position draw before ranking Fierceness/Sierra Leone number 1",
       "Back on Fierceness bandwagon",
       "Outstanding in Florida Derby and Breeders' Cup Juvenille",
       "Found trouble in a couple races and did not handle well",
@@ -23,7 +24,7 @@
   },
   {
     "id": 2,
-    "lsprank": 10,
+    "lsprank": 15,
     "rank": 16,
     "points": 50,
     "name": "Deterministic",
@@ -36,12 +37,12 @@
       "1st - 2024 Gotham (G3) (AQU 3/2/2024)"
     ],
     "comments": [
-      ""
+      "Absolutely terrible in Wood Memorial"
     ]
   },
   {
     "id": 3,
-    "lsprank": 14,
+    "lsprank": 11,
     "rank": 10,
     "points": 70,
     "name": "Track Phantom",
@@ -62,7 +63,7 @@
   },
   {
     "id": 4,
-    "lsprank": 2,
+    "lsprank": 1,
     "rank": 1,
     "points": 155,
     "name": "Sierra Leone",
@@ -76,6 +77,7 @@
       "2nd - 2023 Remsen (G2) (AQU 12/2/2023)"
     ],
     "comments": [
+      "Will wait for KD Post Position draw before ranking Fierceness/Sierra Leone number 1",
       "I'm an occassional HHH Podcast viewer, so I feel contractually obligated to cheer for this horse",
       "Outstanding closing speed",
       "KD favorite after future pool 4"
@@ -83,7 +85,7 @@
   },
   {
     "id": 5,
-    "lsprank": 17,
+    "lsprank": 22,
     "rank": 24,
     "points": 30,
     "name": "Hades",
@@ -103,7 +105,7 @@
   },
   {
     "id": 6,
-    "lsprank": 4,
+    "lsprank": 7,
     "rank": 14,
     "points": 60,
     "name": "Domestic Product",
@@ -123,7 +125,7 @@
   },
   {
     "id": 7,
-    "lsprank": 7,
+    "lsprank": 9,
     "rank": 18,
     "points": 46,
     "name": "Mystik Dan",
@@ -142,7 +144,7 @@
   },
   {
     "id": 8,
-    "lsprank": 19,
+    "lsprank": 6,
     "rank": 5,
     "points": 110,
     "name": "Resilience",
@@ -161,7 +163,7 @@
   },
   {
     "id": 9,
-    "lsprank": 13,
+    "lsprank": 40,
     "rank": 40,
     "points": 81,
     "name": "Timberlake",
@@ -177,6 +179,7 @@
       "1st - 2023 Hopeful (G1) (9/4/2023)"
     ],
     "comments": [
+      "Scratched out of Kentucky Derby - Trainer decision",
       "Flat, disappointing finish in AR Derby",
       "Crushed the Rebel Stakes field",
       "Solid horse"
@@ -184,8 +187,8 @@
   },
   {
     "id": 10,
-    "lsprank": 6,
-    "rank": 10,
+    "lsprank": 13,
+    "rank": 8,
     "points": 75,
     "name": "Dornoch",
     "profileLink": "https://www.horseracingnation.com/horse/Dornoch_1",
@@ -208,7 +211,7 @@
   },
   {
     "id": 11,
-    "lsprank": 9,
+    "lsprank": 12,
     "rank": 19,
     "points": 45,
     "name": "No More Time",
@@ -228,7 +231,7 @@
   {
     "id": 12,
     "lsprank": 3,
-    "rank": 2,
+    "rank": 3,
     "points": 125,
     "name": "Catching Freedom",
     "profileLink": "https://www.horseracingnation.com/horse/Catching_Freedom",
@@ -247,7 +250,7 @@
   },
   {
     "id": 13,
-    "lsprank": 8,
+    "lsprank": 16,
     "rank": 7,
     "points": 100,
     "name": "Endlessly",
@@ -265,7 +268,7 @@
   },
   {
     "id": 14,
-    "lsprank": 18,
+    "lsprank": 17,
     "rank": 11,
     "points": 67,
     "name": "West Saratoga",
@@ -285,7 +288,7 @@
   },
   {
     "id": 15,
-    "lsprank": 5,
+    "lsprank": 14,
     "rank": 13,
     "points": 65,
     "name": "Honor Marie",
@@ -305,7 +308,7 @@
   },
   {
     "id": 16,
-    "lsprank": 16,
+    "lsprank": 5,
     "rank": 6,
     "points": 100,
     "name": "Forever Young (JPN)",
@@ -324,7 +327,7 @@
   },
   {
     "id": 17,
-    "lsprank": 12,
+    "lsprank": 20,
     "rank": 21,
     "points": 40,
     "name": "Grand Mo the First",
@@ -343,7 +346,7 @@
   },
   {
     "id": 18,
-    "lsprank": 11,
+    "lsprank": 8,
     "rank": 12,
     "points": 65,
     "name": "Just Steel",
@@ -364,7 +367,7 @@
   },
   {
     "id": 19,
-    "lsprank": 15,
+    "lsprank": 18,
     "rank": 15,
     "points": 50,
     "name": "Catalytic",
@@ -382,7 +385,7 @@
   },
   {
     "id": 20,
-    "lsprank": 15,
+    "lsprank": 4,
     "rank": 4,
     "points": 125,
     "name": "Stronghold",
@@ -403,7 +406,7 @@
   },
   {
     "id": 21,
-    "lsprank": 15,
+    "lsprank": 10,
     "rank": 9,
     "points": 75,
     "name": "Just a Touch",
@@ -422,7 +425,7 @@
   },
   {
     "id": 22,
-    "lsprank": 15,
+    "lsprank": 21,
     "rank": 17,
     "points": 50,
     "name": "Society Man",
@@ -441,7 +444,7 @@
   },
   {
     "id": 23,
-    "lsprank": 15,
+    "lsprank": 19,
     "rank": 20,
     "points": 44,
     "name": "T O Password",
