@@ -24,8 +24,8 @@
   },
   {
     "id": 2,
-    "lsprank": 15,
-    "rank": 16,
+    "lsprank": 40,
+    "rank": 40,
     "points": 50,
     "name": "Deterministic",
     "profileLink": "https://www.horseracingnation.com/horse/Deterministic",
@@ -85,8 +85,8 @@
   },
   {
     "id": 5,
-    "lsprank": 22,
-    "rank": 24,
+    "lsprank": 40,
+    "rank": 40,
     "points": 30,
     "name": "Hades",
     "profileLink": "https://www.horseracingnation.com/horse/Hades_1",
@@ -328,7 +328,7 @@
   {
     "id": 17,
     "lsprank": 20,
-    "rank": 21,
+    "rank": 22,
     "points": 40,
     "name": "Grand Mo the First",
     "profileLink": "https://www.horseracingnation.com/horse/Grand_Mo_the_First",
@@ -457,6 +457,81 @@
     ],
     "comments": [
       "Japan RTKD Invite",
+      ""
+    ]
+  },
+  {
+    "id": 24,
+    "lsprank": 15,
+    "rank": 21,
+    "points": 40,
+    "name": "Encino",
+    "profileLink": "https://www.horseracingnation.com/horse/Encino_1",
+    "sire": "Nyquist",
+    "pedigree": "Nyquist - Glittering Jewel by Bernardini",
+    "pedigreeLink": "https://www.pedigreequery.com/encino4",
+    "prepRaces": [
+      "1st - 2024 Lexington (G3) (4/13/2024)",
+      "1st - 2024 John Battaglia Memorial (LS) (3/2/2024)"
+    ],
+    "comments": [
+      ""
+    ]
+  },
+  {
+    "id": 25,
+    "lsprank": 22,
+    "rank": 23,
+    "points": 37,
+    "name": "Common Defense",
+    "profileLink": "https://www.horseracingnation.com/horse/Common_Defense",
+    "sire": "Karakonite",
+    "pedigree": "Karakonite - Allusion by Street Cry",
+    "pedigreeLink": "https://www.pedigreequery.com/common+defense",
+    "prepRaces": [
+      "5th - 2024 Louisiana Derby (G2) (3/23/2024)",
+      "2nd - 2024 Rebel Stakes (G2) (2/24/2024)",
+      "5th - 2024 Southwest Stakes (G3) (2/3/2024)"
+    ],
+    "comments": [
+      ""
+    ]
+  },
+  {
+    "id": 26,
+    "lsprank": 23,
+    "rank": 24,
+    "points": 35,
+    "name": "Epic Ride",
+    "profileLink": "https://www.horseracingnation.com/horse/Epic_Ride",
+    "sire": "Blame",
+    "pedigree": "Blame - Pick a Time by Gio Ponti",
+    "pedigreeLink": "https://www.pedigreequery.com/epic+ride",
+    "prepRaces": [
+      "3rd - 2024 Blue Grass Stakes (G1) (4/6/2024)",
+      "2nd - 2024 John Battaglia Memorial (LS) (3/2/2024)",
+      "1st - 2024 Leonatus Stakes (LS) (1/5/2024)"
+    ],
+    "comments": [
+      ""
+    ]
+  },
+  {
+    "id": 27,
+    "lsprank": 24,
+    "rank": 27,
+    "points": 30,
+    "name": "Uncle Heavy",
+    "profileLink": "https://www.horseracingnation.com/horse/Uncle_Heavy",
+    "sire": "Social Inclusion",
+    "pedigree": "Social Inclusion - Expect Wonderful by Tiz Wonderful",
+    "pedigreeLink": "https://www.pedigreequery.com/uncle+heavy",
+    "prepRaces": [
+      "5th - 2024 Wood Memorial (G2) (4/6/2024)",
+      "1st - 2024 Withers (G3) (2/3/2024)",
+      "1st - 2023 Wait For It (RS) (12/27/2023)"
+    ],
+    "comments": [
       ""
     ]
   }
