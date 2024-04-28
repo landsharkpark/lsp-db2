@@ -3,7 +3,7 @@
     "yearStart": 1930,
     "yearEnd": 2023,
     "description": "Kentucky Derby post position results since starting gate was adopted in 1930",
-    "sourceURL": "https://www.kentuckyderby.com/uploads/wysiwyg/assets/uploads/Post_Positions__Kentucky_Derby__2023_.pdf",
+    "sourceURL": "https://www.kentuckyderby.com/wp-content/uploads/sites/2/2023/10/Post_Positions__Kentucky_Derby__2024_.pdf",
     "post": [
       {
         "ppNbr": 1,
@@ -385,7 +385,7 @@
         "totalRaces": 79,
         "totalWins": 3,
         "totalSeconds": 3,
-        "totalThirds": 3,
+        "totalThirds": 4,
         "postWinners": [
           {
             "year": "1971",
@@ -435,7 +435,7 @@
         "totalRaces": 67,
         "totalWins": 2,
         "totalSeconds": 6,
-        "totalThirds": 7,
+        "totalThirds": 6,
         "postWinners": [
           {
             "year": "1961",
@@ -482,7 +482,7 @@
       },
       {
         "ppNbr": 16,
-        "totalRaces": 50,
+        "totalRaces": 51,
         "totalWins": 4,
         "totalSeconds": 3,
         "totalThirds": 3,
@@ -507,7 +507,7 @@
       },
       {
         "ppNbr": 17,
-        "totalRaces": 43,
+        "totalRaces": 44,
         "totalWins": 0,
         "totalSeconds": 1,
         "totalThirds": 2,
@@ -516,7 +516,7 @@
       },
       {
         "ppNbr": 18,
-        "totalRaces": 35,
+        "totalRaces": 36,
         "totalWins": 2,
         "totalSeconds": 4,
         "totalThirds": 0,
