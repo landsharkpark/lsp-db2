@@ -174,9 +174,9 @@
   {
     "id": 8,
     "progNum": 8,     
-    "postPosition": 8, 
+    "postPosition": 30, 
     "ae": false,
-    "scratched": false,
+    "scratched": true,
     "lsprank": 10,
     "rank": 9,
     "points": 75,
@@ -197,7 +197,7 @@
   {
     "id": 9,
     "progNum": 9,     
-    "postPosition": 9, 
+    "postPosition": 8, 
     "ae": false,
     "scratched": false,
     "lsprank": 15,
@@ -219,7 +219,7 @@
   {
     "id": 10,
     "progNum": 10,     
-    "postPosition": 10, 
+    "postPosition": 9, 
     "ae": false,
     "scratched": false,
     "lsprank": 19,
@@ -241,7 +241,7 @@
   {
     "id": 11,
     "progNum": 11,     
-    "postPosition": 11, 
+    "postPosition": 10, 
     "ae": false,
     "scratched": false,
     "lsprank": 5,
@@ -264,7 +264,7 @@
   {
     "id": 12,
     "progNum": 12,     
-    "postPosition": 12, 
+    "postPosition": 11, 
     "ae": false,
     "scratched": false,
     "lsprank": 11,
@@ -289,7 +289,7 @@
   {
     "id": 13,
     "progNum": 13,     
-    "postPosition": 13, 
+    "postPosition": 12, 
     "ae": false,
     "scratched": false,
     "lsprank": 17,
@@ -313,7 +313,7 @@
   {
     "id": 14,
     "progNum": 14,     
-    "postPosition": 14, 
+    "postPosition": 13, 
     "ae": false,
     "scratched": false,
     "lsprank": 16,
@@ -335,7 +335,7 @@
   {
     "id": 15,
     "progNum": 15,     
-    "postPosition": 15, 
+    "postPosition": 14, 
     "ae": false,
     "scratched": false,
     "lsprank": 7,
@@ -359,7 +359,7 @@
   {
     "id": 16,
     "progNum": 16,     
-    "postPosition": 16, 
+    "postPosition": 15, 
     "ae": false,
     "scratched": false,
     "lsprank": 20,
@@ -382,7 +382,7 @@
   {
     "id": 17,
     "progNum": 17,     
-    "postPosition": 17, 
+    "postPosition": 16, 
     "ae": false,
     "scratched": false,
     "lsprank": 1,
@@ -409,7 +409,7 @@
   {
     "id": 18,
     "progNum": 18,     
-    "postPosition": 18, 
+    "postPosition": 17, 
     "ae": false,
     "scratched": false,
     "lsprank": 4,
@@ -434,7 +434,7 @@
   {
     "id": 19,
     "progNum": 19,     
-    "postPosition": 19, 
+    "postPosition": 18, 
     "ae": false,
     "scratched": false,
     "lsprank": 6,
@@ -457,7 +457,7 @@
   {
     "id": 20,
     "progNum": 20,     
-    "postPosition": 20, 
+    "postPosition": 19, 
     "ae": false,
     "scratched": false,
     "lsprank": 21,
@@ -480,8 +480,8 @@
   {
     "id": 21,
     "progNum": 21,     
-    "postPosition": 21, 
-    "ae": true,
+    "postPosition": 20, 
+    "ae": false,
     "scratched": false,
     "lsprank": 22,
     "rank": 24,
