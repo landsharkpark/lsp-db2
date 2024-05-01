@@ -174,9 +174,9 @@
   {
     "id": 8,
     "progNum": 8,     
-    "postPosition": 30, 
+    "postPosition": 8, 
     "ae": false,
-    "scratched": true,
+    "scratched": false,
     "lsprank": 10,
     "rank": 9,
     "points": 75,
@@ -197,9 +197,9 @@
   {
     "id": 9,
     "progNum": 9,     
-    "postPosition": 8, 
+    "postPosition": 109, 
     "ae": false,
-    "scratched": false,
+    "scratched": true,
     "lsprank": 15,
     "rank": 21,
     "points": 40,
