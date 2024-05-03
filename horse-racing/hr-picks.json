@@ -1649,14 +1649,16 @@
         "stakesrace": false,
         "tv": "FANDUEL TV",
         "picks": "16-10-13-8",
-        "officialResults": "TBD",
+        "officialResults": "10-2-8-13",
         "preRaceComments": [
           "Thursday night/Friday morning rain means off turf",
           "Howard's weather forecast was good - why do mean people make fun of him?",
           "(16) Batucada - cheap win bet on MTO",
           "(10) Stir Crazy - Four career starts on wet tracks, two wins, two place"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(10) Stir Crazy - wet track record held up"
+        ]
       },
       {
         "raceNum": 5,
@@ -1668,7 +1670,7 @@
         "stakesrace": true,
         "tv": "FANDUEL TV",
         "picks": "5-4-6-7",
-        "officialResults": "TBD",
+        "officialResults": "4-3-5-7",
         "preRaceComments": [
           "(5) Pretty Mischievous - KY Oaks winner | good on wet track",
           "(4) Idiomatic - off a bit of a layoff | great past performances | good early speed"
@@ -1685,12 +1687,16 @@
         "stakesrace": true,
         "tv": "USA, PEACOCK",
         "picks": "3-5-2-10",
-        "officialResults": "TBD",
+        "officialResults": "2-9-1-7",
         "preRaceComments": [
           "(3) Stone Silent - three wins in three starts in B. Lynch barn | great early speed",
           "(5) Elm Drive - Ran well in big races | Saez a good jockey for this race"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(2) Ova Charged - great sprint race | good thing only 5.5 Furlong distance",
+          "(9) Secret Money - challenged late, good for second place",
+          "(1) Run for the Hills - great finish | needed another half furlong"
+        ]
       },
       {
         "raceNum": 7,
@@ -1701,15 +1707,19 @@
         "postTime": "1:09 PM",
         "stakesrace": true,
         "tv": "USA, PEACOCK",
-        "picks": "3-5-2-6",
-        "officialResults": "TBD",
+        "picks": "3-1-10-2",
+        "officialResults": "3-8-5-2",
         "preRaceComments": [
           "(3) First Mission - liked last race, works, and connections",
-          "(5) Il Miracolo - Very solid, consistent races; will be a factor",
-          "(2) Steal Sunshine - Good enough to be in this race, will need a good trip to win",
-          "(6) Tumbarumba - I don't trust this horse, but would not be surprised if he kills my P5 ticket"
+          "(1) Money Supply - Very solid, consistent races | good races on wet track",
+          "(10) Trademark - good races on wet track",
+          "(2) Steal Sunshine - Good enough to be in this race, will need a good trip to win"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(3) First Mission - liked last race, works, and connections",
+          "(8) T O Saint Denis (Jpn) - Fast early, begged for the wire | held for second",
+          "(5) Il Miracolo - nice finish to get up to third"
+        ]
       },
       {
         "raceNum": 8,
@@ -1723,7 +1733,7 @@
         "picks": "4-6-10-2",
         "officialResults": "TBD",
         "preRaceComments": [
-          "Spread race for me - no strong opinions",
+          "Spread race for me - no strong opinions | pick and pray",
           "(4) Heavenly Sunday - off a little bit of a layoff; good 2023 year",
           "(6) Surprisingly - has been good and close, like the jockey change to Prat",
           "(10) Sprakle Blue - I'm not quite sure if she is ready to step up to this level of competition",
