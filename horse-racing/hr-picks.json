@@ -1796,8 +1796,8 @@
     "raceDayNotes": [
       ""
     ],
-    "latePick5": "",
-    "latePick5Cost": "",
+    "latePick5": "2,4,7,9,12 / 5,10,11 / 2,6,11 / 6,11 / 2,17",
+    "latePick5Cost": "$90 (Races 8 - 12)",
     "race": [
       {
         "raceNum": 1,
@@ -1892,9 +1892,12 @@
         "postTime": "12:56 PM",
         "stakesrace": true,
         "tv": "USA, PEACOCK",
-        "picks": "11-3-8-6",
+        "picks": "3-6-11-8",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(3) Chili Flag, (6) Delahaye, (11) Copice - which Chad Brown turf horse is going to defeat me?",
+          "(8) Heavenly Sunday - I don't like the layoff and tough field, but looking forward to see her run"
+        ],
         "postRaceComments": []
       },
       {
@@ -1906,9 +1909,13 @@
         "postTime": "1:46 PM",
         "stakesrace": true,
         "tv": "NBC, PEACOCK",
-        "picks": "12-8-5-2",
+        "picks": "12-2-4-7",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(12) Nash - Always shows up, best record in race",
+          "(2) Beeline - lightly raced; a lot of upside potential",
+          "(4) Otto the Conqueror - Two for two at CD; could be a wise guy horse"
+        ],
         "postRaceComments": []
       },
       {
@@ -1920,9 +1927,13 @@
         "postTime": "2:40 PM",
         "stakesrace": true,
         "tv": "NBC, PEACOCK",
-        "picks": "5-10-4-11",
+        "picks": "5-10-11-6",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(5) Legend of Time - Godolphin/Appleby horse - those guys mean business when they ship horses over the pond",
+          "(10) Set - lightly raced, talented horse.  Will need to improve to be a factor",
+          "(11) Cugino - could be a factor with the right trip"
+        ],
         "postRaceComments": []
       },
       {
@@ -1934,9 +1945,13 @@
         "postTime": "3:31 PM",
         "stakesrace": true,
         "tv": "NBC, PEACOCK",
-        "picks": "2-6-3-11",
+        "picks": "2-6-11-3",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(2) Tejano Twist - Great competition; Irad tax will be paid",
+          "(6) Zozos - I'm never sure what to do with this horse, but don't want him to beat me here",
+          "(11) Hoist the Gold - I don't like horses first back from overseas trip, but works look great"
+        ],
         "postRaceComments": []
       },
       {
@@ -1950,7 +1965,10 @@
         "tv": "NBC, PEACOCK",
         "picks": "6-11-5-3",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(6) I'm Very Busy - Looked great last race",
+          "(11) Naval Power - Godolphin/Appleby horse - always ready to go"
+        ],
         "postRaceComments": []
       },
       {
@@ -1962,9 +1980,15 @@
         "postTime": "5:57 PM",
         "stakesrace": true,
         "tv": "NBC, PEACOCK",
-        "picks": "17-2-11-4",
+        "picks": "17-2-4-12",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "Whoever gets the best trip wins the race...  Captain Obvious",
+          "(17) Fierceness - most talented horse in the race; Velazquez has a chance to get horse positioned and settled early in race",
+          "(2) Sierra Leone - HATE the post; will be difficult to work out a trip from the two; outstanding closing speed - will be fun to see the end if he is close down the stretch",
+          "(4) Catching Freedom - the other great closer in the race; should be a factor late",
+          "(12) Track Phantom - terrible post in two previous races; early speed; has a chance to get position early in race"
+        ],
         "postRaceComments": []
       },
       {
@@ -1976,9 +2000,12 @@
         "postTime": "7:00 PM",
         "stakesrace": false,
         "tv": "FANDUEL TV",
-        "picks": "6-2-7-9",
+        "picks": "9-2-7-6",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(9) General Partner - don't like the layoff, but past performances are great",
+          "(2) Discreet Mischief, (7) Jefferson Street - Lightly raced with a lot of potential; first race out after breaking maiden"
+        ],
         "postRaceComments": []
       },
       {
