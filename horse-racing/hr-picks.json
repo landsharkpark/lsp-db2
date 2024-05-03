@@ -1667,9 +1667,12 @@
         "postTime": "11:43 AM",
         "stakesrace": true,
         "tv": "FANDUEL TV",
-        "picks": "6-5-3-7",
+        "picks": "5-4-6-7",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(5) Pretty Mischievous - KY Oaks winner | good on wet track",
+          "(4) Idiomatic - off a bit of a layoff | great past performances | good early speed"
+        ],
         "postRaceComments": []
       },
       {
@@ -1683,7 +1686,10 @@
         "tv": "USA, PEACOCK",
         "picks": "3-5-2-10",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(3) Stone Silent - three wins in three starts in B. Lynch barn | great early speed",
+          "(5) Elm Drive - Ran well in big races | Saez a good jockey for this race"
+        ],
         "postRaceComments": []
       },
       {
