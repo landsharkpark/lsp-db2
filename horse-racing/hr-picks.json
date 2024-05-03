@@ -1606,12 +1606,16 @@
         "stakesrace": false,
         "tv": "FANDUEL TV",
         "picks": "1-9-7-10",
-        "officialResults": "TBD",
+        "officialResults": "9-11-4-12",
         "preRaceComments": [
           "(1) Weigh the Risks - inside post, didn't fire last time in a tough race off layoff; will need to improve",
           "(9) Sidamara - best horse in the race, but I don't like the post on this sloppy track"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(9) Sidamara - had a little trouble early, but settled and great close",
+          "(11) Sedona - Nice ride by Irad on a horse coming off a layoff",
+          "(1) Weigh the Risks - led early, but faded after final turn"
+        ]
       },
       {
         "raceNum": 3,
@@ -1623,22 +1627,35 @@
         "stakesrace": false,
         "tv": "FANDUEL TV",
         "picks": "3-8-10-5",
-        "officialResults": "TBD",
-        "preRaceComments": [],
-        "postRaceComments": []
+        "officialResults": "5-2-3-9",
+        "preRaceComments": [
+          "(3) Prove Worthly - last race good - first race in N. Casse barn and off layoff",
+          "(8) Arthur's Ride - great form, stepping up in class",
+          "(10) Brigadier General - solid past races, but needs a little better to win race"
+        ],
+        "postRaceComments": [
+          "(5) Injunction - overall great race/ride by Rosario; early pace, easy finish",
+          "(2) Fort Warren - Saez got the horse on the pace, held on for second",
+          "(3) Prove Worthy - late close, distant third place finish to refund my cheap MBS bet"
+        ]
       },
       {
         "raceNum": 4,
         "purse": "$134,000",
         "raceName": "Allowance Optional Claiming",
         "distance": "1 1/8 Miles",
-        "surface": "Turf",
+        "surface": "Off-Turf",
         "postTime": "11:05 AM",
         "stakesrace": false,
         "tv": "FANDUEL TV",
-        "picks": "5-3-1-10",
+        "picks": "16-10-13-8",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "Thursday night/Friday morning rain means off turf",
+          "Howard's weather forecast was good - why do mean people make fun of him?",
+          "(16) Batucada - cheap win bet on MTO",
+          "(10) Stir Crazy - Four career starts on wet tracks, two wins, two place"
+        ],
         "postRaceComments": []
       },
       {
