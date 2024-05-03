@@ -1586,10 +1586,15 @@
         "postTime": "9:30 AM",
         "stakesrace": false,
         "tv": "FANDUEL TV",
-        "picks": "10-6-3-7",
-        "officialResults": "TBD",
-        "preRaceComments": [],
-        "postRaceComments": []
+        "picks": "4-10-6-7",
+        "officialResults": "4-6-9-10",
+        "preRaceComments": [
+          "with overnight rain/sloppy track; updated race picks",
+          "(4) Sundance Feature - hoping Saez gets her out early and wires the field"
+        ],
+        "postRaceComments": [
+          "not sure if it will hold - but wet tracks at CD are very tough on outside horses"
+        ]
       },
       {
         "raceNum": 2,
@@ -1600,9 +1605,12 @@
         "postTime": "10:00 AM",
         "stakesrace": false,
         "tv": "FANDUEL TV",
-        "picks": "9-7-1-11",
+        "picks": "1-9-7-10",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(1) Weigh the Risks - inside post, didn't fire last time in a tough race off layoff; will need to improve",
+          "(9) Sidamara - best horse in the race, but I don't like the post on this sloppy track"
+        ],
         "postRaceComments": []
       },
       {
