@@ -2012,13 +2012,16 @@
         "stakesrace": true,
         "tv": "NBC, PEACOCK",
         "picks": "5-10-11-4",
-        "officialResults": "TBD",
+        "officialResults": "2-4-3-11",
         "preRaceComments": [
           "(5) Legend of Time - Godolphin/Appleby horse - those guys mean business when they ship horses over the pond",
           "(10) Set - lightly raced, talented horse.  Will need to improve to be a factor",
           "(11) Cugino - could be a factor with the right trip"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "Well, that knocks out a lot of P6 and P5 tickets | I wasn't even close in this race | 47-1 over 24-1 over 36-1 over 7-1",
+          "(2) Trikari, (4) Formidable Man, (3) Lagynos - All great rides/trips | All 15-1 Morning Line"
+        ]
       },
       {
         "raceNum": 10,
@@ -2029,14 +2032,19 @@
         "postTime": "3:31 PM",
         "stakesrace": true,
         "tv": "NBC, PEACOCK",
-        "picks": "2-6-11-3",
-        "officialResults": "TBD",
+        "picks": "2-6-11-10",
+        "officialResults": "10-5-6-1",
         "preRaceComments": [
           "(2) Tejano Twist - Great competition; Irad tax will be paid",
           "(6) Zozos - I'm never sure what to do with this horse, but don't want him to beat me here",
           "(11) Hoist the Gold - I don't like horses first back from overseas trip, but works look great"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(10) Gun Pilot - Solid pace, nice close, looked outstanding down the stretch",
+          "(5) Here Mi Song - Early speed, held on for second",
+          "(6) Zozos - Off layoff, didn't have a burst down the stretch",
+          "(2) Tejano Twist - fell back early, didn't recover"
+        ]
       },
       {
         "raceNum": 11,
@@ -2048,12 +2056,17 @@
         "stakesrace": true,
         "tv": "NBC, PEACOCK",
         "picks": "6-11-5-3",
-        "officialResults": "TBD",
+        "officialResults": "5-11-7-1",
         "preRaceComments": [
           "(6) I'm Very Busy - Looked great last race",
           "(11) Naval Power - Godolphin/Appleby horse - always ready to go"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(5) Program Trading (GB) - Great ride by F. Prat | Won the photo",
+          "(11) Naval Power (GB) - Good race, just short of winning",
+          "(7) Webslinger - Solid third place finish",
+          "(1) Integration - Good showing, will pay more attention to this horse next time out"
+        ]
       },
       {
         "raceNum": 12,
