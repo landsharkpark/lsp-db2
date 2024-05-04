@@ -1866,9 +1866,12 @@
         "stakesrace": false,
         "tv": "FANDUEL TV",
         "picks": "7-6-2-3",
-        "officialResults": "TBD",
+        "officialResults": "2-3-7-5",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(2) Pure Force - first time starter for B. Cox/F. Geroux | Looked outstanding every step of the race",
+          "(3) Top Gun Rocket - looked good off the pace to get second"
+        ]
       },
       {
         "raceNum": 2,
@@ -1879,10 +1882,12 @@
         "postTime": "10:01 AM",
         "stakesrace": false,
         "tv": "FANDUEL TV",
-        "picks": "6-8-4-2",
-        "officialResults": "TBD",
+        "picks": "6-8-3-2",
+        "officialResults": "6-10-3-11",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(6) Scylla - 2/5 favorite, wins easy"
+        ]
       },
       {
         "raceNum": 3,
@@ -1894,9 +1899,12 @@
         "stakesrace": false,
         "tv": "FANDUEL TV",
         "picks": "9-2-11-1",
-        "officialResults": "TBD",
+        "officialResults": "11-2-8-4",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(11) Mindframe - Post time 1/2 favorite  | three scratches, but outside post didn't matter | Easy win",
+          "(2) Cornishman - held on to second"
+        ]
       },
       {
         "raceNum": 4,
@@ -1908,9 +1916,12 @@
         "stakesrace": true,
         "tv": "USA, PEACOCK",
         "picks": "6-1-11-8",
-        "officialResults": "TBD",
+        "officialResults": "1-7-10-2",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(1) Strong Quality - nice post | wired the field | Two wins for F. Geroux",
+          "(7) Kupuna - strong, good second place finish"
+        ]
       },
       {
         "raceNum": 5,
@@ -1921,10 +1932,14 @@
         "postTime": "11:36 AM",
         "stakesrace": true,
         "tv": "USA, PEACOCK",
-        "picks": "8-10-7-5",
-        "officialResults": "TBD",
+        "picks": "8-10-4-5",
+        "officialResults": "14-6-8-3",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(14) Cogburn - I didn't like the post, but great ride from I. Ortiz | Two wins for I. Ortiz",
+          "(6) Filo Di Arianna (BRZ) - Looked great, wasn't on my radar",
+          "(8) Mischief Magic (IRE) - Post time favorite (5/2) | closed up to third | no factor to winner"
+        ]
       },
       {
         "raceNum": 6,
@@ -1935,10 +1950,14 @@
         "postTime": "12:14 PM",
         "stakesrace": true,
         "tv": "USA, PEACOCK",
-        "picks": "7-10-9-5",
-        "officialResults": "TBD",
+        "picks": "10-7-9-3",
+        "officialResults": "10-7-3-4",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(10) Vahva - Irad tax paying today | solid, consistent race | I. Ortiz third win on the day",
+          "(7) Alva Starr - Led most of the way | gave way late",
+          "(3) Flying Connection - Good close to finish thrid"
+        ]
       },
       {
         "raceNum": 7,
@@ -1950,11 +1969,16 @@
         "stakesrace": true,
         "tv": "USA, PEACOCK",
         "picks": "3-6-11-12",
-        "officialResults": "TBD",
+        "officialResults": "3-11-6-12",
         "preRaceComments": [
           "(3) Chili Flag, (6) Delahaye, (11) Copice - which Chad Brown turf horse is going to defeat me?"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "Chad Brown turf trifecta",
+          "(3) Chili Flag - I. Ortiz fourth win on the day",
+          "(11) Copice - strong finish, lost close photo for win",
+          "(6) Delahaye - good race, but third horse in the race"
+        ]
       },
       {
         "raceNum": 8,
