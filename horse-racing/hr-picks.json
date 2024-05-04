@@ -1716,6 +1716,7 @@
           "(2) Steal Sunshine - Good enough to be in this race, will need a good trip to win"
         ],
         "postRaceComments": [
+          "Florent Geroux - Riding Pick 3 | Won last three races",
           "(3) First Mission - liked last race, works, and connections",
           "(8) T O Saint Denis (Jpn) - Fast early, begged for the wire | held for second",
           "(5) Il Miracolo - nice finish to get up to third"
@@ -1731,7 +1732,7 @@
         "stakesrace": true,
         "tv": "USA, PEACOCK",
         "picks": "4-6-10-2",
-        "officialResults": "TBD",
+        "officialResults": "1-10-2-4",
         "preRaceComments": [
           "Spread race for me - no strong opinions | pick and pray",
           "(4) Heavenly Sunday - off a little bit of a layoff; good 2023 year",
@@ -1739,7 +1740,12 @@
           "(10) Sprakle Blue - I'm not quite sure if she is ready to step up to this level of competition",
           "(2) Aspen Grove - I'm not quite sure if she is ready to step up to this level of competition"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "Jose Ortiz - third win of the day | having a great day",
+          "(1) Fast as Flight - 20/1 bomb | Great ride by J. Ortiz on yeilding turf",
+          "(10) Sprakle Blue, (2) Aspen Grove - close photo for second | nice closing speed for both",
+          "(4) Heavenly Sunday - Led most of the way | tired in home stretch"
+        ]
       },
       {
         "raceNum": 9,
@@ -1751,13 +1757,17 @@
         "stakesrace": true,
         "tv": "USA, PEACOCK",
         "picks": "7-11-1-12",
-        "officialResults": "TBD",
+        "officialResults": "11-1-6-9",
         "preRaceComments": [
-          "(7) Denim and Pearls - running very well, lot to like about this girl",
-          "(11) My Mane Squeeze - not crazy about post, will need a better start to compete",
+          "(7) Denim and Pearls - running very well | lot to like about this girl",
+          "(11) My Mane Squeeze - not crazy about post | will need a better start to compete",
           "(1) Impel - Young, inexperienced; could be ready to step up to this level of competition"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(11) My Mane Squeeze - great ride by Saez | horse made it look easy",
+          "(1) Impel - off the pace at start of race, nice recovery to get second",
+          "(7) Denim and Pearls - Rain, muddy track, or whatever - she didn't run well today"
+        ]
       },
       {
         "raceNum": 10,
@@ -1769,14 +1779,17 @@
         "stakesrace": true,
         "tv": "USA, PEACOCK",
         "picks": "9-4-5-6",
-        "officialResults": "TBD",
+        "officialResults": "10-11-13-7",
         "preRaceComments": [
-          "(9) Hard to Justify - Young, inexperienced; Undefeated, will face best competition in her career",
+          "(9) Hard to Justify - Young, inexperienced | Undefeated, will face best competition in her career",
           "(4) Buchu - Consistent, will be tough in this race",
           "(5) Mo Fox Givin - improving, but not sure if good enough to win this race",
           "(6) Pounce - no idea what to make of that last race"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(10) Dynamic Pricing - the other Chad Brown turf horse in the race",
+          "(11) Way To Be Marie - Nice race stepping up in class"
+        ]
       },
       {
         "raceNum": 11,
@@ -1788,14 +1801,17 @@
         "stakesrace": true,
         "tv": "USA, PEACOCK",
         "picks": "13-5-12-11",
-        "officialResults": "TBD",
+        "officialResults": "5-13-4-11",
         "preRaceComments": [
           "(13) Just F Y I - don't like the post or only one race in 2024, but seems the most talented horse in the race",
           "(5) Thorpedo Anna - Nice post, great stats in all career races",
           "(12) Power Squeeze - Very good horse, nice career races",
           "(11) Ways and Means - will be tough, only three career races, but all good"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(5) Thorpedo Anna - Wired the field | great ride by B. Hernandez",
+          "(13) Just F Y I - good race, could pass around the final turn | outside post may have been a factor"
+        ]
       },
       {
         "raceNum": 12,
@@ -1807,7 +1823,7 @@
         "stakesrace": false,
         "tv": "FANDUEL TV",
         "picks": "6-3-7-8-11",
-        "officialResults": "TBD",
+        "officialResults": "11-6-7-3",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -1821,7 +1837,7 @@
         "stakesrace": false,
         "tv": "FANDUEL TV",
         "picks": "2-1-8-10",
-        "officialResults": "TBD",
+        "officialResults": "6-15-7-2",
         "preRaceComments": [],
         "postRaceComments": []
       }
@@ -1849,7 +1865,7 @@
         "postTime": "9:30 AM",
         "stakesrace": false,
         "tv": "FANDUEL TV",
-        "picks": "5-7-3-6",
+        "picks": "7-6-2-3",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -1863,7 +1879,7 @@
         "postTime": "10:01 AM",
         "stakesrace": false,
         "tv": "FANDUEL TV",
-        "picks": "6-1-8-2",
+        "picks": "6-8-4-2",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -1877,7 +1893,7 @@
         "postTime": "10:31 AM",
         "stakesrace": false,
         "tv": "FANDUEL TV",
-        "picks": "9-11-2-1",
+        "picks": "9-2-11-1",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -1891,7 +1907,7 @@
         "postTime": "11:04 AM",
         "stakesrace": true,
         "tv": "USA, PEACOCK",
-        "picks": "6-8-1-11",
+        "picks": "6-1-11-8",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -1905,7 +1921,7 @@
         "postTime": "11:36 AM",
         "stakesrace": true,
         "tv": "USA, PEACOCK",
-        "picks": "8-10-4-7",
+        "picks": "8-10-7-5",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -1919,7 +1935,7 @@
         "postTime": "12:14 PM",
         "stakesrace": true,
         "tv": "USA, PEACOCK",
-        "picks": "7-10-9-1",
+        "picks": "7-10-9-5",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -1933,11 +1949,10 @@
         "postTime": "12:56 PM",
         "stakesrace": true,
         "tv": "USA, PEACOCK",
-        "picks": "3-6-11-8",
+        "picks": "3-6-11-12",
         "officialResults": "TBD",
         "preRaceComments": [
-          "(3) Chili Flag, (6) Delahaye, (11) Copice - which Chad Brown turf horse is going to defeat me?",
-          "(8) Heavenly Sunday - I don't like the layoff and tough field, but looking forward to see her run"
+          "(3) Chili Flag, (6) Delahaye, (11) Copice - which Chad Brown turf horse is going to defeat me?"
         ],
         "postRaceComments": []
       },
@@ -1968,7 +1983,7 @@
         "postTime": "2:40 PM",
         "stakesrace": true,
         "tv": "NBC, PEACOCK",
-        "picks": "5-10-11-6",
+        "picks": "5-10-11-4",
         "officialResults": "TBD",
         "preRaceComments": [
           "(5) Legend of Time - Godolphin/Appleby horse - those guys mean business when they ship horses over the pond",
