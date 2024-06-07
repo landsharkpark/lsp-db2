@@ -2342,8 +2342,8 @@
     "raceDayNotes": [
       ""
     ],
-    "latePick5": "TBD",
-    "latePick5Cost": "TBD",
+    "latePick5": "1,4,5,9,12 / 2,6 / 2,3,4,6,7 / 2,3,5,6 / 9",
+    "latePick5Cost": "$100 (Races 8 - 12)",
     "race": [
       {
         "raceNum": 1,
@@ -2354,7 +2354,7 @@
         "postTime": "11:20 AM",
         "stakesrace": false,
         "tv": "FS2, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "1-3-5-7",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2368,7 +2368,7 @@
         "postTime": "11:53 AM",
         "stakesrace": false,
         "tv": "FS2, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "4-5-1-6",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2382,7 +2382,7 @@
         "postTime": "12:27 PM",
         "stakesrace": false,
         "tv": "FS2, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "6-9-1-4",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2396,7 +2396,7 @@
         "postTime": "12:01 PM",
         "stakesrace": false,
         "tv": "FS2, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "9-6-4-8",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2410,7 +2410,7 @@
         "postTime": "1:36 PM",
         "stakesrace": false,
         "tv": "FS2, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "10-3-7-2",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2424,7 +2424,7 @@
         "postTime": "2:11 PM",
         "stakesrace": false,
         "tv": "FS2, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "3-9-6-7",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2438,7 +2438,7 @@
         "postTime": "2:46 PM",
         "stakesrace": false,
         "tv": "FS2, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "5-4-6-2",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2452,7 +2452,7 @@
         "postTime": "1:48 PM",
         "stakesrace": false,
         "tv": "FS2, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "1A-12-4-9",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2466,7 +2466,7 @@
         "postTime": "3:55 PM",
         "stakesrace": true,
         "tv": "FS2, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "6-2-8-10",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2480,7 +2480,7 @@
         "postTime": "4:30 PM",
         "stakesrace": true,
         "tv": "FS2, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "4-6-7-3",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2494,7 +2494,7 @@
         "postTime": "5:05 PM",
         "stakesrace": true,
         "tv": "FS1, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "2-5-3-11",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2508,7 +2508,7 @@
         "postTime": "5:40 PM",
         "stakesrace": true,
         "tv": "FS1, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "9-4-3-7",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2537,7 +2537,7 @@
         "postTime": "9:45 AM",
         "stakesrace": false,
         "tv": "FS1, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "5-1-8-6",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2551,7 +2551,7 @@
         "postTime": "10:18 AM",
         "stakesrace": false,
         "tv": "FS1, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "6-11-5-1",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2565,7 +2565,7 @@
         "postTime": "10:52 AM",
         "stakesrace": false,
         "tv": "FS1, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "8-5-4-6",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2579,7 +2579,7 @@
         "postTime": "11:31 AM",
         "stakesrace": true,
         "tv": "FS1, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "5-6-1-2",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2593,7 +2593,7 @@
         "postTime": "12:11 PM",
         "stakesrace": true,
         "tv": "FS1, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "3-2-1-7",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2607,7 +2607,7 @@
         "postTime": "12:51 PM",
         "stakesrace": true,
         "tv": "FS1, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "8-7-6-2",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2621,7 +2621,7 @@
         "postTime": "1:36 PM",
         "stakesrace": true,
         "tv": "FS1, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "5-6-1-3",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2635,7 +2635,7 @@
         "postTime": "2:22 PM",
         "stakesrace": true,
         "tv": "FS1, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "1-9-8-3",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2649,7 +2649,7 @@
         "postTime": "3:08 PM",
         "stakesrace": true,
         "tv": "FOX, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "1-9-8-3",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2663,7 +2663,7 @@
         "postTime": "3:52 PM",
         "stakesrace": true,
         "tv": "FOX, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "2-6-4-5",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2677,7 +2677,7 @@
         "postTime": "4:36 PM",
         "stakesrace": true,
         "tv": "FOX, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "9-7-5-1",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2691,7 +2691,7 @@
         "postTime": "5:41 PM",
         "stakesrace": true,
         "tv": "FOX, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "9-10-2-8",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2705,7 +2705,7 @@
         "postTime": "6:27 PM",
         "stakesrace": false,
         "tv": "FS2, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "7-4-6-11",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2719,7 +2719,7 @@
         "postTime": "7:02 PM",
         "stakesrace": false,
         "tv": "FS2, FANDUEL TV",
-        "picks": "TBD",
+        "picks": "2-6-9-1",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
