@@ -2355,9 +2355,12 @@
         "stakesrace": false,
         "tv": "FS2, FANDUEL TV",
         "picks": "1-3-5-7",
-        "officialResults": "TBD",
+        "officialResults": "4-9-3-6",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(4) Illuminare (City of Light sire) - first time starter, great race",
+          "(9) Itza Mirrakle (Arrogate sire) - good finish, overcame tough outside post"
+        ]
       },
       {
         "raceNum": 2,
@@ -2368,10 +2371,13 @@
         "postTime": "11:53 AM",
         "stakesrace": false,
         "tv": "FS2, FANDUEL TV",
-        "picks": "4-5-1-6",
-        "officialResults": "TBD",
+        "picks": "1-5-4-9",
+        "officialResults": "1-8-2-6",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(1) Arthur's Ride - Mott/Alvarado - easy win, beautiful race",
+          "Put a line through last race (wet track at Churchill Downs)"
+        ]
       },
       {
         "raceNum": 3,
@@ -2382,8 +2388,8 @@
         "postTime": "12:27 PM",
         "stakesrace": false,
         "tv": "FS2, FANDUEL TV",
-        "picks": "6-9-1-4",
-        "officialResults": "TBD",
+        "picks": "4-8-6-1",
+        "officialResults": "4-6-8-10",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -2397,7 +2403,7 @@
         "stakesrace": false,
         "tv": "FS2, FANDUEL TV",
         "picks": "9-6-4-8",
-        "officialResults": "TBD",
+        "officialResults": "4-6-3-9",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -2410,8 +2416,8 @@
         "postTime": "1:36 PM",
         "stakesrace": false,
         "tv": "FS2, FANDUEL TV",
-        "picks": "10-3-7-2",
-        "officialResults": "TBD",
+        "picks": "10-4-7-3",
+        "officialResults": "5-7-10-12",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -2425,7 +2431,7 @@
         "stakesrace": false,
         "tv": "FS2, FANDUEL TV",
         "picks": "3-9-6-7",
-        "officialResults": "TBD",
+        "officialResults": "9-6-4-3",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -2452,7 +2458,7 @@
         "postTime": "1:48 PM",
         "stakesrace": false,
         "tv": "FS2, FANDUEL TV",
-        "picks": "1A-12-4-9",
+        "picks": "1-12-4-6",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2466,7 +2472,7 @@
         "postTime": "3:55 PM",
         "stakesrace": true,
         "tv": "FS2, FANDUEL TV",
-        "picks": "6-2-8-10",
+        "picks": "6-2-8-5",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
