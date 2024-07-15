@@ -1641,14 +1641,71 @@
     "month": 7,
     "day": 11,
     "weekDay": "THR",
-    "urlFullChart": "",
-    "totalRaces": 100,
-    "totalDirtRaces": 55,
-    "totalTurfRaces": 45,
-    "totalOffTheTurfRaces": 0,
-    "totalHandle": 0,
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071124USA.pdf",
+    "totalRaces": 11,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 5,
+    "totalHandle": 18578173,
     "comments": [
       "Saratoga 2024 Opening Day"
+    ]
+  },
+  {
+    "_id": 102402,
+    "track": "SAR",
+    "seasonRaceDay": 2,
+    "year":  2024,
+    "month": 7,
+    "day": 12,
+    "weekDay": "FRI",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071224USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 22606855,
+    "comments": [
+      "Wilton S.",
+      "Coronation Cup S."
+    ]
+  },
+  {
+    "_id": 102403,
+    "track": "SAR",
+    "seasonRaceDay": 3,
+    "year":  2024,
+    "month": 7,
+    "day": 13,
+    "weekDay": "SAT",
+    "urlFullChart": "",
+    "totalRaces": 12,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 6,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 33225605,
+    "comments": [
+      "Kelso - G3",
+      "Diana - G1",
+      "Sanford - G3"
+    ]
+  },
+  {
+    "_id": 102404,
+    "track": "SAR",
+    "seasonRaceDay": 4,
+    "year":  2024,
+    "month": 7,
+    "day": 14,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071424USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 22877313,
+    "comments": [
+      "Quick Call - G3"
     ]
   },
   {
@@ -1659,7 +1716,7 @@
     "month": 5,
     "day": 18,
     "weekDay": "SAT",
-    "urlFullChart": "",
+    "urlFullChart": "https://www.equibase.com/premium/eqbPDFChartPlus.cfm?RACE=A&BorP=P&TID=CBY&CTRY=USA&DT=05/18/2024&DAY=D&STYLE=EQB",
     "totalRaces": 8,
     "totalDirtRaces": 6,
     "totalTurfRaces": 2,
@@ -1677,7 +1734,7 @@
     "month": 5,
     "day": 25,
     "weekDay": "SAT",
-    "urlFullChart": "",
+    "urlFullChart": "https://www.equibase.com/premium/eqbPDFChartPlus.cfm?RACE=A&BorP=P&TID=CBY&CTRY=USA&DT=05/25/2024&DAY=D&STYLE=EQB",
     "totalRaces": 8,
     "totalDirtRaces": 5,
     "totalTurfRaces": 3,
@@ -1695,12 +1752,408 @@
     "month": 5,
     "day": 26,
     "weekDay": "SUN",
-    "urlFullChart": "",
+    "urlFullChart": "https://www.equibase.com/premium/eqbPDFChartPlus.cfm?RACE=A&BorP=P&TID=CBY&CTRY=USA&DT=05/26/2024&DAY=D&STYLE=EQB",
     "totalRaces": 8,
     "totalDirtRaces": 5,
     "totalTurfRaces": 3,
     "totalOffTheTurfRaces": 0,
     "totalHandle": 1392926,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202404,
+    "track": "CBY",
+    "seasonRaceDay": 4,
+    "year":  2024,
+    "month": 6,
+    "day": 1,
+    "weekDay": "SAT",
+    "urlFullChart": "",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1091858,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202405,
+    "track": "CBY",
+    "seasonRaceDay": 5,
+    "year":  2024,
+    "month": 6,
+    "day": 2,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/premium/eqbPDFChartPlus.cfm?RACE=A&BorP=P&TID=CBY&CTRY=USA&DT=06/02/2024&DAY=D&STYLE=EQB",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1020251,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202406,
+    "track": "CBY",
+    "seasonRaceDay": 6,
+    "year":  2024,
+    "month": 6,
+    "day": 6,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/premium/eqbPDFChartPlus.cfm?RACE=A&BorP=P&TID=CBY&CTRY=USA&DT=06/06/2024&DAY=D&STYLE=EQB",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1131084,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202407,
+    "track": "CBY",
+    "seasonRaceDay": 7,
+    "year":  2024,
+    "month": 6,
+    "day": 8,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/premium/eqbPDFChartPlus.cfm?RACE=A&BorP=P&TID=CBY&CTRY=USA&DT=06/08/2024&DAY=D&STYLE=EQB",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1372252,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202408,
+    "track": "CBY",
+    "seasonRaceDay": 8,
+    "year":  2024,
+    "month": 6,
+    "day": 9,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/premium/eqbPDFChartPlus.cfm?RACE=A&BorP=P&TID=CBY&CTRY=USA&DT=06/09/2024&DAY=D&STYLE=EQB",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1065006,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202409,
+    "track": "CBY",
+    "seasonRaceDay": 9,
+    "year":  2024,
+    "month": 6,
+    "day": 13,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/premium/eqbPDFChartPlus.cfm?RACE=A&BorP=P&TID=CBY&CTRY=USA&DT=06/13/2024&DAY=D&STYLE=EQB",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 697075,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202410,
+    "track": "CBY",
+    "seasonRaceDay": 10,
+    "year":  2024,
+    "month": 6,
+    "day": 15,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/premium/eqbPDFChartPlus.cfm?RACE=A&BorP=P&TID=CBY&CTRY=USA&DT=06/15/2024&DAY=D&STYLE=EQB",
+    "totalRaces": 1,
+    "totalDirtRaces": 1,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+        "Races 2 -8 Cancelled due to weather"
+    ]
+  },
+  {
+    "_id": 202411,
+    "track": "CBY",
+    "seasonRaceDay": 11,
+    "year":  2024,
+    "month": 6,
+    "day": 16,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/premium/eqbPDFChartPlus.cfm?RACE=A&BorP=P&TID=CBY&CTRY=USA&DT=06/16/2024&DAY=D&STYLE=EQB",
+    "totalRaces": 8,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 2,
+    "totalHandle": 1329516,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202412,
+    "track": "CBY",
+    "seasonRaceDay": 12,
+    "year":  2024,
+    "month": 6,
+    "day": 20,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/premium/eqbPDFChartPlus.cfm?RACE=A&BorP=P&TID=CBY&CTRY=USA&DT=06/20/2024&DAY=D&STYLE=EQB",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 918479,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202413,
+    "track": "CBY",
+    "seasonRaceDay": 13,
+    "year":  2024,
+    "month": 6,
+    "day": 22,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/premium/eqbPDFChartPlus.cfm?RACE=A&BorP=P&TID=CBY&CTRY=USA&DT=06/22/2024&DAY=D&STYLE=EQB",
+    "totalRaces": 8,
+    "totalDirtRaces": 3,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 5,
+    "totalHandle": 1195135,
+    "comments": [
+        "Turf Festival night - Weather moved turf races to main track"
+    ]
+  },
+  {
+    "_id": 202414,
+    "track": "CBY",
+    "seasonRaceDay": 14,
+    "year":  2024,
+    "month": 6,
+    "day": 23,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/premium/eqbPDFChartPlus.cfm?RACE=A&BorP=P&TID=CBY&CTRY=USA&DT=06/23/2024&DAY=D&STYLE=EQB",
+    "totalRaces": 9,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 4,
+    "totalHandle": 1285412,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202415,
+    "track": "CBY",
+    "seasonRaceDay": 15,
+    "year":  2024,
+    "month": 6,
+    "day": 27,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/premium/eqbPDFChartPlus.cfm?RACE=A&BorP=P&TID=CBY&CTRY=USA&DT=06/27/2024&DAY=D&STYLE=EQB",
+    "totalRaces": 10,
+    "totalDirtRaces": 7,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1489059,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202416,
+    "track": "CBY",
+    "seasonRaceDay": 16,
+    "year":  2024,
+    "month": 6,
+    "day": 29,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/premium/eqbPDFChartPlus.cfm?RACE=A&BorP=P&TID=CBY&CTRY=USA&DT=06/29/2024&DAY=D&STYLE=EQB",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1688538,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202417,
+    "track": "CBY",
+    "seasonRaceDay": 17,
+    "year":  2024,
+    "month": 6,
+    "day": 30,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY063024USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 2051207,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202418,
+    "track": "CBY",
+    "seasonRaceDay": 18,
+    "year":  2024,
+    "month": 7,
+    "day": 3,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY070324USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1889411,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202419,
+    "track": "CBY",
+    "seasonRaceDay": 19,
+    "year":  2024,
+    "month": 7,
+    "day": 4,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY070424USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 3,
+    "totalHandle": 1242403,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202420,
+    "track": "CBY",
+    "seasonRaceDay": 20,
+    "year":  2024,
+    "month": 7,
+    "day": 6,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY070624USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1134962,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202421,
+    "track": "CBY",
+    "seasonRaceDay": 21,
+    "year":  2024,
+    "month": 7,
+    "day": 7,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY070724USA.pdf",
+    "totalRaces": 1,
+    "totalDirtRaces": 1,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1021377,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202422,
+    "track": "CBY",
+    "seasonRaceDay": 22,
+    "year":  2024,
+    "month": 7,
+    "day": 10,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY071024USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 934131,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202423,
+    "track": "CBY",
+    "seasonRaceDay": 23,
+    "year":  2024,
+    "month": 7,
+    "day": 11,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY071124USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 964351,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202424,
+    "track": "CBY",
+    "seasonRaceDay": 24,
+    "year":  2024,
+    "month": 7,
+    "day": 13,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY071324USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1156916,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202425,
+    "track": "CBY",
+    "seasonRaceDay": 25,
+    "year":  2024,
+    "month": 7,
+    "day": 14,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY071424USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1632733,
     "comments": [
         ""
     ]
