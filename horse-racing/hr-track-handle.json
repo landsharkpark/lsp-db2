@@ -1709,6 +1709,115 @@
     ]
   },
   {
+    "_id": 102405,
+    "track": "SAR",
+    "seasonRaceDay": 5,
+    "year":  2024,
+    "month": 7,
+    "day": 17,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071724USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 4,
+    "totalHandle": 8168619,
+    "comments": [
+      "New York Stallion Series Stakes"
+    ]
+  },
+  {
+    "_id": 102406,
+    "track": "SAR",
+    "seasonRaceDay": 6,
+    "year":  2024,
+    "month": 7,
+    "day": 18,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071824USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 16374727,
+    "comments": [
+      "New York Stallion Series Stakes"
+    ]
+  },
+  {
+    "_id": 102407,
+    "track": "SAR",
+    "seasonRaceDay": 7,
+    "year":  2024,
+    "month": 7,
+    "day": 19,
+    "weekDay": "FRI",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071924USA.pdf",
+    "totalRaces": -1,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+      "Curlin Stakes"
+    ]
+  },
+  {
+    "_id": 102408,
+    "track": "SAR",
+    "seasonRaceDay": 8,
+    "year":  2024,
+    "month": 7,
+    "day": 20,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072024USA.pdf",
+    "totalRaces": -1,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+      "Lake George Stakes",
+      "Coaching Club American Oaks"
+    ]
+  },
+  {
+    "_id": 102409,
+    "track": "SAR",
+    "seasonRaceDay": 9,
+    "year":  2024,
+    "month": 7,
+    "day": 21,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072124USA.pdf",
+    "totalRaces": -1,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+      "Shuvee S."
+    ]
+  },
+  {
+    "_id": 102410,
+    "track": "SAR",
+    "seasonRaceDay": 10,
+    "year":  2024,
+    "month": 7,
+    "day": 24,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072424USA.pdf",
+    "totalRaces": -1,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+      "Honorable Miss H."
+    ]
+  },
+  {
     "_id": 202401,
     "track": "CBY",
     "seasonRaceDay": 1,
