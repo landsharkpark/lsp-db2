@@ -1753,11 +1753,11 @@
     "day": 19,
     "weekDay": "FRI",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071924USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 5,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 19610733,
     "comments": [
       "Curlin Stakes"
     ]
@@ -1771,11 +1771,11 @@
     "day": 20,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072024USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 12,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 6,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 26120351,
     "comments": [
       "Lake George Stakes",
       "Coaching Club American Oaks"
@@ -1790,11 +1790,11 @@
     "day": 21,
     "weekDay": "SUN",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072124USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 5,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 20323502,
     "comments": [
       "Shuvee S."
     ]
