@@ -1808,13 +1808,104 @@
     "day": 24,
     "weekDay": "WED",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072424USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 12170756,
+    "comments": [
+      "Honorable Miss H."
+    ]
+  },
+  {
+    "_id": 102411,
+    "track": "SAR",
+    "seasonRaceDay": 11,
+    "year":  2024,
+    "month": 7,
+    "day": 25,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072524USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 16566391,
+    "comments": [
+      "Caress S."
+    ]
+  },
+  {
+    "_id": 102412,
+    "track": "SAR",
+    "seasonRaceDay": 12,
+    "year":  2024,
+    "month": 7,
+    "day": 26,
+    "weekDay": "FRI",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072624USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 19973674,
+    "comments": [
+      "Amsterdam S. - G2"
+    ]
+  },
+  {
+    "_id": 102413,
+    "track": "SAR",
+    "seasonRaceDay": 13,
+    "year":  2024,
+    "month": 7,
+    "day": 27,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072724USA.pdf",
+    "totalRaces": 12,
+    "totalDirtRaces": 7,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 37219136,
+    "comments": [
+      "Alfred G. Vanderbilt - G1",
+      "Jim Dandy S. - G2"
+    ]
+  },
+  {
+    "_id": 102414,
+    "track": "SAR",
+    "seasonRaceDay": 14,
+    "year":  2024,
+    "month": 7,
+    "day": 28,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072824USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1917691,
+    "comments": [
+      "Bowling Green S."
+    ]
+  },
+  {
+    "_id": 102415,
+    "track": "SAR",
+    "seasonRaceDay": 15,
+    "year":  2024,
+    "month": 7,
+    "day": 31,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR073124USA.pdf",
     "totalRaces": -1,
     "totalDirtRaces": 0,
     "totalTurfRaces": 0,
     "totalOffTheTurfRaces": 0,
     "totalHandle": -1,
     "comments": [
-      "Honorable Miss H."
+      ""
     ]
   },
   {
@@ -2263,6 +2354,96 @@
     "totalTurfRaces": 4,
     "totalOffTheTurfRaces": 0,
     "totalHandle": 1632733,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202426,
+    "track": "CBY",
+    "seasonRaceDay": 26,
+    "year":  2024,
+    "month": 7,
+    "day": 24,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY072424USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 7,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1346832,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202427,
+    "track": "CBY",
+    "seasonRaceDay": 27,
+    "year":  2024,
+    "month": 7,
+    "day": 25,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY072524USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 918147,
+    "comments": [
+        "Canterbury Park Distaff Challenge S.- G3"
+    ]
+  },
+  {
+    "_id": 202428,
+    "track": "CBY",
+    "seasonRaceDay": 28,
+    "year":  2024,
+    "month": 7,
+    "day": 27,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY072724USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1129601,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202429,
+    "track": "CBY",
+    "seasonRaceDay": 29,
+    "year":  2024,
+    "month": 7,
+    "day": 28,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY072824USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 840856,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202430,
+    "track": "CBY",
+    "seasonRaceDay": 30,
+    "year":  2024,
+    "month": 7,
+    "day": 31,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY073124USA.pdf",
+    "totalRaces": -1,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
     "comments": [
         ""
     ]
