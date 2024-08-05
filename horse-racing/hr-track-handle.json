@@ -1899,6 +1899,99 @@
     "day": 31,
     "weekDay": "WED",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR073124USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 4,
+    "totalHandle": 7472062,
+    "comments": [
+      "De La Rose S."
+    ]
+  },
+  {
+    "_id": 102416,
+    "track": "SAR",
+    "seasonRaceDay": 16,
+    "year":  2024,
+    "month": 8,
+    "day": 1,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080124USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 1,
+    "totalOffTheTurfRaces": 4,
+    "totalHandle": 12621197,
+    "comments": [
+      "Glens Falls S."
+    ]
+  },
+  {
+    "_id": 102417,
+    "track": "SAR",
+    "seasonRaceDay": 17,
+    "year":  2024,
+    "month": 8,
+    "day": 2,
+    "weekDay": "FRI",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080224USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 19751191,
+    "comments": [
+      "Saratoga Oaks S.",
+      "Racing Hall of Fame S."
+    ]
+  },
+  {
+    "_id": 102418,
+    "track": "SAR",
+    "seasonRaceDay": 18,
+    "year":  2024,
+    "month": 8,
+    "day": 3,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080324USA.pdf",
+    "totalRaces": 11,
+    "totalDirtRaces": 7,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 4,
+    "totalHandle": 26991174,
+    "comments": [
+      "Test S.",
+      "Lure S.",
+      "Whitney S."
+    ]
+  },
+  {
+    "_id": 102419,
+    "track": "SAR",
+    "seasonRaceDay": 19,
+    "year":  2024,
+    "month": 8,
+    "day": 4,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080424USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 19482129,
+    "comments": [
+      "Adirondack S."
+    ]
+  },
+  {
+    "_id": 102420,
+    "track": "SAR",
+    "seasonRaceDay": 20,
+    "year":  2024,
+    "month": 8,
+    "day": 7,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080724USA.pdf",
     "totalRaces": -1,
     "totalDirtRaces": 0,
     "totalTurfRaces": 0,
@@ -2435,10 +2528,64 @@
     "track": "CBY",
     "seasonRaceDay": 30,
     "year":  2024,
-    "month": 7,
-    "day": 31,
-    "weekDay": "WED",
-    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY073124USA.pdf",
+    "month": 8,
+    "day": 1,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY080124USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 3,
+    "totalHandle": 745047,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202431,
+    "track": "CBY",
+    "seasonRaceDay": 31,
+    "year":  2024,
+    "month": 8,
+    "day": 3,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY080324USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1132828,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202432,
+    "track": "CBY",
+    "seasonRaceDay": 32,
+    "year":  2024,
+    "month": 8,
+    "day": 4,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY080424USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1182964,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202433,
+    "track": "CBY",
+    "seasonRaceDay": 33,
+    "year":  2024,
+    "month": 8,
+    "day": 8,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY080824USA.pdf",
     "totalRaces": -1,
     "totalDirtRaces": 0,
     "totalTurfRaces": 0,
