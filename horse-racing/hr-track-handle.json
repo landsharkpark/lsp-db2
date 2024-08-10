@@ -1992,6 +1992,96 @@
     "day": 7,
     "weekDay": "WED",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080724USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 3,
+    "totalHandle": 10416134,
+    "comments": [
+      "Johnstone Mile Handicap"
+    ]
+  },
+  {
+    "_id": 102421,
+    "track": "SAR",
+    "seasonRaceDay": 21,
+    "year":  2024,
+    "month": 8,
+    "day": 8,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080824USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 2,
+    "totalOffTheTurfRaces": 3,
+    "totalHandle": 13189387,
+    "comments": [
+      "John Morrisey Handicap"
+    ]
+  },
+  {
+    "_id": 102422,
+    "track": "SAR",
+    "seasonRaceDay": 22,
+    "year":  2024,
+    "month": 8,
+    "day": 9,
+    "weekDay": "FRI",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080924USA.pdf",
+    "totalRaces": -1,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+      "All races cancelled - weather (rain)"
+    ]
+  },
+  {
+    "_id": 102423,
+    "track": "SAR",
+    "seasonRaceDay": 23,
+    "year":  2024,
+    "month": 8,
+    "day": 10,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR081024USA.pdf",
+    "totalRaces": -1,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+      ""
+    ]
+  },
+  {
+    "_id": 102424,
+    "track": "SAR",
+    "seasonRaceDay": 24,
+    "year":  2024,
+    "month": 8,
+    "day": 11,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR081124USA.pdf",
+    "totalRaces": -1,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+      ""
+    ]
+  },
+  {
+    "_id": 102425,
+    "track": "SAR",
+    "seasonRaceDay": 25,
+    "year":  2024,
+    "month": 8,
+    "day": 14,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR081424USA.pdf",
     "totalRaces": -1,
     "totalDirtRaces": 0,
     "totalTurfRaces": 0,
@@ -2586,6 +2676,60 @@
     "day": 8,
     "weekDay": "THR",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY080824USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1034741,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202434,
+    "track": "CBY",
+    "seasonRaceDay": 34,
+    "year":  2024,
+    "month": 8,
+    "day": 10,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY081024USA.pdf",
+    "totalRaces": -1,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202435,
+    "track": "CBY",
+    "seasonRaceDay": 35,
+    "year":  2024,
+    "month": 8,
+    "day": 11,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY081124USA.pdf",
+    "totalRaces": -1,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202436,
+    "track": "CBY",
+    "seasonRaceDay": 36,
+    "year":  2024,
+    "month": 8,
+    "day": 15,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY081524USA.pdf",
     "totalRaces": -1,
     "totalDirtRaces": 0,
     "totalTurfRaces": 0,
