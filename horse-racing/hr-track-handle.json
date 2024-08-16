@@ -2086,13 +2086,13 @@
     "day": 14,
     "weekDay": "WED",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR081424USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 8,
+    "totalDirtRaces": 3,
+    "totalTurfRaces": 5,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 12821351,
     "comments": [
-      ""
+      "Suzie O'Cain Stakes"
     ]
   },
   {
@@ -2104,13 +2104,13 @@
     "day": 15,
     "weekDay": "THR",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR081524USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
-    "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 2,
+    "totalHandle": 13391076,
     "comments": [
-      ""
+      "Rick Violette Stakes"
     ]
   },
   {
@@ -2824,11 +2824,11 @@
     "day": 15,
     "weekDay": "THR",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY081524USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
     "totalTurfRaces": 0,
-    "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalOffTheTurfRaces": 3,
+    "totalHandle": 1001064,
     "comments": [
         ""
     ]
