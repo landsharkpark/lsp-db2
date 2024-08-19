@@ -2122,13 +2122,14 @@
     "day": 16,
     "weekDay": "FRI",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR081624USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
-    "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalRaces": 11,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 2,
+    "totalHandle": 17993270,
     "comments": [
-      ""
+      "Skidmore Stakes",
+      "Union Avenue Handicap"
     ]
   },
   {
@@ -2140,13 +2141,14 @@
     "day": 17,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR081724USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 12,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 6,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 34040881,
     "comments": [
-      ""
+      "Lake Placid Stakes",
+      "Alabama Stakes"
     ]
   },
   {
@@ -2158,13 +2160,14 @@
     "day": 18,
     "weekDay": "SUN",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR081824USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
+    "totalRaces": 11,
+    "totalDirtRaces": 6,
     "totalTurfRaces": 0,
-    "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalOffTheTurfRaces": 5,
+    "totalHandle": 19433798,
     "comments": [
-      ""
+      "Evan Shipman Handicap",
+      "Bolton Landing Stakes"
     ]
   },
   {
@@ -2842,11 +2845,11 @@
     "day": 17,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY081724USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 1157821,
     "comments": [
         ""
     ]
@@ -2860,11 +2863,11 @@
     "day": 18,
     "weekDay": "SUN",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY081824USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
-    "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalRaces": 9,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 1,
+    "totalOffTheTurfRaces": 3,
+    "totalHandle": 1145698,
     "comments": [
         ""
     ]
