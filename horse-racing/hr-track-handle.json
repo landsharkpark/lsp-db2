@@ -2179,6 +2179,124 @@
     "day": 21,
     "weekDay": "WED",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082124USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 1,
+    "totalOffTheTurfRaces": 4,
+    "totalHandle": 10349036,
+    "comments": [
+      "John's Call Stakes"
+    ]
+  },
+  {
+    "_id": 102431,
+    "track": "SAR",
+    "seasonRaceDay": 31,
+    "year":  2024,
+    "month": 8,
+    "day": 22,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082224USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 13152637,
+    "comments": [
+      "Ballston Spa Stakes"
+    ]
+  },
+  {
+    "_id": 102432,
+    "track": "SAR",
+    "seasonRaceDay": 32,
+    "year":  2024,
+    "month": 8,
+    "day": 23,
+    "weekDay": "FRI",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082324USA.pdf",
+    "totalRaces": 12,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 6,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 24514016,
+    "comments": [
+      "Smart N Fancy Stakes",
+      "Personal Ensign Stakes"
+    ]
+  },
+  {
+    "_id": 102433,
+    "track": "SAR",
+    "seasonRaceDay": 33,
+    "year":  2024,
+    "month": 8,
+    "day": 24,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082424USA.pdf",
+    "totalRaces": -1,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+      "Sword Dancer Stakes",
+      "Ballerina H.",
+      "Forego S.",
+      "H. Allen Jerkins Memorial S.",
+      "Travers S."
+    ]
+  },
+  {
+    "_id": 102434,
+    "track": "SAR",
+    "seasonRaceDay": 34,
+    "year":  2024,
+    "month": 8,
+    "day": 25,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082524USA.pdf",
+    "totalRaces": -1,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+      "Seeking the Ante S.",
+      "West Point H.",
+      "Albany S.",
+      "Fleet Indian S.",
+      "Funny Cide S.",
+      "Yaddo H."
+    ]
+  },
+  {
+    "_id": 102435,
+    "track": "SAR",
+    "seasonRaceDay": 35,
+    "year":  2024,
+    "month": 8,
+    "day": 28,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082824USA.pdf",
+    "totalRaces": -1,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+      "P. G. Johnson S."
+    ]
+  },
+  {
+    "_id": 102436,
+    "track": "SAR",
+    "seasonRaceDay": 36,
+    "year":  2024,
+    "month": 8,
+    "day": 29,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082924USA.pdf",
     "totalRaces": -1,
     "totalDirtRaces": 0,
     "totalTurfRaces": 0,
@@ -2881,6 +2999,42 @@
     "day": 22,
     "weekDay": "THR",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY082224USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 789250,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202440,
+    "track": "CBY",
+    "seasonRaceDay": 40,
+    "year":  2024,
+    "month": 8,
+    "day": 24,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY082424USA.pdf",
+    "totalRaces": -1,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202441,
+    "track": "CBY",
+    "seasonRaceDay": 41,
+    "year":  2024,
+    "month": 8,
+    "day": 25,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY082524USA.pdf",
     "totalRaces": -1,
     "totalDirtRaces": 0,
     "totalTurfRaces": 0,
