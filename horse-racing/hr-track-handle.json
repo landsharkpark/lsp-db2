@@ -2279,11 +2279,11 @@
     "day": 28,
     "weekDay": "WED",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082824USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 12117441,
     "comments": [
       "P. G. Johnson S."
     ]
@@ -2297,13 +2297,13 @@
     "day": 29,
     "weekDay": "THR",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082924USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 11,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 5,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 15014074,
     "comments": [
-      ""
+      "With Anticipation Stakes"
     ]
   },
   {
@@ -3125,11 +3125,11 @@
     "day": 29,
     "weekDay": "THR",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY082924USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
     "totalTurfRaces": 0,
-    "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalOffTheTurfRaces": 4,
+    "totalHandle": 641491,
     "comments": [
         ""
     ]
