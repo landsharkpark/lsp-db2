@@ -2315,13 +2315,13 @@
     "day": 30,
     "weekDay": "FRI",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR083024USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 12,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 6,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 21383156,
     "comments": [
-      ""
+      "Saranac Stakes"
     ]
   },
   {
@@ -2333,13 +2333,15 @@
     "day": 31,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR083124USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
-    "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalRaces": 13,
+    "totalDirtRaces": 7,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 1,
+    "totalHandle": 27852907,
     "comments": [
-      ""
+      "Prioress Stakes",
+      "Spinaway Stakes",
+      "Flower Bowl Stakes"
     ]
   },
   {
@@ -3143,13 +3145,13 @@
     "day": 31,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY083124USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 8,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 2,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 968133,
     "comments": [
-        ""
+        "MN Festival of Champions"
     ]
   },
   {
