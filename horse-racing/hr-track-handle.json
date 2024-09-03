@@ -2353,13 +2353,14 @@
     "day": 1,
     "weekDay": "SUN",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR090124USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 13,
+    "totalDirtRaces": 7,
+    "totalTurfRaces": 6,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 27764990,
     "comments": [
-      ""
+      "Bernard Baruch Stakes",
+      "Jockey Club Gold Stakes"
     ]
   },
   {
@@ -2371,13 +2372,14 @@
     "day": 2,
     "weekDay": "MON",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR090224USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 12,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 6,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 27493753,
     "comments": [
-      ""
+      "Harvey Pack Stakes",
+      "Hopeful Stakes"
     ]
   },
   {
@@ -3163,11 +3165,11 @@
     "day": 1,
     "weekDay": "SUN",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY090124USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 1211626,
     "comments": [
         ""
     ]
@@ -3181,11 +3183,11 @@
     "day": 2,
     "weekDay": "MON",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY090224USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 918638,
     "comments": [
         ""
     ]
@@ -3199,6 +3201,24 @@
     "day": 5,
     "weekDay": "THR",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY090524USA.pdf",
+    "totalRaces": -1,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202447,
+    "track": "CBY",
+    "seasonRaceDay": 47,
+    "year":  2024,
+    "month": 9,
+    "day": 7,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY090724USA.pdf",
     "totalRaces": -1,
     "totalDirtRaces": 0,
     "totalTurfRaces": 0,
