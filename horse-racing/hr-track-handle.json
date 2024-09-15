@@ -3237,11 +3237,11 @@
     "day": 12,
     "weekDay": "THR",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY091224USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 879420,
     "comments": [
         ""
     ]
@@ -3255,6 +3255,42 @@
     "day": 14,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY091424USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1056586,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202450,
+    "track": "CBY",
+    "seasonRaceDay": 50,
+    "year":  2024,
+    "month": 9,
+    "day": 19,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY091924USA.pdf",
+    "totalRaces": -1,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+        ""
+    ]
+  },
+  {
+    "_id": 202451,
+    "track": "CBY",
+    "seasonRaceDay": 51,
+    "year":  2024,
+    "month": 9,
+    "day": 21,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY092124USA.pdf",
     "totalRaces": -1,
     "totalDirtRaces": 0,
     "totalTurfRaces": 0,
