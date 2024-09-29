@@ -3309,11 +3309,11 @@
     "day": 25,
     "weekDay": "WED",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY092524USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 1307456,
     "comments": [
         "CBY $300 'LAST CHANCE' Qualifer tournaments"
     ]
@@ -3327,13 +3327,13 @@
     "day": 26,
     "weekDay": "THR",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY092624USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 1343599,
     "comments": [
-        "CBY BCBC/NHC Challenge"
+        "CBY BCBC/NHC Challenge Qualifier Tournament"
     ]
   },
   {
@@ -3345,11 +3345,11 @@
     "day": 28,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY092824USA.pdf",
-    "totalRaces": -1,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 9,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 4,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 1700453,
     "comments": [
         ""
     ]
