@@ -2930,7 +2930,7 @@
   {
     "_id": 18,
     "date": "20241102",
-    "cardDesc": "BC 2024 SAT - Future Stars Friday",
+    "cardDesc": "BC 2024 SAT - Championships Saturday",
     "track": "Del Mar",
     "weekday": "saturday",
     "race": [
@@ -3066,7 +3066,7 @@
       },
       {
         "raceNum": "9",
-        "raceName": "BC Fillies and Mares Turf (G1)",
+        "raceName": "BC Filly and Mare Turf (G1)",
         "tv": "USA, FANDUEL TV",
         "bcweekend": true,
         "bcwcrace": true,
@@ -3082,7 +3082,7 @@
       },
       {
         "raceNum": "10",
-        "raceName": "BC Fillies and Mares Sprint (G1)",
+        "raceName": "BC Sprint (G1)",
         "tv": "USA, FANDUEL TV",
         "bcweekend": true,
         "bcwcrace": true,
@@ -3114,7 +3114,7 @@
       },
       {
         "raceNum": "12",
-        "raceName": "BC Sprint (G1)",
+        "raceName": "BC Dirt Mile (G1)",
         "tv": "FANDUEL TV",
         "bcweekend": true,
         "bcwcrace": false,
