@@ -2770,11 +2770,11 @@
     "race": [
       {
         "raceNum": "1",
-        "raceName": "Ocean View",
+        "raceName": "Allowance Optional Claiming",
         "tv": "FANDUEL TV",
         "bcweekend": true,
         "bcwcrace": false,
-        "purse": "$40,000",
+        "purse": "$150,000",
         "postTime": "1:35 PM",
         "stakesrace": false,
         "distance": "6 1/2 Furlongs",
@@ -2782,19 +2782,23 @@
         "picks": "5-9-6-1",
         "officialResults": "TBD",
         "preRaceComments": [
+          "Eary Pick 5 (Races 1 - 5) $96",
+          "5 / 1,3,6 / 1,2,5,6 / 3,5,6,10 / 3,4",
+          "(5) Red Flag - nervous single to kick things off",
+          "(6) Skinner, (9) Dothraki - like the horses, betting against the layoff"
         ],
         "postRaceComments": [
         ]
       },
       {
         "raceNum": "2",
-        "raceName": "The Thoroughbred Aftercare Alliance Stakes",
+        "raceName": "Senator Ken Maddy Stakes",
         "tv": "FANDUEL TV",
         "bcweekend": true,
         "bcwcrace": false,
         "purse": "$200,000",
         "postTime": "2:10 PM",
-        "stakesrace": false,
+        "stakesrace": true,
         "distance": "5 Furlongs",
         "surface": "Turf",
         "picks": "6-1-3-2",
@@ -2804,13 +2808,13 @@
       },
       {
         "raceNum": "3",
-        "raceName": "Golden State Juvenile S",
+        "raceName": "Golden State Juvenile Fillies S",
         "tv": "FANDUEL TV",
         "bcweekend": true,
         "bcwcrace": false,
         "purse": "$175,000",
         "postTime": "2:45 PM",
-        "stakesrace": false,
+        "stakesrace": true,
         "distance": "7 Furlongs",
         "surface": "Dirt",
         "picks": "5-1-2-6",
@@ -2820,16 +2824,16 @@
       },
       {
         "raceNum": "4",
-        "raceName": "Senator Ken Maddy Stakes",
+        "raceName": "The Throughbred Aftercare Alliance Stakes",
         "tv": "USA, FANDUEL TV",
         "bcweekend": true,
         "bcwcrace": false,
         "purse": "$200,000",
         "postTime": "3:25 PM",
-        "stakesrace": false,
+        "stakesrace": true,
         "distance": "1 Mile",
         "surface": "Turf",
-        "picks": "6-5-3-10",
+        "picks": "10-3-5-6",
         "officialResults": "TBD",
         "preRaceComments": [],
         "postRaceComments": []
@@ -2863,7 +2867,9 @@
         "surface": "Turf",
         "picks": "9-7-2-8",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "Going with foreign invaders on the turf - at least to start"
+        ],
         "postRaceComments": []
       },
       {
@@ -2879,7 +2885,11 @@
         "surface": "Dirt",
         "picks": "3-2-10-9",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(3) Immersive - consistent, good looking Nyquist filly",
+          "(2) Snowyte - Fast starter, Saez, good post",
+          "(10) Scottish Lassie - winner of Friette, tough post in this race"
+        ],
         "postRaceComments": []
       },
       {
@@ -2895,7 +2905,9 @@
         "surface": "Turf",
         "picks": "1-4-5-7",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(1) Lake Victoria - top horse, could be the best bet of the day"
+        ],
         "postRaceComments": []
       },
       {
@@ -2911,7 +2923,10 @@
         "surface": "Dirt",
         "picks": "1-10-4-5",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(1) East Avenue - Fast starter, post, PP - a lot in his favor going into race",
+          "(10) Chaner McPatrick - I love this horse, but don't like this post"
+        ],
         "postRaceComments": []
       },
       {
@@ -2927,7 +2942,11 @@
         "surface": "Turf",
         "picks": "4-12-13-11",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "Tough race to handicap - lots of good, young horses",
+          "(4) Al Qudra - terrible luck in last race, great closing speed",
+          "(9) The Waco Kid - Davy Lane pick, so I'm interested how he performs"
+        ],
         "postRaceComments": []
       }
     ]
