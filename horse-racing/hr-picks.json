@@ -2971,7 +2971,7 @@
     "raceDayNotes": [
       ""
     ],
-    "latePick5": "1,3,9,11 / 2,3,4,7 / 3,8 / 4,6 /  6,9,10",
+    "latePick5": "1,3,9,11 / 2,3,4,7 / 3,8 / 6,12 /  6,9,10",
     "latePick5Cost": "$96 (Races 8 - 12)",
     "race": [
       {
@@ -2986,10 +2986,12 @@
         "distance": "1 1/16 Miles",
         "surface": "Turf",
         "picks": "6-3-10-11",
-        "officialResults": "TBD",
+        "officialResults": "14-6-7-12",
         "preRaceComments": [
         ],
         "postRaceComments": [
+          "(14) Tisquantum - AE drew in; 25-1; off a 15 month layoff",
+          "(6) Canada Gate - overall good race; not enough to finish race"
         ]
       },
       {
@@ -3004,8 +3006,11 @@
         "distance": "1 Mile",
         "surface": "Dirt",
         "picks": "3-4-7-2",
-        "officialResults": "TBD",
-        "preRaceComments": [],
+        "officialResults": "3-4-2-1",
+        "preRaceComments": [
+          "Early Pick 4 (Races 2 - 5) $18",
+          "3 / 1,2,4 / 6,7,9 / 1,2,9,12"
+        ],
         "postRaceComments": []
       },
       {
@@ -3019,8 +3024,8 @@
         "stakesrace": true,
         "distance": "1 Mile",
         "surface": "Turf",
-        "picks": "1-4-6-2",
-        "officialResults": "TBD",
+        "picks": "1-4-2-6",
+        "officialResults": "10-11-2-4",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -3036,7 +3041,7 @@
         "distance": "7 Furlongs",
         "surface": "Dirt",
         "picks": "9-6-4-7",
-        "officialResults": "TBD",
+        "officialResults": "8-6-3-10",
         "preRaceComments": [
           "Middle Pick-5 (Races 4 - 8) $30",
           "4,6,7,9 / 9 / 2 / 2,4,6,10,11 / 1,3,9"
@@ -3054,10 +3059,13 @@
         "stakesrace": true,
         "distance": "5 Furlongs",
         "surface": "Turf",
-        "picks": "9-11-2-1",
-        "officialResults": "TBD",
+        "picks": "9-6-2-12",
+        "officialResults": "4-5-2-6",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "30/1 over 12/1 over 9/1 over 7/1",
+          "(9) Cogburn - great early start, tired, could not finish"
+        ]
       },
       {
         "raceNum": "6",
@@ -3071,7 +3079,7 @@
         "distance": "1 1/8 Miles",
         "surface": "Dirt",
         "picks": "2-6-9-1",
-        "officialResults": "TBD",
+        "officialResults": "2-6-1-4",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -3087,7 +3095,7 @@
         "distance": "1 1/2 Miles",
         "surface": "Turf",
         "picks": "4-2-11-6",
-        "officialResults": "TBD",
+        "officialResults": "11-1-3-12",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -3103,7 +3111,7 @@
         "distance": "1 1/4 Miles",
         "surface": "Dirt",
         "picks": "9-1-3-11",
-        "officialResults": "TBD",
+        "officialResults": "11-9-1-13",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -3116,10 +3124,10 @@
         "purse": "$2,000,000",
         "postTime": "5:25 PM",
         "stakesrace": true,
-        "distance": "3-4-2-7",
+        "distance": "1 3/8 Miles",
         "surface": "Dirt",
-        "picks": "TBD",
-        "officialResults": "TBD",
+        "picks": "3-4-2-7",
+        "officialResults": "10-3-5-1",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -3135,7 +3143,7 @@
         "distance": "6 Furlongs",
         "surface": "Dirt",
         "picks": "3-8-11-10",
-        "officialResults": "TBD",
+        "officialResults": "8-6-10-2",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -3151,7 +3159,7 @@
         "distance": "1 Mile",
         "surface": "Turf",
         "picks": "6-4-12-7",
-        "officialResults": "TBD",
+        "officialResults": "8-9-6-11",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -3167,7 +3175,7 @@
         "distance": "1 Mile",
         "surface": "Dirt",
         "picks": "6-10-9-1",
-        "officialResults": "TBD",
+        "officialResults": "3-8-9-7",
         "preRaceComments": [],
         "postRaceComments": []
       }
